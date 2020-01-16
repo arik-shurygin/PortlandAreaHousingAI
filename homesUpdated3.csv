@@ -1,0 +1,842 @@
+,Street,Price,Beds,Baths,Square Footage,Total Taxes,Elementary School,Middle School,High School,Year built
+0,1930 SW River Dr ,700000,2,2,1500,24386,Ainsworth Elementary School,West Sylvan Middle School,Lincoln High School,2006
+1,16613 SE Lillian Way,405000,3,2,2102,5789,Butler Creek Elementary School,Centennial Middle School,Centennial High School,1987
+2,6615 SE 21st Ave,465000,2,1,1573,4822,Llewellyn Elementary School,Sellwood Middle School,Cleveland High School,1924
+3,12424 SE Bybee Blvd,375000,3,2,2481,5193,Gilbert Park Elementary School,Alice Ott Middle School,David Douglas High School,1954
+4,336 NE Morgan St,300000,3,2,1225,4916,Woodlawn Elementary School,Ockley Green School,Jefferson or Roosevelt High Schools,2008
+5,3291 NE Irving St,699900,4,3,3357,9306,Laurelhurst Elementary School,Laurelhurst Elementary School,Grant High School,1922
+6,5105 SW Evelyn St,389000,3,2,1470,6166,Markham Elementary School,Jackson Middle School,Wilson High School,1975
+7,3571 NE Killingsworth St,399900,2,1,1199,2207,Rigler Elementary School,Beaumont Middle School,Madison High School,1924
+8,7338 N Fowler Ave,575000,3,2,3125,7487,Peninsula Elementary School,Ockley Green School,Jefferson or Roosevelt High Schools,1942
+9,11615 SE Lexington St,435000,5,3,2554,5112,Gilbert Park Elementary School,Alice Ott Middle School,David Douglas High School,1964
+10,3432 NE 131st Ave,389900,4,2,1913,4970,Shaver Elementary School,Parkrose Middle School,Parkrose High School,1962
+11,3639 SE Yamhill St,849900,4,3,5193,7933,Sunnyside Environmental School,Sunnyside Environmental School,Franklin High School,1910
+12,9712 N Ivanhoe St,549900,3,2,2192,6935,Sitton Elementary School,George Middle School,Roosevelt High School,2011
+13,7301 SW Corbett Ave,523000,3,2,2100,9921,Rieke Elementary School,Gray Middle School,Wilson High School,1989
+14,5916 SW Knightsbridge Dr,615000,3,2,3024,10530,Markham Elementary School,Jackson Middle School,Wilson High School,1989
+15,2105 SE 89th Ave,399900,2,1,1632,3204,Harrison Park School,Harrison Park School,Madison High School,1929
+16,7308 SE Woodward St,469950,3,2,2298,4950,Bridger Elementary School,Bridger Elementary School,Franklin High School,1956
+17,4521 SW Fairview Blvd,749900,4,3,3114,10819,Ainsworth Elementary School,West Sylvan Middle School,Lincoln High School,1992
+18,1500 SW 5th Ave ,1450000,3,2,2436,8218,Chapman Elementary School,West Sylvan Middle School,Lincoln High School,1973
+19,1906 NE Junior St,420000,4,1,1520,4060,Faubion Elementary School,Faubion Elementary School,Jefferson or Madison High Schools,1973
+20,6431 SE Morrison St,599000,3,2,2478,5315,Glencoe Elementary School,Mt Tabor Middle School,Franklin High School,1927
+21,5607 SE Lambert St,349950,2,1,978,3288,Lewis Elementary School,Sellwood Middle School,Cleveland High School,1928
+22,6925 NE Siskiyou St,349900,3,1,1878,3750,Rose City Park,Roseway Heights School,Madison High School,1912
+23,322 NE 76th Ave,450000,4,2,2144,3820,Vestal Elementary School,Roseway Heights School,Madison High School,1909
+24,7419 N Washburne Ave,635000,3,2,3064,5582,Peninsula Elementary School,Ockley Green School,Jefferson or Roosevelt High Schools,1941
+25,10230 NW Gloaming Ln,831300,4,3,3110,18088,Forest Park Elementary School,West Sylvan Middle School,Lincoln High School,2005
+26,12280 SE Main St,199900,2,1,962,1968,Menlo Park Elementary School,Floyd Light Middle School,David Douglas High School,1966
+27,5875 NE Failing St,549900,3,3,2200,5138,Scott Elementary School,Roseway Heights School,Madison High School,1925
+28,7230 N Monteith Ave,369900,3,1,1016,3533,Astor Elementary School,Astor Elementary School,Roosevelt High School,1948
+29,5230 SW Burton Dr,1390000,5,3,3394,17207,Bridlemile Elementary School,West Sylvan Middle School,Lincoln High School,1941
+30,1220 NE 17th Ave ,258000,2,1,962,2920,Buckman Elementary School,Hosford Middle School,Cleveland High School,1963
+31,5522 SE Ramona St,599900,4,2,2812,5172,Woodstock Elementary School,Hosford Middle School,Cleveland High School,1912
+32,6143 SW 45th Ave,425000,3,1,1330,5030,Hayhurst Elementary School,Gray Middle School,Wilson High School,1951
+33,230 N Lotus Isle Dr,785000,5,4,3530,12576,Faubion Elementary School,Faubion Elementary School,Jefferson or Roosevelt High Schools,1989
+34,1255 NW 9th Ave ,450000,1,1,943,4873,Chapman Elementary School,West Sylvan Middle School,Lincoln High School,2004
+35,9938 N Jersey St,225000,3,1,936,2648,Sitton Elementary School,George Middle School,Roosevelt High School,1955
+36,9946 N Jersey St,225000,3,1,936,2626,Sitton Elementary School,George Middle School,Roosevelt High School,1955
+37,1931 SE 58th Ave,414900,2,1,2300,6706,Atkinson Elementary School,Mt Tabor Middle School,Franklin High School,1926
+38,4048 SE Salmon St,665000,3,2,2460,3774,Sunnyside Environmental School,Sunnyside Environmental School,Franklin High School,1900
+39,2705 N Hunt St,419999,3,2,1602,2309,Peninsula Elementary School,Ockley Green School,Jefferson or Roosevelt High Schools,1923
+40,3103 SW Nottingham Dr,685000,3,2,2106,12056,Ainsworth Elementary School,West Sylvan Middle School,Lincoln High School,1979
+41,9428 N Haven Ave,389900,3,2,1818,5727,Rosa Parks Elementary School,George Middle School,Roosevelt High School,2006
+42,7125 N Albina Ave,349000,2,1,1596,3072,Woodlawn Elementary School,Ockley Green School,Jefferson or Roosevelt High Schools,1956
+43,5525 NW Skyline Blvd,1100000,4,3,4562,13067,Skyline Elementary School,Skyline Elementary School,Lincoln High School,1995
+44,2719 N Farragut St,469500,4,2,2593,3785,Peninsula Elementary School,Ockley Green School,Jefferson or Roosevelt High Schools,1913
+45,1715 SE 36th Ave,589000,4,2,2423,4486,Abernethy Elementary School,Hosford Middle School,Cleveland High School,1911
+46,11203 SW 27th Ave,556900,4,2,2152,8215,Stephenson Elementary School,Jackson Middle School,Wilson High School,1996
+47,5924 SE Cesar E Chavez Blvd,649000,4,2,2498,5955,Woodstock Elementary School,Hosford Middle School,Cleveland High School,1946
+48,3205 NE 75th Ave,594900,5,2,2194,5460,Lee Elementary School,Roseway Heights School,Madison High School,1929
+49,416 NW 13th Ave ,450000,1,1,1089,6433,Chapman Elementary School,West Sylvan Middle School,Lincoln High School,1910
+50,6625 SE Duke St,339900,3,2,2053,4017,Woodstock Elementary School,Hosford Middle School,Cleveland High School,1948
+51,12631 SE Stephens St,258000,2,1,888,2767,Mill Park Elementary School,Ron Russell Middle School,David Douglas High School,1948
+52,2915 N Hunt St,419000,4,1,1296,3047,Peninsula Elementary School,Ockley Green School,Jefferson or Roosevelt High Schools,1951
+53,11937 SE Schiller St,350000,3,2,2604,4166,West Powellhurst Elementary School,Ron Russell Middle School,David Douglas High School,2000
+54,7904 SW Capitol Hill,475000,3,2,2053,5416,Rieke Elementary School,Gray Middle School,Wilson High School,1953
+55,122 NW Pittock Ave,735000,3,3,3426,9919,Chapman Elementary School,West Sylvan Middle School,Lincoln High School,1947
+56,14545 NE Brazee Ct,349999,4,2,1898,3650,Margaret Scott Elementary School,Hauton B Lee Middle School,Reynolds High School,1961
+57,6236 NE Willow St,415000,3,2,1072,3340,Glencoe Elementary School,Mt Tabor Middle School,Franklin High School,1979
+58,8037 SW Devon Ln,539500,3,2,1890,7117,Maplewood Elementary School,Jackson Middle School,Wilson High School,1996
+59,6225 SE 13th Ave,569900,3,2,2072,6426,Llewellyn Elementary School,Sellwood Middle School,Cleveland High School,1961
+60,6035 SE Knight St,360000,3,1,1476,3619,Woodstock Elementary School,Hosford Middle School,Cleveland High School,1928
+61,8317 SE Clay St,389900,3,2,1850,6077,Harrison Park School,Harrison Park School,Madison High School,2000
+62,14952 SE Caruthers Ct ,140000,2,1,956,2484,Parklane Elementary School,Centennial Middle School,Centennial High School,1970
+63,311 NW 12th Ave ,1299000,2,2,2117,19004,Chapman Elementary School,West Sylvan Middle School,Lincoln High School,2007
+64,8618 N Edison St ,359900,2,2,968,1330,James John Elementary School,George Middle School,Roosevelt High School,1905
+65,8622 N Edison St ,374900,2,2,915,1330,James John Elementary School,George Middle School,Roosevelt High School,1905
+66,3269 NE Dekum St,429999,3,2,1976,3274,Faubion Elementary School,Faubion Elementary School,Jefferson or Madison High Schools,1952
+67,3231 SE Schiller St,595000,3,2,2644,7585,Grout Elementary School,Hosford Middle School,Cleveland High School,1967
+68,2222 SE 135th Ave,349000,3,1,1184,3767,Lincoln Park Elementary School,Ron Russell Middle School,David Douglas High School,1968
+69,2033 NE 95th Pl,459000,3,1,1944,5263,Lee Elementary School,Roseway Heights School,Madison High School,1959
+70,4516 NE 86th Ave,332500,2,1,800,2279,Russell Elementary,Parkrose Middle School,Parkrose High School,1926
+71,4016 SW Patton Rd,611900,3,2,2515,9117,Bridlemile Elementary School,Gray Middle School,Wilson High School,1976
+72,7522 SE Rural St,389900,4,2,1883,3172,Woodmere Elementary School,Lane Middle School,Franklin High School,1911
+73,3671 SE Knapp St,814900,4,2,2686,8900,Duniway Elementary School,Sellwood Middle School,Cleveland High School,2017
+74,5312 NE 12th Ave,540000,4,2,2054,1907,Vernon Elementary School,Vernon Elementary School,Jefferson or Madison High Schools,1911
+75,3606 SE Johnson Creek Blvd,484860,3,2,2042,4158,Duniway Elementary School,Sellwood Middle School,Cleveland High School,1954
+76,5120 N Albina Ave,199000,2,1,2561,2911,Boise-Eliot Elementary School,Harriet Tubman Middle School,Jefferson or Grant High Schools,1905
+77,3211 SE 22nd Ave,549000,3,2,1774,4638,Abernethy Elementary School,Hosford Middle School,Cleveland High School,1923
+78,324 NE Morgan St ,310000,3,2,1371,4999,Woodlawn Elementary School,Ockley Green School,Jefferson or Roosevelt High Schools,2008
+79,9805 N Clarendon Ave,300000,3,1,1326,3201,Cesar Chavez K-8 School,Cesar Chavez K-8 School,Roosevelt High School,1962
+80,9216 SE Market St,425000,3,2,1740,4843,Harrison Park School,Harrison Park School,Madison High School,1970
+81,4855 SE 65th Ave,565000,4,2,2298,5472,Arleta Elementary School,Arleta Elementary School,Franklin High School,1905
+82,2547 NW Upshur St,999000,2,3,4172,17969,Chapman Elementary School,West Sylvan Middle School,Lincoln High School,1999
+83,12504 SE Stark St ,170000,2,2,980,1948,Menlo Park Elementary School,Floyd Light Middle School,David Douglas High School,1984
+84,1146 NE 69th Ave,407000,3,2,1246,3874,Vestal Elementary School,Roseway Heights School,Madison High School,1954
+85,17163 SE Alder St,339999,4,2,1535,3102,Alder Elementary School,Hauton B Lee Middle School,Reynolds High School,2012
+86,3134 SE 134th Ave,430000,5,2,3218,4545,Lincoln Park Elementary School,Ron Russell Middle School,David Douglas High School,1955
+87,2162 SE 139th Ave,315000,3,1,1384,3606,Lincoln Park Elementary School,Ron Russell Middle School,David Douglas High School,1926
+88,2242 NE 158th Ave,350000,2,2,1344,5152,Margaret Scott Elementary School,Hauton B Lee Middle School,Reynolds High School,1990
+89,8431 NW Adams St,657100,3,2,3831,13445,Forest Park Elementary School,West Sylvan Middle School,Lincoln High School,1997
+90,8225 SE Morrison St,379900,4,2,1003,2635,Harrison Park School,Harrison Park School,Madison High School,1963
+91,6410 SW Seymour St,625000,6,2,3831,8916,Bridlemile Elementary School,Gray Middle School,Wilson High School,1962
+92,1723 SE Harney St,734950,5,3,2765,4336,Duniway Elementary School,Sellwood Middle School,Cleveland High School,1910
+93,3803 SE 28th Ave,380000,2,1,1904,3109,Grout Elementary School,Hosford Middle School,Cleveland High School,1923
+94,12231 NE Russell St,339900,3,1,1389,3285,Russell Elementary,Parkrose Middle School,Parkrose High School,1956
+95,13109 SE Cora St,269000,4,3,2706,4384,Gilbert Heights Elementary School,Alice Ott Middle School,David Douglas High School,1949
+96,9636 N Woolsey Ave,367000,4,2,1606,3515,Rosa Parks Elementary School,George Middle School,Roosevelt High School,2008
+97,13220 SE Harold St,499900,4,2,2028,5692,Gilbert Park Elementary School,Alice Ott Middle School,David Douglas High School,1969
+98,3030 SW Ridge Dr,599900,4,2,3052,7673,Stephenson Elementary School,Jackson Middle School,Wilson High School,1968
+99,7114 SE Mitchell St,379900,3,1,1763,3497,Arleta Elementary School,Arleta Elementary School,Franklin High School,1908
+100,13639 NE Marine Dr,699900,3,2,2312,6652,Shaver Elementary School,Parkrose Middle School,Parkrose High School,1968
+101,3172 NE 102nd Ave,299000,2,2,1708,2562,Sacramento Elementary School,Parkrose Middle School,Parkrose High School,1924
+102,10717 NW Skyline Blvd,1600000,4,5,5873,26928,Skyline Elementary School,Skyline Elementary School,Lincoln High School,2007
+103,7720 SW Macadam Ave ,645000,1,1,748,22496,Capitol Hill Elementary School,Jackson Middle School,Wilson High School,1986
+104,6065 SW Taylor St,625000,4,3,2236,9909,Bridlemile Elementary School,West Sylvan Middle School,Lincoln High School,1993
+105,7604 SW 35th Ave,795000,2,1,1680,4807,Maplewood Elementary School,Jackson Middle School,Wilson High School,1922
+106,5904 NE Sandy Blvd,655000,2,1,2264,5257,Rose City Park,Roseway Heights School,Madison High School,1919
+107,4900 SW Boundary St,399000,3,1,1396,5258,Hayhurst Elementary School,Gray Middle School,Wilson High School,1952
+108,839 SW Broadway Dr ,275000,2,1,875,4597,Ainsworth Elementary School,West Sylvan Middle School,Lincoln High School,1968
+109,12829 SE Madison St,457000,4,2,2224,4677,Menlo Park Elementary School,Floyd Light Middle School,David Douglas High School,1960
+110,43 SE 89th Ave,289000,2,1,1196,2937,Vestal Elementary School,Roseway Heights School,Madison High School,1931
+111,6045 NE Flanders St,725000,2,4,2387,9053,Glencoe Elementary School,Mt Tabor Middle School,Franklin High School,1915
+112,414 N Bridgeton Rd,449000,2,2,2344,7643,Faubion Elementary School,Faubion Elementary School,Jefferson or Roosevelt High Schools,1997
+113,1826 NE Highland St,899000,4,2,2846,3283,Vernon Elementary School,Vernon Elementary School,Jefferson or Madison High Schools,1951
+114,8441 SW 10th Ave,419900,2,1,1250,4973,Capitol Hill Elementary School,Jackson Middle School,Wilson High School,1971
+115,8122 SE 74th Ave,290000,5,1,1613,3197,Whitman Elementary School,Lane Middle School,Cleveland High School,1950
+116,12253 SE Long St,254950,2,2,1860,3179,Gilbert Heights Elementary School,Alice Ott Middle School,David Douglas High School,2001
+117,2340 N Winchell St,434900,3,1,1028,3601,Peninsula Elementary School,Ockley Green School,Jefferson or Roosevelt High Schools,1910
+118,110 SE 73rd Ave,282000,2,1,762,3264,Vestal Elementary School,Roseway Heights School,Madison High School,1963
+119,875 N Watts St,399900,2,1,976,3003,Woodlawn Elementary School,Ockley Green School,Jefferson or Roosevelt High Schools,1952
+120,4923 SW Lowell St,689000,3,3,2366,9682,Bridlemile Elementary School,Gray Middle School,Wilson High School,1949
+121,9719 NW Silver Ridge Loop,381900,2,2,1419,6634,Forest Park Elementary School,West Sylvan Middle School,Lincoln High School,1994
+122,3440 NE 63rd Ave,589950,4,2,3058,7563,Scott Elementary School,Roseway Heights School,Madison High School,1915
+123,15424 SE Tibbetts St,399000,2,2,1128,3548,Powell Butte Elementary School,Centennial Middle School,Centennial High School,1966
+124,12620 NE Morris St,385000,3,1,1638,4467,Russell Elementary,Parkrose Middle School,Parkrose High School,1962
+125,5254 SE 74th Ave,275000,1,1,588,2404,Marysville Elementary School,Marysville Elementary School,Franklin High School,1923
+126,608 NE 118th Ave,565000,10,4,3400,8301,Ventura Park Elementary School,Floyd Light Middle School,David Douglas High School,1993
+127,12227 SW Lesser Rd,410000,3,2,2348,5693,Markham Elementary School,Jackson Middle School,Wilson High School,1952
+128,1841 SE 130th Ave,369900,3,2,1337,4270,Mill Park Elementary School,Ron Russell Middle School,David Douglas High School,1994
+129,7739 SW 10th Ave,599000,3,2,2182,7809,Capitol Hill Elementary School,Jackson Middle School,Wilson High School,1982
+130,8009 SE 144th Dr,824999,6,4,5470,11506,Pleasant Valley Elementary School,Centennial Middle School,Centennial High School,2005
+131,2109 SE 118th Ave,315000,3,1,1533,2637,Mill Park Elementary School,Floyd Light Middle School,David Douglas High School,1952
+132,2116 NW 16th Ave,788900,2,2,2074,14171,Chapman Elementary School,West Sylvan Middle School,Lincoln High School,2006
+133,110 NE 157th Ave,498000,4,2,2124,3294,Glenfair Elementary School,Hauton B Lee Middle School,Reynolds High School,1965
+134,7820 N Olympia St,399000,3,3,1772,4718,Sitton Elementary School,George Middle School,Roosevelt High School,1999
+135,3624 NE Cleveland Ave,499000,4,2,2776,3157,Boise-Eliot Elementary School,Harriet Tubman Middle School,Jefferson or Grant High Schools,1894
+136,10215 SW 31st Ave,579900,3,3,2393,10557,Stephenson Elementary School,Jackson Middle School,Wilson High School,1993
+137,16317 SE Market St,293900,3,1,1180,3245,Patrick Lynch Elementary School,Centennial Middle School,Centennial High School,1955
+138,3319 SE 50th Ave,460000,2,1,1522,3816,Creston Elementary School,Creston Elementary School,Franklin High School,1926
+139,6410 NE 41st Ave,450000,3,2,2747,6495,Rigler Elementary School,Beaumont Middle School,Madison High School,1955
+140,4514 E Burnside St,610000,6,2,3911,7356,Glencoe Elementary School,Mt Tabor Middle School,Franklin High School,1932
+141,7229 N Hurst Ave,549950,4,2,2892,6133,Astor Elementary School,Astor Elementary School,Roosevelt High School,1942
+142,1209 SW 6th Ave ,499000,2,1,1140,58733,Chapman Elementary School,West Sylvan Middle School,Lincoln High School,1913
+143,2083 NW Johnson St ,435000,2,1,1114,3882,Chapman Elementary School,West Sylvan Middle School,Lincoln High School,1911
+144,8809 SE Reedway St,324900,3,1,1060,3576,Lent Elementary School,Lent Elementary School,Franklin High School,1978
+145,2354 NW Roosevelt St,495000,2,2,2111,3838,Chapman Elementary School,West Sylvan Middle School,Lincoln High School,1904
+146,6417 SE 139th Ave,331900,3,2,1216,3911,Gilbert Park Elementary School,Alice Ott Middle School,David Douglas High School,1997
+147,1526 NE 150th Ave,376500,2,2,1427,5163,Margaret Scott Elementary School,Hauton B Lee Middle School,Reynolds High School,1993
+148,2114 SE Ladd Ave,949900,6,2,4188,7497,Abernethy Elementary School,Hosford Middle School,Cleveland High School,1913
+149,7023 SE Knight St,329000,2,1,820,3161,Arleta Elementary School,Arleta Elementary School,Franklin High School,1904
+150,5703 SE Lambert St,159900,2,1,864,1643,Whitman Elementary School,Lane Middle School,Cleveland High School,1923
+151,6428 SE 139th Ave,314900,2,2,1066,3745,Gilbert Park Elementary School,Alice Ott Middle School,David Douglas High School,1997
+152,8031 SE 9th Ave,719900,4,2,2083,1273,Llewellyn Elementary School,Sellwood Middle School,Cleveland High School,1884
+153,7935 SE Bybee Blvd,339900,2,1,1298,2868,Woodmere Elementary School,Lane Middle School,Franklin High School,1944
+154,6007 SE Steele St,625000,4,3,2550,7270,Arleta Elementary School,Arleta Elementary School,Franklin High School,2012
+155,9635 SE Glenwood St,375000,3,2,1950,4202,Kelly Elementary School,Lane Middle School,Franklin High School,1954
+156,8329 SW 24th Ave,398000,3,3,1724,7343,Maplewood Elementary School,Jackson Middle School,Wilson High School,2005
+157,8821 NE Wasco St,325000,3,2,2029,4285,Lee Elementary School,Roseway Heights School,Madison High School,2008
+158,330 SE 50th Ave,348000,2,1,1274,3541,Glencoe Elementary School,Mt Tabor Middle School,Franklin High School,1973
+159,1621 NE 157th Ave,389900,4,2,1612,3684,Margaret Scott Elementary School,Hauton B Lee Middle School,Reynolds High School,1965
+160,4145 SW Washouga Ave,649900,4,3,3130,7790,Rieke Elementary School,Gray Middle School,Wilson High School,1971
+161,6126 SE Malden St,299999,3,3,1506,3855,Whitman Elementary School,Lane Middle School,Cleveland High School,2006
+162,2344 SE 112th Ave,299900,3,2,1430,3804,Mill Park Elementary School,Floyd Light Middle School,David Douglas High School,2007
+163,10161 N Ziegler Ave,329900,2,1,1208,3351,Sitton Elementary School,George Middle School,Roosevelt High School,2005
+164,25 NE 47th Ave,650000,4,1,3452,7880,Laurelhurst Elementary School,Laurelhurst Elementary School,Grant High School,1912
+165,318 SE Spokane St,929000,2,2,2612,14106,Duniway Elementary School,Sellwood Middle School,Cleveland High School,1980
+166,6617 SE 65th Ave,315000,2,1,884,3059,Woodmere Elementary School,Lane Middle School,Franklin High School,1961
+167,528 NE 92nd Ave,419000,3,2,1533,3879,Cherry Park Elementary School,Floyd Light Middle School,David Douglas High School,2004
+168,10110 SE Clatsop St,619000,5,2,3453,10445,Kelly Elementary School,Lane Middle School,Franklin High School,1994
+169,4816 SW Fairview Blvd,725000,3,2,2473,12488,Ainsworth Elementary School,West Sylvan Middle School,Lincoln High School,2002
+170,1310 NE 148th Ave,699900,10,4,5120,9831,Glenfair Elementary School,Hauton B Lee Middle School,Reynolds High School,1956
+171,2029 SE 143rd Ave,335000,4,2,1222,3357,Parklane Elementary School,Centennial Middle School,Centennial High School,1953
+172,3405 NE 162nd Ave,230000,3,2,1430,2524,Margaret Scott Elementary School,Hauton B Lee Middle School,Reynolds High School,1979
+173,15735 SE Clinton St,294990,3,1,950,3302,Powell Butte Elementary School,Centennial Middle School,Centennial High School,1972
+174,8037 NW Prominence Ct,1250000,3,4,3195,11506,Forest Park Elementary School,West Sylvan Middle School,Lincoln High School,2011
+175,712 SE 42nd Ave,464712,2,1,889,3618,Glencoe Elementary School,Mt Tabor Middle School,Franklin High School,1917
+176,650 NW Macleay Blvd,1350000,4,3,2863,11243,Chapman Elementary School,West Sylvan Middle School,Lincoln High School,1952
+177,10035 N Syracuse St,479950,4,2,2456,5199,Sitton Elementary School,George Middle School,Roosevelt High School,1922
+178,306 SW Palatine Hill Rd,475000,2,1,2184,4356,Capitol Hill Elementary School,Jackson Middle School,Wilson High School,1957
+179,1148 SE 84th Ave,299900,2,1,840,2903,Harrison Park School,Harrison Park School,Madison High School,1960
+180,6915 SE 156th Ave,500000,4,2,2475,6132,Pleasant Valley Elementary School,Centennial Middle School,Centennial High School,2002
+181,5180 N Amherst St,879900,4,3,3059,2697,Astor Elementary School,Astor Elementary School,Roosevelt High School,1911
+182,239 SE 53rd Ave,570000,4,2,3427,6185,Glencoe Elementary School,Mt Tabor Middle School,Franklin High School,1930
+183,9735 N Edison St,412500,3,1,887,2596,Sitton Elementary School,George Middle School,Roosevelt High School,1960
+184,9323 SW 51st Ave,375000,3,1,1090,5297,Markham Elementary School,Jackson Middle School,Wilson High School,1977
+185,2010 NE 121st Ave,399900,3,2,1872,4165,Sacramento Elementary School,Parkrose Middle School,Parkrose High School,1954
+186,7501 SE 152nd Ave,750000,4,2,3619,8290,Gilbert Park Elementary School,Alice Ott Middle School,David Douglas High School,1989
+187,13231 SE Buford Ct,526900,4,2,2766,6104,Gilbert Park Elementary School,Alice Ott Middle School,David Douglas High School,2007
+188,3603 NE Grand Ave,599000,4,2,2282,2532,Sabin Elementary School,Harriet Tubman Middle School,Grant High School,1900
+189,6220 SW Sheridan St,985000,5,3,4559,15356,Bridlemile Elementary School,West Sylvan Middle School,Lincoln High School,1997
+190,8102 SW 61st Ave,899980,5,4,4007,12915,Maplewood Elementary School,Jackson Middle School,Wilson High School,2005
+191,5262 SW Westwood,1895000,5,4,5246,22631,Rieke Elementary School,Gray Middle School,Wilson High School,2016
+192,2110 SE 158th Ave,347000,3,1,1272,3542,Parklane Elementary School,Centennial Middle School,Centennial High School,1957
+193,9919 NW Hoge Ave,457500,4,1,1820,4625,Skyline Elementary School,Skyline Elementary School,Lincoln High School,1926
+194,4334 NE Laurelhurst Pl,765000,3,3,2590,9762,Laurelhurst Elementary School,Laurelhurst Elementary School,Grant High School,1922
+195,2521 SW Hoffman Ave,825000,3,4,3034,14511,Ainsworth Elementary School,West Sylvan Middle School,Lincoln High School,1891
+196,5824 SW Corbett Ave,625000,3,2,2860,7110,Capitol Hill Elementary School,Jackson Middle School,Wilson High School,1916
+197,4615 NE 98th Ave,374900,3,2,1374,2136,Prescott Elementary School,Parkrose Middle School,Parkrose High School,1942
+198,4244 SE Anderegg Loop,429000,3,2,1834,4892,Butler Creek Elementary School,Centennial Middle School,Centennial High School,1997
+199,1724 SW Troy St,539000,5,2,2252,4903,Rieke Elementary School,Gray Middle School,Wilson High School,1959
+200,4150 SE Milwaukie Ave,359000,2,1,1160,2334,Grout Elementary School,Hosford Middle School,Cleveland High School,1926
+201,6424 SW Alfred St,525000,4,2,2298,6593,Markham Elementary School,Jackson Middle School,Wilson High School,1958
+202,3131 NE 57th Ave,445000,4,2,2088,4674,Alameda Elementary School,Beaumont Middle School,Grant High School,1918
+203,5305 SE 34th Ave,649950,6,2,3425,6578,Grout Elementary School,Hosford Middle School,Cleveland High School,1948
+204,4221 NE 132nd Ave,399000,3,2,1440,4262,Shaver Elementary School,Parkrose Middle School,Parkrose High School,1967
+205,2333 SE 98th Ave,375000,3,2,1804,4841,Cherry Park Elementary School,Floyd Light Middle School,David Douglas High School,2002
+206,6103 NW Cornell Rd,1499000,4,3,5236,10408,Chapman Elementary School,West Sylvan Middle School,Lincoln High School,1992
+207,9620 NW Germantown Rd,650000,4,3,2838,10932,Skyline Elementary School,Skyline Elementary School,Lincoln High School,1985
+208,3017 SE Claybourne St,1295000,4,2,4474,20097,Duniway Elementary School,Sellwood Middle School,Cleveland High School,1925
+209,1870 SW Hawthorne Ter,1075000,5,3,3556,18234,Ainsworth Elementary School,West Sylvan Middle School,Lincoln High School,1929
+210,8243 SE Pineridge Ct,769995,5,3,4789,8607,Gilbert Park Elementary School,Alice Ott Middle School,David Douglas High School,2007
+211,2405 NE Saratoga St,330000,3,2,1073,4039,Faubion Elementary School,Faubion Elementary School,Jefferson or Madison High Schools,1981
+212,4522 SW Council Crest Dr,1125000,5,3,4645,16102,Ainsworth Elementary School,West Sylvan Middle School,Lincoln High School,2012
+213,5525 SW Coronado St,562000,4,2,2445,9723,Markham Elementary School,Jackson Middle School,Wilson High School,1989
+214,14841 NE Graham St,267000,3,2,1471,4109,Margaret Scott Elementary School,Hauton B Lee Middle School,Reynolds High School,1985
+215,664 NW Greenleaf Rd,929900,3,3,3339,10586,Forest Park Elementary School,West Sylvan Middle School,Lincoln High School,1950
+216,3546 NE 152nd Ave,630000,3,2,2168,6319,Margaret Scott Elementary School,Hauton B Lee Middle School,Reynolds High School,1977
+217,11512 SW Streamside Ct,664900,5,2,2985,10014,Stephenson Elementary School,Jackson Middle School,Wilson High School,1992
+218,10610 SW Inverness Ct,719990,3,3,3833,12182,Stephenson Elementary School,Jackson Middle School,Wilson High School,1993
+219,7007 SE 78th Ave,375000,3,2,1352,4068,Woodmere Elementary School,Lane Middle School,Franklin High School,1995
+220,2204 NE 50th Ave,785000,4,2,3344,7507,Rose City Park,Roseway Heights School,Madison High School,1926
+221,44 NE Lombard St,386900,3,2,1219,2387,Woodlawn Elementary School,Ockley Green School,Jefferson or Roosevelt High Schools,1951
+222,4625 SW Flower Pl,490000,3,2,1908,6326,Hayhurst Elementary School,Gray Middle School,Wilson High School,1983
+223,610 NE Cesar E Chavez Blvd,799000,5,3,4682,12527,Laurelhurst Elementary School,Laurelhurst Elementary School,Grant High School,1913
+224,3102 SE 171st Dr,335000,3,1,1324,3176,Powell Butte Elementary School,Centennial Middle School,Centennial High School,1960
+225,8917 N Dwight Ave,284000,3,2,1460,3993,Rosa Parks Elementary School,George Middle School,Roosevelt High School,2007
+226,3961 N Vancouver Ave,599900,3,1,1590,2709,Boise-Eliot Elementary School,Harriet Tubman Middle School,Jefferson or Grant High Schools,1900
+227,1519 SW Dolph St,740000,4,3,3862,9596,Capitol Hill Elementary School,Jackson Middle School,Wilson High School,2017
+228,2814 SE Market St,499000,3,2,1544,6521,Abernethy Elementary School,Hosford Middle School,Cleveland High School,1926
+229,7915 SW 19th Ave,899900,3,3,2813,4289,Rieke Elementary School,Gray Middle School,Wilson High School,1920
+230,1744 NE Clackamas St,874900,6,6,3780,10290,Buckman Elementary School,Hosford Middle School,Cleveland High School,1908
+231,2283 NW Pettygrove St,929000,3,3,2098,15646,Chapman Elementary School,West Sylvan Middle School,Lincoln High School,2002
+232,1954 NW Overton St ,890000,3,3,2020,12946,Chapman Elementary School,West Sylvan Middle School,Lincoln High School,2003
+233,9233 SE Harney Ct,449950,3,2,2915,6094,Kelly Elementary School,Lane Middle School,Franklin High School,1953
+234,6825 SE 47th Ave,250000,3,2,1200,3027,Lewis Elementary School,Sellwood Middle School,Cleveland High School,1995
+235,7214 SE 32nd Ave,744000,3,2,2760,8480,Duniway Elementary School,Sellwood Middle School,Cleveland High School,1938
+236,5654 N Omaha Ave,400000,3,1,1142,2487,Beach Elementary School,Ockley Green School,Jefferson or Roosevelt High Schools,1950
+237,3137 SE Yamhill St,775000,4,3,3442,9725,Sunnyside Environmental School,Sunnyside Environmental School,Franklin High School,1909
+238,7041 NE 22nd Ave,595000,3,3,3514,7400,Woodlawn Elementary School,Ockley Green School,Jefferson or Roosevelt High Schools,1953
+239,3346 SW Multnomah Blvd,389450,3,2,1594,6843,Maplewood Elementary School,Jackson Middle School,Wilson High School,2014
+240,12717 SE Gladstone St,293500,3,1,936,2921,Gilbert Heights Elementary School,Alice Ott Middle School,David Douglas High School,1960
+241,5408 NE Ainsworth St,525000,4,3,2256,6057,Rigler Elementary School,Beaumont Middle School,Madison High School,2005
+242,9020 SE Duke St,319900,2,1,720,2828,Kelly Elementary School,Lane Middle School,Franklin High School,1950
+243,2798 SW Talbot Rd,1100000,4,3,4378,16681,Ainsworth Elementary School,West Sylvan Middle School,Lincoln High School,1928
+244,3335 NE 68th Ave,530000,4,3,2427,5434,Scott Elementary School,Roseway Heights School,Madison High School,1925
+245,2426 NE 136th Ave,349999,3,1,1859,3990,Russell Elementary,Parkrose Middle School,Parkrose High School,1956
+246,2021 SW Main St ,335000,2,2,983,5446,Chapman Elementary School,West Sylvan Middle School,Lincoln High School,1972
+247,9131 SE Stephens St,399000,4,1,2233,4375,Harrison Park School,Harrison Park School,Madison High School,1953
+248,2810 NE 35th Ave,649900,4,2,2018,6575,Beverly Cleary School,Beverly Cleary School,Grant High School,1926
+249,3036 SE Cesar E Chavez Blvd,414900,3,1,1633,2390,Creston Elementary School,Creston Elementary School,Franklin High School,1910
+250,3908 NE 8th Ave,774000,4,4,2833,10301,Sabin Elementary School,Harriet Tubman Middle School,Grant High School,2016
+251,6815 N Portsmouth Ave,629900,4,2,2210,4017,Astor Elementary School,Astor Elementary School,Roosevelt High School,1998
+252,3352 SW Spring Garden St,800000,3,1,1334,7712,Maplewood Elementary School,Jackson Middle School,Wilson High School,1921
+253,4336 SW Pendleton St,839000,4,2,3465,10435,Hayhurst Elementary School,Gray Middle School,Wilson High School,2008
+254,2114 N Farragut St,374900,2,1,798,3775,Peninsula Elementary School,Ockley Green School,Jefferson or Roosevelt High Schools,1942
+255,6970 SE 35th Ave,1099900,4,3,3159,10741,Duniway Elementary School,Sellwood Middle School,Cleveland High School,1924
+256,6980 SE 35th Ave,1099900,4,3,3200,10741,Duniway Elementary School,Sellwood Middle School,Cleveland High School,1924
+257,8815 NE Wasco St,340000,3,2,1768,4016,Lee Elementary School,Roseway Heights School,Madison High School,2008
+258,8947 N Curtis Ave,395000,3,1,976,2937,Peninsula Elementary School,Ockley Green School,Jefferson or Roosevelt High Schools,1955
+259,968 N Kilpatrick St,393900,3,2,1621,5345,Woodlawn Elementary School,Ockley Green School,Jefferson or Roosevelt High Schools,2011
+260,3244 NE Us Grant Pl,850000,3,2,2924,11229,Beverly Cleary School,Beverly Cleary School,Grant High School,1932
+261,3134 NE 76th Ave,269000,1,1,600,2203,Lee Elementary School,Roseway Heights School,Madison High School,1914
+262,300 NW 8th Ave ,349900,1,1,725,5333,Chapman Elementary School,West Sylvan Middle School,Lincoln High School,1909
+263,1908 NE Siskiyou St,935000,5,2,4011,9647,Irvington Elementary School,Harriet Tubman Middle School,Jefferson High School / Grant High School,1925
+264,2732 SE 120th Ave,354900,3,2,2102,3241,Mill Park Elementary School,Ron Russell Middle School,David Douglas High School,1960
+265,2835 NE 67th Ave,425000,3,1,2190,4543,Rose City Park,Roseway Heights School,Madison High School,1922
+266,16950 SE Salmon St,279900,4,1,1296,3249,Alder Elementary School,Hauton B Lee Middle School,Reynolds High School,1961
+267,4576 SW Comus Pl ,199999,2,2,1058,3226,Markham Elementary School,Jackson Middle School,Wilson High School,1979
+268,1030 SE 60th Ave,749899,5,3,2335,5451,Glencoe Elementary School,Mt Tabor Middle School,Franklin High School,1926
+269,13115 SE Foster Rd ,66000,3,2,1080,34111,Gilbert Park Elementary School,Alice Ott Middle School,David Douglas High School,1988
+270,5627 SW Coronado St,601900,4,2,2610,8808,Markham Elementary School,Jackson Middle School,Wilson High School,1989
+271,4056 SE Mall St,479900,3,2,1620,6177,Grout Elementary School,Hosford Middle School,Cleveland High School,1995
+272,4116 N Borthwick Ave,495000,2,1,1336,1499,Boise-Eliot Elementary School,Harriet Tubman Middle School,Jefferson or Grant High Schools,1933
+273,11316 NE Fargo St,315000,3,2,1848,3458,Sacramento Elementary School,Parkrose Middle School,Parkrose High School,1993
+274,10204 NW Alder Grove Ln,277900,2,2,1280,6178,Forest Park Elementary School,West Sylvan Middle School,Lincoln High School,1998
+275,2224 SE 145th Ave,330000,3,1,1200,3210,Parklane Elementary School,Centennial Middle School,Centennial High School,1956
+276,3935 SW Corbett Ave,1000000,7,7,4811,9970,Capitol Hill Elementary School,Jackson Middle School,Wilson High School,1893
+277,4005 N Willamette Blvd,670000,4,2,3226,9507,Astor Elementary School,Astor Elementary School,Roosevelt High School,1943
+278,9742 NW Skyline Heights Dr,1115000,4,3,5057,18770,Forest Park Elementary School,West Sylvan Middle School,Lincoln High School,2003
+279,4430 N Michigan Ave,819900,4,3,2771,10061,Boise-Eliot Elementary School,Harriet Tubman Middle School,Jefferson or Grant High Schools,2016
+280,3275 NE Bryce St,1375000,5,3,3848,4195,Alameda Elementary School,Beaumont Middle School,Grant High School,1910
+281,12403 SW 55th Pl,855000,4,2,3409,12556,Markham Elementary School,Jackson Middle School,Wilson High School,1995
+282,5400 NE 30th Ave ,254900,1,1,594,5018,Vernon Elementary School,Vernon Elementary School,Jefferson or Madison High Schools,1946
+283,10218 N Barr Ave,607500,4,3,2669,4971,Sitton Elementary School,George Middle School,Roosevelt High School,1927
+284,9028 N Chautauqua Pl,315000,3,1,858,2648,Rosa Parks Elementary School,George Middle School,Roosevelt High School,1970
+285,5308 SW Pomona St,349999,3,2,1626,3908,Markham Elementary School,Jackson Middle School,Wilson High School,1942
+286,1806 SW Taylors Ferry Rd,699800,5,3,2516,7208,Capitol Hill Elementary School,Jackson Middle School,Wilson High School,1945
+287,4821 SW Seymour Ct,475000,3,2,1289,6535,Bridlemile Elementary School,Gray Middle School,Wilson High School,1986
+288,3011 SE 92nd Ave,339900,3,2,1510,4304,Harrison Park School,Harrison Park School,Madison High School,2004
+289,1506 SW Broadway Dr,459000,3,2,1775,7349,Ainsworth Elementary School,West Sylvan Middle School,Lincoln High School,1964
+290,6310 SE Windsor Ct,699999,4,2,2243,3133,Atkinson Elementary School,Mt Tabor Middle School,Franklin High School,1947
+291,6613 SE 83rd Ave,339900,3,2,1040,3714,Woodmere Elementary School,Lane Middle School,Franklin High School,1977
+292,2710 SE 138th Ave ,139900,2,1,848,1807,Lincoln Park Elementary School,Ron Russell Middle School,David Douglas High School,1974
+293,11827 NE San Rafael St,269900,2,1,960,2676,Sacramento Elementary School,Parkrose Middle School,Parkrose High School,1955
+294,3039 NE 122nd Ave,347900,3,1,1272,3447,Sacramento Elementary School,Parkrose Middle School,Parkrose High School,1958
+295,1214 SE 58th Ave,1950000,6,4,6850,24598,Glencoe Elementary School,Mt Tabor Middle School,Franklin High School,1913
+296,5950 SE Tibbetts St,499000,2,1,1388,3667,Atkinson Elementary School,Mt Tabor Middle School,Franklin High School,1953
+297,1730 SW Harbor Way ,297000,1,1,684,5105,Ainsworth Elementary School,West Sylvan Middle School,Lincoln High School,1986
+298,6247 SE Ogden St,269900,3,2,1284,2823,Woodmere Elementary School,Lane Middle School,Franklin High School,1945
+299,3457 NE Davis St,1080000,3,4,3005,11058,Laurelhurst Elementary School,Laurelhurst Elementary School,Grant High School,1931
+300,9425 SW 51st Ave,389000,3,2,1530,5093,Markham Elementary School,Jackson Middle School,Wilson High School,1978
+301,5403 N Harvard St,675000,5,3,3792,6809,Astor Elementary School,Astor Elementary School,Roosevelt High School,1953
+302,2341 SE 170th Ave,325000,3,2,1112,3884,Patrick Lynch Elementary School,Centennial Middle School,Centennial High School,1982
+303,10117 NW Wilark Ave,399900,2,2,1446,3541,Skyline Elementary School,Skyline Elementary School,Lincoln High School,1921
+304,5740 NW Skyline Blvd,825000,3,3,3035,11312,Skyline Elementary School,Skyline Elementary School,Lincoln High School,1981
+305,621 NW Skyline Blvd,899950,3,3,3473,10698,Forest Park Elementary School,West Sylvan Middle School,Lincoln High School,1989
+306,35 NE 55th Ave,649900,4,3,2756,9752,Glencoe Elementary School,Mt Tabor Middle School,Franklin High School,1908
+307,26 SE 69th Ave,699900,3,2,2370,2303,Vestal Elementary School,Roseway Heights School,Madison High School,1928
+308,3939 N Marine Dr,389000,2,2,1510,11075,Faubion Elementary School,Faubion Elementary School,Jefferson or Roosevelt High Schools,1981
+309,908 NW 25th Ave,1249900,4,3,5861,14187,Chapman Elementary School,West Sylvan Middle School,Lincoln High School,1908
+310,1929 SW Carter Ln,799000,2,2,2433,17439,Ainsworth Elementary School,West Sylvan Middle School,Lincoln High School,1951
+311,2796 SW Montgomery Dr,1225000,5,5,3802,10413,Ainsworth Elementary School,West Sylvan Middle School,Lincoln High School,1910
+312,6444 NE Going St,430000,3,2,1518,4887,Scott Elementary School,Roseway Heights School,Madison High School,1942
+313,418 N Bridgeton Rd,459950,2,2,2304,7494,Faubion Elementary School,Faubion Elementary School,Jefferson or Roosevelt High Schools,1997
+314,133 SE 55th Ave,1300000,4,5,3734,4607,Glencoe Elementary School,Mt Tabor Middle School,Franklin High School,1926
+315,3409 NE Simpson St,489000,3,2,1804,3632,Faubion Elementary School,Faubion Elementary School,Jefferson or Madison High Schools,1940
+316,3641 SE Crystal Springs Blvd,674900,4,3,2451,5529,Duniway Elementary School,Sellwood Middle School,Cleveland High School,2007
+317,14421 NW Springville Rd,1490000,4,3,4797,9489,Skyline Elementary School,Skyline Elementary School,Lincoln High School,2002
+318,1503 N Hayden Island Dr,155950,2,2,1440,0,Faubion Elementary School,Faubion Elementary School,Jefferson or Roosevelt High Schools,1972
+319,5316 SE 18th Ave,399000,3,1,840,3173,Llewellyn Elementary School,Sellwood Middle School,Cleveland High School,1954
+320,4715 SE 94th Ave,420000,7,3,2912,4476,Lent Elementary School,Lent Elementary School,Franklin High School,1959
+321,7325 SE Milwaukie Ave,650000,2,2,2336,8245,Llewellyn Elementary School,Sellwood Middle School,Cleveland High School,2003
+322,2936 SE 18th Ave,599900,3,3,2620,6760,Abernethy Elementary School,Hosford Middle School,Cleveland High School,1912
+323,3515 SW Shattuck Rd,939000,4,3,3534,12549,Bridlemile Elementary School,Gray Middle School,Wilson High School,1958
+324,12308 SE Long St,249900,2,1,1324,2077,Gilbert Heights Elementary School,Alice Ott Middle School,David Douglas High School,2004
+325,10435 SE Oak St,310000,3,2,1591,3494,Cherry Park Elementary School,Floyd Light Middle School,David Douglas High School,2004
+326,9608 N Oregonian Ave,299900,3,1,1164,3011,James John Elementary School,George Middle School,Roosevelt High School,2004
+327,12029 SW Lesser Rd,549900,4,2,2423,5258,Markham Elementary School,Jackson Middle School,Wilson High School,1942
+328,2702 SE 138th Ave ,145900,1,1,720,1564,Lincoln Park Elementary School,Ron Russell Middle School,David Douglas High School,1974
+329,4043 NE 80th Ave,389900,3,1,1868,4344,Scott Elementary School,Roseway Heights School,Madison High School,1928
+330,3025 SE Cesar E Chavez Blvd,365000,3,1,2132,3483,Abernethy Elementary School,Hosford Middle School,Cleveland High School,1926
+331,8524 SW 10th Ave,417900,3,2,1290,6426,Capitol Hill Elementary School,Jackson Middle School,Wilson High School,1991
+332,3969 N Overlook Ter,1199000,3,3,3372,7863,Beach Elementary School,Ockley Green School,Jefferson or Roosevelt High Schools,1947
+333,3224 SE 153rd Ave,225000,2,2,1506,3526,Powell Butte Elementary School,Centennial Middle School,Centennial High School,1980
+334,2732 SE 138th Ave ,153900,2,1,844,1866,Lincoln Park Elementary School,Ron Russell Middle School,David Douglas High School,1977
+335,1804 SW Miles St,400000,3,1,960,4218,Rieke Elementary School,Gray Middle School,Wilson High School,1970
+336,5011 SW Orchid St,445000,3,2,1680,6091,Markham Elementary School,Jackson Middle School,Wilson High School,1973
+337,4505 NE 25th Ave,849999,5,3,2751,7244,Vernon Elementary School,Vernon Elementary School,Jefferson or Madison High Schools,2017
+338,2565 NE 33rd Ave,599999,3,2,2732,6360,Beverly Cleary School,Beverly Cleary School,Grant High School,1939
+339,411 NE 43rd Ave,1050000,4,3,3188,7583,Laurelhurst Elementary School,Laurelhurst Elementary School,Grant High School,1914
+340,3827 SW Dolph Ct,575000,4,3,2610,6204,Maplewood Elementary School,Jackson Middle School,Wilson High School,1919
+341,8130 SE 75th Pl,325000,3,1,946,3423,Whitman Elementary School,Lane Middle School,Cleveland High School,1966
+342,3012 SE 138th Ave,339000,2,2,1732,3230,Lincoln Park Elementary School,Ron Russell Middle School,David Douglas High School,1927
+343,11737 SE Salmon St,199900,2,1,672,2484,Ventura Park Elementary School,Floyd Light Middle School,David Douglas High School,1949
+344,9312 NW Murdock St,930000,5,3,4374,15801,Forest Park Elementary School,West Sylvan Middle School,Lincoln High School,2003
+345,2737 SE 87th Ave,295000,3,2,1134,4280,Harrison Park School,Harrison Park School,Madison High School,1994
+346,7018 N Hodge Ave,649900,4,2,2287,1663,Astor Elementary School,Astor Elementary School,Roosevelt High School,1928
+347,4075 SE Woodward St,874950,4,3,2950,1349,Creston Elementary School,Creston Elementary School,Franklin High School,1924
+348,4104 SE Ash St,750000,5,2,4040,8772,Laurelhurst Elementary School,Laurelhurst Elementary School,Grant High School,1916
+349,4438 SW Hamilton Ter,1095000,4,2,3791,16352,Ainsworth Elementary School,West Sylvan Middle School,Lincoln High School,2002
+350,11606 NE Sandy Blvd,849900,6,2,2964,3146,Prescott Elementary School,Parkrose Middle School,Parkrose High School,1934
+351,7022 SE 84th Ave,450000,3,2,1930,4143,Kelly Elementary School,Lane Middle School,Franklin High School,1913
+352,14715 SE Market Ct,329169,2,1,1716,3980,Parklane Elementary School,Centennial Middle School,Centennial High School,1949
+353,14312 NE Knott St,379900,3,2,2602,4412,Margaret Scott Elementary School,Hauton B Lee Middle School,Reynolds High School,1964
+354,4532 SE 28th Ave,435000,3,2,1336,5026,Grout Elementary School,Hosford Middle School,Cleveland High School,1996
+355,13508 NW Springville Rd,849900,3,2,4397,9754,Skyline Elementary School,Skyline Elementary School,Lincoln High School,1957
+356,7655 NE Alameda St,699000,2,2,3520,8173,Lee Elementary School,Roseway Heights School,Madison High School,1953
+357,3327 SW Water Ave,395000,2,1,2115,4185,Capitol Hill Elementary School,Jackson Middle School,Wilson High School,1894
+358,3618 NE 154th Ave,240000,3,2,1512,3247,Margaret Scott Elementary School,Hauton B Lee Middle School,Reynolds High School,2003
+359,925 NE 74th Ave,469900,4,2,2578,5311,Vestal Elementary School,Roseway Heights School,Madison High School,1890
+360,15330 SE Yamhill St,317000,3,1,1244,3582,Parklane Elementary School,Centennial Middle School,Centennial High School,1966
+361,10527 SE Raymond St,297500,3,1,1580,3211,Earl Boyles Elementary,Ron Russell Middle School,David Douglas High School,1954
+362,1514 NE Highland St,450000,4,1,1881,2472,Woodlawn Elementary School,Ockley Green School,Jefferson or Roosevelt High Schools,1910
+363,4900 NE 18th Ave,849900,4,2,4800,2211,Vernon Elementary School,Vernon Elementary School,Jefferson or Madison High Schools,1909
+364,3617 SW Vesta St,349000,3,2,1702,7033,Markham Elementary School,Jackson Middle School,Wilson High School,1999
+365,7503 N Kerby Ave,399000,4,3,2704,4830,Woodlawn Elementary School,Ockley Green School,Jefferson or Roosevelt High Schools,1928
+366,814 SE Sherrett St,449900,3,1,1794,3920,Duniway Elementary School,Sellwood Middle School,Cleveland High School,1912
+367,4708 NE 60th Ave,399000,3,2,1456,5531,Scott Elementary School,Roseway Heights School,Madison High School,1997
+368,3316 SE 23rd Ave,950000,7,2,4094,5838,Abernethy Elementary School,Hosford Middle School,Cleveland High School,1923
+369,8704 SE 9th Ave,435000,3,2,1273,4751,Duniway Elementary School,Sellwood Middle School,Cleveland High School,1993
+370,2470 NW Thurman St,995000,2,2,1983,13542,Chapman Elementary School,West Sylvan Middle School,Lincoln High School,2005
+371,3724 SE 148th Ave,369900,4,2,1411,4326,Pleasant Valley Elementary School,Centennial Middle School,Centennial High School,1968
+372,1568 NE 74th Ave,499000,3,2,1837,4355,Vestal Elementary School,Roseway Heights School,Madison High School,2017
+373,2419 NW Birkendene St,769000,4,2,3557,12889,Forest Park Elementary School,West Sylvan Middle School,Lincoln High School,1994
+374,10428 NE Pacific St,349950,3,1,1314,3992,Ventura Park Elementary School,Floyd Light Middle School,David Douglas High School,1939
+375,10450 SW 53rd Ave,739000,5,3,3959,8312,Markham Elementary School,Jackson Middle School,Wilson High School,1951
+376,7625 N Van Houten Ave,399500,3,1,1646,4530,Astor Elementary School,Astor Elementary School,Roosevelt High School,1924
+377,3312 SE 165th Pl,309900,3,2,1080,3162,Powell Butte Elementary School,Centennial Middle School,Centennial High School,1958
+378,220 N Hayden Bay Dr,444000,2,2,2091,7205,Faubion Elementary School,Faubion Elementary School,Jefferson or Roosevelt High Schools,1973
+379,2131 NE Saratoga St,475000,3,2,1704,4894,Woodlawn Elementary School,Ockley Green School,Jefferson or Roosevelt High Schools,1946
+380,5825 SW 59th Ct,499000,3,2,1881,7760,Hayhurst Elementary School,Gray Middle School,Wilson High School,1987
+381,636 NW Albemarle Ter,1900000,4,2,4801,24384,Chapman Elementary School,West Sylvan Middle School,Lincoln High School,1921
+382,7621 SE Crystal Springs Blvd,356900,3,2,1416,3407,Whitman Elementary School,Lane Middle School,Cleveland High School,2003
+383,414 N Rosa Parks Way,399900,2,1,1392,2675,Chief Joseph/Ockley Green School,Ockley Green School,Jefferson or Roosevelt High Schools,1927
+384,12415 NE Brazee St,375000,3,3,2365,4328,Russell Elementary,Parkrose Middle School,Parkrose High School,1944
+385,4023 SE 65th Ave,375000,3,1,1741,3759,Arleta Elementary School,Arleta Elementary School,Franklin High School,1906
+386,7325 SE 22nd Ave,575000,3,2,2213,4930,Llewellyn Elementary School,Sellwood Middle School,Cleveland High School,1926
+387,8243 NE Wygant St,344900,3,1,1064,2694,Russell Elementary,Parkrose Middle School,Parkrose High School,1949
+388,4406 NE 13th Ave,699000,4,2,2520,1512,Sabin Elementary School,Harriet Tubman Middle School,Grant High School,1908
+389,9001 N Trumbull Ave,548000,2,1,1719,3130,Sitton Elementary School,George Middle School,Roosevelt High School,1943
+390,4344 SW Hillside Dr,890000,4,3,3910,14707,Ainsworth Elementary School,West Sylvan Middle School,Lincoln High School,2000
+391,2328 SE 139th Ave,399900,4,2,2036,4282,Lincoln Park Elementary School,Ron Russell Middle School,David Douglas High School,2008
+392,2818 NE 15th Ave,824000,5,2,3980,6819,Irvington Elementary School,Harriet Tubman Middle School,Jefferson High School / Grant High School,1917
+393,222 N Hayden Bay Dr,389900,3,2,2015,5674,Faubion Elementary School,Faubion Elementary School,Jefferson or Roosevelt High Schools,1973
+394,2775 NW Upshur St ,468000,3,2,1342,7464,Chapman Elementary School,West Sylvan Middle School,Lincoln High School,1984
+395,5515 SW 63rd Ave,1150000,4,3,3707,15054,Hayhurst Elementary School,Gray Middle School,Wilson High School,1999
+396,3611 SW Condor Ave,525000,3,1,2286,8697,Ainsworth Elementary School,West Sylvan Middle School,Lincoln High School,1898
+397,7424 SE Ogden St,370000,3,1,1254,3739,Whitman Elementary School,Lane Middle School,Cleveland High School,1947
+398,3829 SE 149th Ave,347000,3,1,1508,2488,Pleasant Valley Elementary School,Centennial Middle School,Centennial High School,1964
+399,6241 SE 142nd Ave,225000,3,2,1269,3228,Gilbert Park Elementary School,Alice Ott Middle School,David Douglas High School,1999
+400,1609 SE Umatilla St,749000,4,3,2398,4118,Duniway Elementary School,Sellwood Middle School,Cleveland High School,1890
+401,5950 SW Riveridge Ln,464000,2,2,1286,5920,Capitol Hill Elementary School,Jackson Middle School,Wilson High School,1980
+402,4804 NE 106th Ave,410000,3,2,2791,3816,Prescott Elementary School,Parkrose Middle School,Parkrose High School,1912
+403,3744 SE Steele St,429900,3,2,1132,4699,Grout Elementary School,Hosford Middle School,Cleveland High School,1972
+404,1224 NE 81st Ave,549900,3,2,1569,2369,Vestal Elementary School,Roseway Heights School,Madison High School,1920
+405,4205 SE 80th Ave,379900,3,2,1714,6064,Marysville Elementary School,Marysville Elementary School,Franklin High School,1929
+406,4209 SE 80th Ave,379900,3,2,1714,6064,Marysville Elementary School,Marysville Elementary School,Franklin High School,1929
+407,4215 SE 80th Ave,379900,3,2,1714,6064,Marysville Elementary School,Marysville Elementary School,Franklin High School,1929
+408,1319 NE 126th Ave,329000,3,2,1983,3778,Menlo Park Elementary School,Floyd Light Middle School,David Douglas High School,1956
+409,4219 SE 80th Ave,379900,3,2,1714,6064,Marysville Elementary School,Marysville Elementary School,Franklin High School,1929
+410,8320 SW 33rd Ave,550000,3,3,2128,7420,Maplewood Elementary School,Jackson Middle School,Wilson High School,1968
+411,7931 SW 40th Ave ,220000,2,2,893,3905,Maplewood Elementary School,Jackson Middle School,Wilson High School,1990
+412,456 NW Skyline Blvd,974900,4,5,4248,11716,Forest Park Elementary School,West Sylvan Middle School,Lincoln High School,1997
+413,9908 SE Mount Scott Blvd,499000,4,1,3725,8618,Kelly Elementary School,Lane Middle School,Franklin High School,1927
+414,1422 SE 51st Ave,609900,4,3,2430,4682,Glencoe Elementary School,Mt Tabor Middle School,Franklin High School,1911
+415,3410 SE 119th Ave,320000,2,1,1288,2666,Mill Park Elementary School,Ron Russell Middle School,David Douglas High School,1924
+416,1233 N Winchell St,475000,3,2,1536,3715,Peninsula Elementary School,Ockley Green School,Jefferson or Roosevelt High Schools,1977
+417,1710 SW Harbor Way ,345000,1,1,819,4747,Ainsworth Elementary School,West Sylvan Middle School,Lincoln High School,1986
+418,7010 SW Brier Pl,550000,5,2,2866,9388,Rieke Elementary School,Gray Middle School,Wilson High School,1890
+419,9240 N Mohawk Ave,450000,4,2,1692,4722,James John Elementary School,George Middle School,Roosevelt High School,2005
+420,345 N Lotus Beach Dr,749900,2,2,3060,12974,Faubion Elementary School,Faubion Elementary School,Jefferson or Roosevelt High Schools,1982
+421,9726 NW Sunrise Ln,1599900,6,4,6451,26068,Forest Park Elementary School,West Sylvan Middle School,Lincoln High School,2005
+422,3326 N Farragut St,485000,3,3,2379,4233,Peninsula Elementary School,Ockley Green School,Jefferson or Roosevelt High Schools,1929
+423,3825 SE Center St,429900,3,1,1330,4640,Grout Elementary School,Hosford Middle School,Cleveland High School,1982
+424,704 NE Killingsworth Ct,310000,4,2,2048,1398,King Elementary School,Harriet Tubman Middle School,Jefferson or Grant High Schools,1907
+425,2049 NW Overton St ,379000,1,1,727,4088,Chapman Elementary School,West Sylvan Middle School,Lincoln High School,1925
+426,15751 SE Powell Blvd,339999,6,2,2622,3136,Powell Butte Elementary School,Centennial Middle School,Centennial High School,1926
+427,10618 NW 4th Pl,649900,4,3,4824,4635,Skyline Elementary School,Skyline Elementary School,Lincoln High School,2009
+428,10001 SW Riverside Dr,997500,5,2,4986,12397,Riverdale Grade School,Riverdale Grade School,Riverdale High School,1908
+429,10601 NW 4th St,369900,1,1,1308,3170,Skyline Elementary School,Skyline Elementary School,Lincoln High School,1907
+430,2933 SE 136th Ave,299000,3,2,1778,3281,Lincoln Park Elementary School,Ron Russell Middle School,David Douglas High School,2000
+431,5944 SW View Point Ter,439000,3,2,1056,5901,Capitol Hill Elementary School,Jackson Middle School,Wilson High School,1973
+432,10832 NE Siskiyou St,417000,4,3,2525,3321,Sacramento Elementary School,Parkrose Middle School,Parkrose High School,1949
+433,700 SW 48th Dr,1440000,3,3,3752,24322,Ainsworth Elementary School,West Sylvan Middle School,Lincoln High School,1969
+434,6449 NE 33rd Ave,449900,5,2,2518,4375,Faubion Elementary School,Faubion Elementary School,Jefferson or Madison High Schools,1913
+435,3804 SE 27th Ave,459900,3,1,1010,3685,Grout Elementary School,Hosford Middle School,Cleveland High School,1951
+436,1828 SE Main St,875000,5,4,3655,11531,Buckman Elementary School,Hosford Middle School,Cleveland High School,2010
+437,6035 SE Tenino St,275000,2,1,1188,4143,Whitman Elementary School,Lane Middle School,Cleveland High School,1923
+438,2004 NW Norfolk Ct,650000,4,2,3323,11365,Forest Park Elementary School,West Sylvan Middle School,Lincoln High School,1999
+439,5615 NE 35th Ave,639900,4,2,2978,4478,Faubion Elementary School,Faubion Elementary School,Jefferson or Madison High Schools,1926
+440,5400 NE Rodney Ave,974900,7,3,5147,9214,King Elementary School,Harriet Tubman Middle School,Jefferson or Grant High Schools,1909
+441,2341 SE 154th Ave,425000,3,2,1704,4275,Parklane Elementary School,Centennial Middle School,Centennial High School,1975
+442,125 NE 80th Ave,350000,2,1,1904,3130,Vestal Elementary School,Roseway Heights School,Madison High School,1925
+443,10224 N Tioga Ave,309900,3,1,1099,2015,Sitton Elementary School,George Middle School,Roosevelt High School,1923
+444,1680 SW Montgomery Dr,2799000,3,2,4664,39043,Ainsworth Elementary School,West Sylvan Middle School,Lincoln High School,2002
+445,13705 NE Halsey St,349800,2,1,1251,3399,Russell Elementary,Parkrose Middle School,Parkrose High School,1954
+446,5252 NE 27th Ave,460000,4,2,2520,2531,Vernon Elementary School,Vernon Elementary School,Jefferson or Madison High Schools,1908
+447,1322 SE 114th Ave,399950,3,2,1392,4094,Mill Park Elementary School,Floyd Light Middle School,David Douglas High School,1965
+448,169 N Lotus Beach Dr,614900,3,3,3075,12133,Faubion Elementary School,Faubion Elementary School,Jefferson or Roosevelt High Schools,1980
+449,133 SE 55th Ave ,874900,5,3,2942,4607,Glencoe Elementary School,Mt Tabor Middle School,Franklin High School,1926
+450,5531 NE Cleveland Ave,724000,4,2,3408,5484,Beach Elementary School,Ockley Green School,Jefferson or Roosevelt High Schools,1907
+451,11721 SW Riverwood Rd,1395000,4,3,2928,12282,Riverdale Grade School,Riverdale Grade School,Riverdale High School,1911
+452,6517 NE Emerson St,399900,3,2,1622,4039,Scott Elementary School,Roseway Heights School,Madison High School,1988
+453,6821 N Montana Ave,400000,2,1,972,2487,Chief Joseph/Ockley Green School,Ockley Green School,Jefferson or Roosevelt High Schools,1925
+454,2802 NW Ariel Ter,880000,3,3,2201,12077,Chapman Elementary School,West Sylvan Middle School,Lincoln High School,1981
+455,6355 N Greeley Ave,399900,4,2,1929,3588,Chief Joseph/Ockley Green School,Ockley Green School,Jefferson or Roosevelt High Schools,1906
+456,2461 NE Sumner St,699900,4,3,2642,11505,Vernon Elementary School,Vernon Elementary School,Jefferson or Madison High Schools,1927
+457,5207 NE 25th Ave,674900,4,3,2462,11505,Vernon Elementary School,Vernon Elementary School,Jefferson or Madison High Schools,1927
+458,7049 SE 35th Ave,725000,4,1,2660,10486,Duniway Elementary School,Sellwood Middle School,Cleveland High School,1926
+459,4255 SE 117th Ave,599000,6,3,2918,5253,West Powellhurst Elementary School,Ron Russell Middle School,David Douglas High School,1966
+460,1026 NE 109th Ave,359000,2,1,1172,3932,Ventura Park Elementary School,Floyd Light Middle School,David Douglas High School,1951
+461,4165 SE 37th Ave,425000,3,2,1582,5042,Grout Elementary School,Hosford Middle School,Cleveland High School,2015
+462,2835 SE Carlton St,1549950,5,4,5215,23935,Duniway Elementary School,Sellwood Middle School,Cleveland High School,1924
+463,4915 N Interstate Ave,499900,4,1,2690,3962,Beach Elementary School,Ockley Green School,Jefferson or Roosevelt High Schools,1909
+464,615 NE 81st Ave,359900,3,1,1718,4224,Vestal Elementary School,Roseway Heights School,Madison High School,1951
+465,10605 SE Clinton St,339900,3,2,1789,4405,Harrison Park School,Harrison Park School,Madison High School,1983
+466,1821 NE 25th Ave,419000,2,2,1015,6141,Irvington Elementary School,Harriet Tubman Middle School,Jefferson High School / Grant High School,1972
+467,1702 SE 59th Ave,699950,3,2,2642,5759,Atkinson Elementary School,Mt Tabor Middle School,Franklin High School,1926
+468,6255 SW Tower Way,749900,4,2,3562,11574,Hayhurst Elementary School,Gray Middle School,Wilson High School,1957
+469,136 NE 117th Ave,489000,4,2,2548,2882,Ventura Park Elementary School,Floyd Light Middle School,David Douglas High School,1900
+470,5720 SE Jenne Rd,389000,3,2,1496,3300,Pleasant Valley Elementary School,Centennial Middle School,Centennial High School,1950
+471,46 NE 148th Ave,395000,3,1,1094,3194,Glenfair Elementary School,Hauton B Lee Middle School,Reynolds High School,1951
+472,1326 NE 155th Ave,249900,2,1,768,2594,Glenfair Elementary School,Hauton B Lee Middle School,Reynolds High School,1943
+473,11938 SW 60th Ave,1099000,4,3,3393,4274,Markham Elementary School,Jackson Middle School,Wilson High School,1932
+474,8023 SW Ruby Ter,620000,3,2,3410,11956,Capitol Hill Elementary School,Jackson Middle School,Wilson High School,1954
+475,651 SE 148th Ave ,169000,3,1,1322,2586,Parklane Elementary School,Centennial Middle School,Centennial High School,1939
+476,5225 NE Garfield Ave,625000,5,2,3411,2897,King Elementary School,Harriet Tubman Middle School,Jefferson or Grant High Schools,1908
+477,5212 NE 62nd Ave,475000,4,2,1668,3682,Scott Elementary School,Roseway Heights School,Madison High School,1942
+478,9845 NW Silver Ridge Loop,387000,2,2,1523,7324,Forest Park Elementary School,West Sylvan Middle School,Lincoln High School,1994
+479,2333 NE Multnomah St,739900,3,2,2993,7525,Irvington Elementary School,Harriet Tubman Middle School,Jefferson High School / Grant High School,1906
+480,9643 NW Silver Ridge Loop,378000,3,2,1350,6620,Forest Park Elementary School,West Sylvan Middle School,Lincoln High School,1994
+481,11421 SE Salmon St,399900,5,1,2662,4879,Ventura Park Elementary School,Floyd Light Middle School,David Douglas High School,1957
+482,2737 SW English Ct,1250000,5,3,4191,18739,Ainsworth Elementary School,West Sylvan Middle School,Lincoln High School,1941
+483,3814 SE Martins St,1229000,5,1,4956,16313,Duniway Elementary School,Sellwood Middle School,Cleveland High School,1892
+484,1911 SE 97th Ave,375000,4,1,2368,4043,Cherry Park Elementary School,Floyd Light Middle School,David Douglas High School,1956
+485,1135 SE 80th Ave,950000,2,1,1263,4584,Bridger Elementary School,Bridger Elementary School,Franklin High School,1921
+486,3062 NW Montara Loop,599000,2,2,1563,9116,Forest Park Elementary School,West Sylvan Middle School,Lincoln High School,2014
+487,2322 SW Sheffield Ave,1200000,3,3,3316,15722,Ainsworth Elementary School,West Sylvan Middle School,Lincoln High School,1993
+488,7731 SE Tolman St,399900,3,1,1664,3410,Woodmere Elementary School,Lane Middle School,Franklin High School,1912
+489,9421 E Burnside St,524800,2,1,1443,3101,Cherry Park Elementary School,Floyd Light Middle School,David Douglas High School,1898
+490,10549 NW Skyline Blvd,449500,3,3,1312,5993,Skyline Elementary School,Skyline Elementary School,Lincoln High School,1937
+491,10632 SE Cora St,279900,3,1,960,2567,Earl Boyles Elementary,Ron Russell Middle School,David Douglas High School,1955
+492,3707 SW Baird St,649950,4,3,2970,4733,Capitol Hill Elementary School,Jackson Middle School,Wilson High School,1947
+493,7221 N Catlin Ave,358000,2,1,1658,3873,Sitton Elementary School,George Middle School,Roosevelt High School,1910
+494,9715 NW Newton Rd,950000,5,4,4110,16006,Skyline Elementary School,Skyline Elementary School,Lincoln High School,1958
+495,395 NW Brynwood Ln,3250000,4,3,3850,21440,Forest Park Elementary School,West Sylvan Middle School,Lincoln High School,1963
+496,220 SE 132nd Ave,349900,3,2,1554,4140,Russell Elementary,Parkrose Middle School,Parkrose High School,1977
+497,1415 NE 21st Ave ,279900,2,1,964,3556,Buckman Elementary School,Hosford Middle School,Cleveland High School,1949
+498,3125 NE Cesar E Chavez Blvd,799900,2,2,1770,6898,Alameda Elementary School,Beaumont Middle School,Grant High School,1925
+499,6224 SE Harney St,449900,5,4,2115,5641,Whitman Elementary School,Lane Middle School,Cleveland High School,1997
+500,4630 SW Water Ave,565000,3,2,2522,6796,Capitol Hill Elementary School,Jackson Middle School,Wilson High School,1909
+501,5862 SW Ralston Dr,750000,4,2,2859,9681,Rieke Elementary School,Gray Middle School,Wilson High School,2015
+502,3718 SW Hillside Dr,1334999,4,3,4448,7348,Bridlemile Elementary School,Gray Middle School,Wilson High School,1912
+503,2726 SW 28th Dr,699900,4,3,4713,14630,Stephenson Elementary School,Jackson Middle School,Wilson High School,1989
+504,14302 SE Main St,345000,4,1,1460,3899,Parklane Elementary School,Centennial Middle School,Centennial High School,1939
+505,8034 SE 42nd Ave,479900,4,2,1536,4288,Lewis Elementary School,Sellwood Middle School,Cleveland High School,1940
+506,11520 SE Harold St,279900,2,1,720,1880,Earl Boyles Elementary,Ron Russell Middle School,David Douglas High School,1929
+507,3553 SE Long St,754900,4,3,2860,7968,Grout Elementary School,Hosford Middle School,Cleveland High School,1945
+508,7936 SE 64th Ave,374999,4,2,1264,2942,Whitman Elementary School,Lane Middle School,Cleveland High School,1960
+509,2002 SW Dolph Ct,599000,3,2,3395,5550,Capitol Hill Elementary School,Jackson Middle School,Wilson High School,1917
+510,3636 NE 149th Ave,375000,4,2,2221,5682,Margaret Scott Elementary School,Hauton B Lee Middle School,Reynolds High School,1995
+511,1030 NW 12th Ave ,449000,1,1,712,0,Chapman Elementary School,West Sylvan Middle School,Lincoln High School,2013
+512,3165 NE Multnomah St,599900,3,2,1998,4043,Beverly Cleary School,Beverly Cleary School,Grant High School,1924
+513,2649 NW Kennedy Ct,393000,3,3,1675,5978,Forest Park Elementary School,West Sylvan Middle School,Lincoln High School,2003
+514,1616 SW Harbor Way ,390500,2,2,1038,7695,Ainsworth Elementary School,West Sylvan Middle School,Lincoln High School,1986
+515,14918 SE Main St,290000,3,2,1180,4353,Parklane Elementary School,Centennial Middle School,Centennial High School,2004
+516,6807 SE Morrison St,899900,5,3,3600,7636,Glencoe Elementary School,Mt Tabor Middle School,Franklin High School,1912
+517,2343 NE 11th Ave,629000,3,2,2812,8427,Irvington Elementary School,Harriet Tubman Middle School,Jefferson High School / Grant High School,1926
+518,7456 N Stockton,549900,3,2,1693,362,Astor Elementary School,Astor Elementary School,Roosevelt High School,1943
+519,7460 N Stockton Ave,564900,3,2,1802,891,Astor Elementary School,Astor Elementary School,Roosevelt High School,1894
+520,280 NE 60th Ave ,236900,1,1,634,2777,Glencoe Elementary School,Mt Tabor Middle School,Franklin High School,1945
+521,227 SW Florida St,955000,4,3,4297,14246,Rieke Elementary School,Gray Middle School,Wilson High School,2003
+522,1025 SW Bertha Blvd ,200000,2,1,1001,3407,Rieke Elementary School,Gray Middle School,Wilson High School,1961
+523,1616 NW Northrup St,999999,6,4,2884,11259,Chapman Elementary School,West Sylvan Middle School,Lincoln High School,1900
+524,10627 NE Fargo St,329999,4,3,2520,6519,Sacramento Elementary School,Parkrose Middle School,Parkrose High School,1962
+525,2524 NE 63rd Ave,750000,5,2,2291,5992,Rose City Park,Roseway Heights School,Madison High School,1923
+526,8110 SW 6th Ave,870000,4,4,4520,14192,Capitol Hill Elementary School,Jackson Middle School,Wilson High School,1963
+527,2896 SW Patton Rd,3850000,5,5,8155,62492,Ainsworth Elementary School,West Sylvan Middle School,Lincoln High School,1928
+528,9149 NW Mckenna Dr,875000,5,4,4698,17444,Forest Park Elementary School,West Sylvan Middle School,Lincoln High School,1999
+529,12336 NE Brazee St,364900,4,1,2618,3663,Russell Elementary,Parkrose Middle School,Parkrose High School,1943
+530,309 N Bridgeton Rd ,254000,2,1,720,2014,Faubion Elementary School,Faubion Elementary School,Jefferson or Roosevelt High Schools,1985
+531,13610 SE Steele St,252500,2,2,2324,3356,Gilbert Heights Elementary School,Alice Ott Middle School,David Douglas High School,2000
+532,9327 SE Alder St,339000,2,1,786,3016,Harrison Park School,Harrison Park School,Madison High School,1949
+533,6855 NE Morris St,570000,4,3,3232,6664,Rose City Park,Roseway Heights School,Madison High School,1916
+534,10707 SW Riverside Dr,1599500,4,4,4000,29042,Riverdale Grade School,Riverdale Grade School,Riverdale High School,1928
+535,3629 SE Crystal Springs Blvd,674900,4,2,3086,8054,Duniway Elementary School,Sellwood Middle School,Cleveland High School,1942
+536,11301 SW Military Rd,1350000,5,2,3709,11632,Riverdale Grade School,Riverdale Grade School,Riverdale High School,1962
+537,9438 N Gilbert Ave,375000,3,1,1256,3010,James John Elementary School,George Middle School,Roosevelt High School,1957
+538,4933 N Haight Ave,350000,4,1,2292,1618,Boise-Eliot Elementary School,Harriet Tubman Middle School,Jefferson or Grant High Schools,1910
+539,3631 N Vancouver Ave,410000,3,2,1195,3254,Boise-Eliot Elementary School,Harriet Tubman Middle School,Jefferson or Grant High Schools,1995
+540,9180 N Polk Ave,448900,4,2,1822,2847,James John Elementary School,George Middle School,Roosevelt High School,1944
+541,1234 SW 57th Ave,1290000,5,4,3700,10546,Bridlemile Elementary School,West Sylvan Middle School,Lincoln High School,1968
+542,4518 N Fessenden St,450000,3,2,2214,5731,Rosa Parks Elementary School,George Middle School,Roosevelt High School,2007
+543,5925 N Delaware Ave,549000,5,3,2762,5530,Beach Elementary School,Ockley Green School,Jefferson or Roosevelt High Schools,1913
+544,10334 NW Engleman St,900000,6,3,4481,13530,Forest Park Elementary School,West Sylvan Middle School,Lincoln High School,1995
+545,5241 SW Humphrey Blvd,595000,5,3,3930,12396,Bridlemile Elementary School,West Sylvan Middle School,Lincoln High School,1956
+546,315 SW Troy St,529000,4,3,2888,10042,Capitol Hill Elementary School,Jackson Middle School,Wilson High School,1954
+547,10436 SE Reedway St,300000,3,1,2040,3754,Lent Elementary School,Lent Elementary School,Franklin High School,1944
+548,3315 N Russet St,350000,5,4,2224,3724,Peninsula Elementary School,Ockley Green School,Jefferson or Roosevelt High Schools,1924
+549,2909 SW Upper Dr,499000,3,2,2175,7921,Ainsworth Elementary School,West Sylvan Middle School,Lincoln High School,1912
+550,3056 SW Fairmount Blvd,725000,3,3,2918,14938,Ainsworth Elementary School,West Sylvan Middle School,Lincoln High School,1959
+551,1716 NW Riverscape St,987000,2,2,2151,13372,Chapman Elementary School,West Sylvan Middle School,Lincoln High School,2011
+552,13245 NE Sacramento Dr,480000,4,2,2388,5627,Russell Elementary,Parkrose Middle School,Parkrose High School,1958
+553,6330 SE Dunbar Dr,555000,3,3,3923,8615,Pleasant Valley Elementary School,Centennial Middle School,Centennial High School,2004
+554,411 NW Flanders St ,259900,1,1,723,5882,Chapman Elementary School,West Sylvan Middle School,Lincoln High School,2001
+555,5535 SW Hewett Blvd,1935000,5,4,5278,11391,Bridlemile Elementary School,West Sylvan Middle School,Lincoln High School,1940
+556,6255 SW Sheridan St,1325000,4,2,4268,18048,Bridlemile Elementary School,West Sylvan Middle School,Lincoln High School,1995
+557,6342 SE 86th Ave,369000,4,2,1631,4644,Kelly Elementary School,Lane Middle School,Franklin High School,2007
+558,11834 SE Ash St,258000,2,1,900,2029,Ventura Park Elementary School,Floyd Light Middle School,David Douglas High School,1954
+559,6746 SE 75th Ave,315000,3,2,1186,4099,Woodmere Elementary School,Lane Middle School,Franklin High School,2000
+560,4576 NE 47th Ave,425000,2,1,1040,13899,Rigler Elementary School,Beaumont Middle School,Madison High School,1947
+561,4794 NE Going St,420000,2,1,1012,13899,Rigler Elementary School,Beaumont Middle School,Madison High School,1947
+562,4754 NE Going St,420000,2,1,1012,13899,Rigler Elementary School,Beaumont Middle School,Madison High School,1947
+563,4798 NE Going St,530000,4,2,1574,13899,Rigler Elementary School,Beaumont Middle School,Madison High School,1947
+564,4548 NE 47th Ave,495000,3,2,1393,13899,Rigler Elementary School,Beaumont Middle School,Madison High School,1947
+565,10936 NE Wygant St,299900,4,2,2775,2856,Prescott Elementary School,Parkrose Middle School,Parkrose High School,1914
+566,4556 NE 47th Ave,530000,4,2,1574,13899,Rigler Elementary School,Beaumont Middle School,Madison High School,1947
+567,4746 NE Going St,425000,2,1,992,13899,Rigler Elementary School,Beaumont Middle School,Madison High School,1947
+568,4588 NE 47th Ave,425000,2,1,992,13899,Rigler Elementary School,Beaumont Middle School,Madison High School,1947
+569,5547 SE 119th Ave,365000,4,1,1472,2829,Earl Boyles Elementary,Ron Russell Middle School,David Douglas High School,1966
+570,3907 N Albina Ave,750000,3,2,1932,2417,Boise-Eliot Elementary School,Harriet Tubman Middle School,Jefferson or Grant High Schools,1890
+571,3565 NE Lombard Ct,379000,3,2,1968,4007,Faubion Elementary School,Faubion Elementary School,Jefferson or Madison High Schools,1948
+572,4384 SE Nehalem St,689900,3,2,2603,1404,Lewis Elementary School,Sellwood Middle School,Cleveland High School,1952
+573,10521 SW 11th Dr,758900,2,2,2427,10391,Stephenson Elementary School,Jackson Middle School,Wilson High School,1986
+574,3413 SE Division St,849000,3,2,2213,4161,Abernethy Elementary School,Hosford Middle School,Cleveland High School,1916
+575,6609 NE Rodney Ave,799000,3,2,2914,6553,Chief Joseph/Ockley Green School,Ockley Green School,Jefferson or Roosevelt High Schools,1908
+576,4744 NE Going St,530000,4,2,1574,13899,Rigler Elementary School,Beaumont Middle School,Madison High School,1947
+577,2914 NE 50th Ave,975900,5,3,3254,13014,Alameda Elementary School,Beaumont Middle School,Grant High School,1925
+578,4572 NE 47th Ave,425000,2,1,1040,13899,Rigler Elementary School,Beaumont Middle School,Madison High School,1947
+579,1620 NW Riverscape St,599999,2,2,1489,9190,Chapman Elementary School,West Sylvan Middle School,Lincoln High School,2006
+580,7536 N Chatham Ave,739900,6,4,3165,5687,Peninsula Elementary School,Ockley Green School,Jefferson or Roosevelt High Schools,1999
+581,3921 NW Devoto Ln,1390000,5,3,5340,17837,Forest Park Elementary School,West Sylvan Middle School,Lincoln High School,2002
+582,7027 SE Rhone St,429700,5,2,2192,4448,Arleta Elementary School,Arleta Elementary School,Franklin High School,1910
+583,1132 SW 19th Ave ,329900,1,1,662,8828,Chapman Elementary School,West Sylvan Middle School,Lincoln High School,1997
+584,5815 SE Flavel St,335000,3,2,1134,4201,Woodmere Elementary School,Lane Middle School,Franklin High School,1996
+585,317 NE 56th Ave,440000,2,2,1329,5101,Laurelhurst Elementary School,Laurelhurst Elementary School,Grant High School,1997
+586,15348 SE Henderson Way,485500,4,2,3080,6019,Pleasant Valley Elementary School,Centennial Middle School,Centennial High School,2002
+587,2107 NE 14th Ave,1049000,5,2,3850,8249,Irvington Elementary School,Harriet Tubman Middle School,Jefferson High School / Grant High School,1900
+588,1616 SW Montgomery St,695000,2,2,1937,9026,Ainsworth Elementary School,West Sylvan Middle School,Lincoln High School,2004
+589,6035 SE Reed College Pl,1620000,5,4,5710,23973,Duniway Elementary School,Sellwood Middle School,Cleveland High School,1939
+590,9780 SW 54th Ave,699000,5,3,2595,3999,Markham Elementary School,Jackson Middle School,Wilson High School,1940
+591,14 SW Whitaker St,525000,3,1,2055,5010,Capitol Hill Elementary School,Jackson Middle School,Wilson High School,1892
+592,627 NE Randall Ave,599900,2,2,1487,1778,Buckman Elementary School,Hosford Middle School,Cleveland High School,1925
+593,623 NE Randall Ave,599900,2,2,1487,1778,Buckman Elementary School,Hosford Middle School,Cleveland High School,1925
+594,621 NE Randall Ave,599900,2,2,1461,1778,Buckman Elementary School,Hosford Middle School,Cleveland High School,1925
+595,2636 SW Hume Ct,334900,2,2,1251,5567,Maplewood Elementary School,Jackson Middle School,Wilson High School,2005
+596,3523 SE Alder St,799900,5,3,2645,5079,Sunnyside Environmental School,Sunnyside Environmental School,Franklin High School,1889
+597,8428 SE 146th Pl,510000,4,3,3318,7311,Pleasant Valley Elementary School,Centennial Middle School,Centennial High School,2007
+598,1542 SW Joshua St,719000,4,3,2760,11375,Stephenson Elementary School,Jackson Middle School,Wilson High School,2007
+599,7735 SE 66th Pl,369000,3,2,1544,3960,Whitman Elementary School,Lane Middle School,Cleveland High School,1947
+600,12621 SE Boise St,259900,3,2,1420,3697,Gilbert Heights Elementary School,Alice Ott Middle School,David Douglas High School,2006
+601,302 NE Morgan St,287500,3,2,1131,4921,Woodlawn Elementary School,Ockley Green School,Jefferson or Roosevelt High Schools,2008
+602,4650 SW Ormandy Way,650000,4,2,2080,11651,Ainsworth Elementary School,West Sylvan Middle School,Lincoln High School,1980
+603,15715 NE Beech St ,123900,2,2,978,2023,Margaret Scott Elementary School,Hauton B Lee Middle School,Reynolds High School,2001
+604,3526 NE Fremont St,1200000,4,2,4756,9052,Alameda Elementary School,Beaumont Middle School,Grant High School,1919
+605,1210 SE 135th Ave,349000,3,1,2100,4234,Menlo Park Elementary School,Floyd Light Middle School,David Douglas High School,1951
+606,2834 NE Alameda St,1299900,6,4,5837,24726,Alameda Elementary School,Beaumont Middle School,Grant High School,1917
+607,2122 SW 18th Ave,899000,3,3,2877,14098,Ainsworth Elementary School,West Sylvan Middle School,Lincoln High School,1886
+608,4019 N Overlook Ter,995000,3,2,2756,12856,Beach Elementary School,Ockley Green School,Jefferson or Roosevelt High Schools,1998
+609,528 SE 128th Ave,329000,3,1,1170,3398,Menlo Park Elementary School,Floyd Light Middle School,David Douglas High School,1954
+610,2929 SE 17th Ave,458500,2,1,1764,3322,Abernethy Elementary School,Hosford Middle School,Cleveland High School,1905
+611,629 NE Randall Ave,599900,2,2,1554,1778,Buckman Elementary School,Hosford Middle School,Cleveland High School,1925
+612,7621 SE Barbara Welch Rd,800000,4,4,4081,8491,Pleasant Valley Elementary School,Centennial Middle School,Centennial High School,1943
+613,6886 NE 13th Ave,499900,3,2,1712,3104,Woodlawn Elementary School,Ockley Green School,Jefferson or Roosevelt High Schools,1914
+614,1944 NW Cedar Ridge Dr,999000,4,3,4540,16318,Forest Park Elementary School,West Sylvan Middle School,Lincoln High School,1999
+615,3441 SE 111th Ave ,47900,2,1,672,13455,West Powellhurst Elementary School,Ron Russell Middle School,David Douglas High School,1964
+616,4005 SE Sherman St,574989,4,2,1874,3177,Glencoe Elementary School,Mt Tabor Middle School,Franklin High School,1911
+617,6434 SE 138th Pl,319990,3,2,1297,3844,Gilbert Park Elementary School,Alice Ott Middle School,David Douglas High School,2003
+618,7033 SE 29th Ave,724900,4,2,2634,8026,Duniway Elementary School,Sellwood Middle School,Cleveland High School,1930
+619,1524 NE 148th Pl,370000,2,2,1713,5569,Margaret Scott Elementary School,Hauton B Lee Middle School,Reynolds High School,1993
+620,8405 SE 23rd Ave,267000,2,1,1030,4030,Duniway Elementary School,Sellwood Middle School,Cleveland High School,1975
+621,7926 SE 6th Ave,775000,3,2,1800,18977,Llewellyn Elementary School,Sellwood Middle School,Cleveland High School,2017
+622,7932 SE 6th Ave,775000,3,2,1800,18977,Llewellyn Elementary School,Sellwood Middle School,Cleveland High School,2017
+623,9746 NW Sunrise Ln,1850000,5,4,6395,30087,Forest Park Elementary School,West Sylvan Middle School,Lincoln High School,2004
+624,5035 N Montana Ave,375500,4,2,2541,3750,Beach Elementary School,Ockley Green School,Jefferson or Roosevelt High Schools,1906
+625,2738 SW Robins Crest Dr,1450000,5,3,5846,19972,Ainsworth Elementary School,West Sylvan Middle School,Lincoln High School,1940
+626,5035 NE 24th Ave,849900,5,3,2645,2483,Vernon Elementary School,Vernon Elementary School,Jefferson or Madison High Schools,1910
+627,5615 SE 115th Ave,368000,3,2,2132,3821,Earl Boyles Elementary,Ron Russell Middle School,David Douglas High School,1962
+628,8940 NW Skyline Blvd,594000,5,2,2688,8978,Skyline Elementary School,Skyline Elementary School,Lincoln High School,1960
+629,917 SW Palatine St,885000,4,3,3738,15035,Stephenson Elementary School,Jackson Middle School,Wilson High School,1992
+630,7945 SE 104th Ave,410000,3,2,1740,4218,Gilbert Park Elementary School,Alice Ott Middle School,David Douglas High School,1976
+631,1405 SE 168th Pl,319950,3,2,1282,2819,Patrick Lynch Elementary School,Centennial Middle School,Centennial High School,1957
+632,12818 SE Mill St,579900,5,3,3098,6049,Mill Park Elementary School,Ron Russell Middle School,David Douglas High School,1949
+633,15519 SE Belmore Hts,439900,4,3,2409,6007,Pleasant Valley Elementary School,Centennial Middle School,Centennial High School,2003
+634,1719 NW Irving St,875000,4,2,3144,13844,Chapman Elementary School,West Sylvan Middle School,Lincoln High School,1893
+635,1111 NE 37th Ave,1165000,3,3,3341,14207,Laurelhurst Elementary School,Laurelhurst Elementary School,Grant High School,1932
+636,2179 NW Hoyt St,720000,3,1,2119,5825,Chapman Elementary School,West Sylvan Middle School,Lincoln High School,1902
+637,11108 SW 65th Ave,385000,3,2,1273,5672,Markham Elementary School,Jackson Middle School,Wilson High School,1990
+638,6623 N Astor St,299000,2,1,768,2295,James John Elementary School,George Middle School,Roosevelt High School,1949
+639,590 NW Alpine Ter,850000,2,2,2147,11958,Chapman Elementary School,West Sylvan Middle School,Lincoln High School,1966
+640,7444 SW Laview Dr,450000,2,1,1114,7760,Capitol Hill Elementary School,Jackson Middle School,Wilson High School,1963
+641,6906 SE Nehalem St,275000,2,1,612,2933,Whitman Elementary School,Lane Middle School,Cleveland High School,1940
+642,2650 SW Cross Ave,1350000,3,2,3572,19590,Ainsworth Elementary School,West Sylvan Middle School,Lincoln High School,1964
+643,9826 SE Caruthers St,489000,5,2,2441,5998,Cherry Park Elementary School,Floyd Light Middle School,David Douglas High School,2007
+644,3919 NE Tillamook St,575000,2,2,1848,6713,Beverly Cleary School,Beverly Cleary School,Grant High School,1998
+645,18700 NW Logie Trail Rd,510000,3,1,2511,5537,Skyline Elementary School,Skyline Elementary School,Lincoln High School,1943
+646,726 NW 11th Ave ,464000,1,1,817,4593,Chapman Elementary School,West Sylvan Middle School,Lincoln High School,2000
+647,7125 SW 3rd Ave,699900,3,2,3548,5978,Rieke Elementary School,Gray Middle School,Wilson High School,1888
+648,7301 SW 26th Ave,499900,3,1,1597,4567,Hayhurst Elementary School,Gray Middle School,Wilson High School,1943
+649,2706 SE 138th Ave ,149900,2,1,796,1805,Lincoln Park Elementary School,Ron Russell Middle School,David Douglas High School,1974
+650,2743 NW Thurman St ,259000,1,1,651,3332,Chapman Elementary School,West Sylvan Middle School,Lincoln High School,1933
+651,924 NE 72nd Ave,399900,3,1,1210,3864,Vestal Elementary School,Roseway Heights School,Madison High School,1971
+652,4926 SW Corbett Ave ,329995,2,2,1126,5042,Capitol Hill Elementary School,Jackson Middle School,Wilson High School,1979
+653,38 NE 148th Ave,375000,3,2,1475,3460,Glenfair Elementary School,Hauton B Lee Middle School,Reynolds High School,1952
+654,13611 NW Glendoveer Dr,999000,4,3,3645,15992,Skyline Elementary School,Skyline Elementary School,Lincoln High School,1998
+655,225 SW Carson St,479900,4,1,2519,7959,Capitol Hill Elementary School,Jackson Middle School,Wilson High School,1949
+656,2349 NW Pinnacle Dr,1376000,5,4,6444,23531,Forest Park Elementary School,West Sylvan Middle School,Lincoln High School,2005
+657,10921 SE Flavel St,365000,3,2,1320,4465,Gilbert Park Elementary School,Alice Ott Middle School,David Douglas High School,1987
+658,636 SE 156th Ave,385000,3,1,1732,4661,Parklane Elementary School,Centennial Middle School,Centennial High School,1968
+659,9525 SW 12th Dr,595000,2,1,1910,6775,Capitol Hill Elementary School,Jackson Middle School,Wilson High School,1949
+660,2799 SW Roswell Ave,544900,2,2,1616,8689,Ainsworth Elementary School,West Sylvan Middle School,Lincoln High School,1920
+661,3114 SW Wilbard St,649950,4,3,3652,10483,Stephenson Elementary School,Jackson Middle School,Wilson High School,1999
+662,3927 NW Devoto Ln,835800,5,4,5858,23072,Forest Park Elementary School,West Sylvan Middle School,Lincoln High School,2002
+663,10304 NE Tillamook St,459900,6,2,2342,4725,Sacramento Elementary School,Parkrose Middle School,Parkrose High School,1965
+664,66 NW Macleay Blvd,673000,4,2,2757,11238,Chapman Elementary School,West Sylvan Middle School,Lincoln High School,1923
+665,3507 NE Wasco St,599950,4,2,3402,9041,Laurelhurst Elementary School,Laurelhurst Elementary School,Grant High School,1924
+666,16430 NW Mcnamee Rd,366000,3,2,1848,4590,Skyline Elementary School,Skyline Elementary School,Lincoln High School,1999
+667,8055 SE Bybee Blvd,599000,3,1,2316,3414,Woodmere Elementary School,Lane Middle School,Franklin High School,1914
+668,8357 SW 24th Ave,364900,2,2,1162,5351,Maplewood Elementary School,Jackson Middle School,Wilson High School,2005
+669,6837 N Montana Ave,590000,2,1,1461,3144,Chief Joseph/Ockley Green School,Ockley Green School,Jefferson or Roosevelt High Schools,1926
+670,3312 NE 48th Ave,799500,4,3,3477,7518,Alameda Elementary School,Beaumont Middle School,Grant High School,1924
+671,2820 N Willamette Blvd,560000,4,2,2579,5671,Beach Elementary School,Ockley Green School,Jefferson or Roosevelt High Schools,1928
+672,5170 SW Landing Dr ,399000,2,2,1009,6575,Capitol Hill Elementary School,Jackson Middle School,Wilson High School,1988
+673,8822 N Swenson St,480000,4,3,2032,5906,Sitton Elementary School,George Middle School,Roosevelt High School,2008
+674,14261 NE Shaver St,339985,3,2,1836,5444,Margaret Scott Elementary School,Hauton B Lee Middle School,Reynolds High School,1978
+675,6603 N Amherst St,685500,4,3,3187,6939,Astor Elementary School,Astor Elementary School,Roosevelt High School,1925
+676,529 NW 21st Ave,760000,5,3,2891,7303,Chapman Elementary School,West Sylvan Middle School,Lincoln High School,1900
+677,10812 SE Powell Blvd,259000,1,1,960,1153,Earl Boyles Elementary,Ron Russell Middle School,David Douglas High School,1950
+678,9748 NW Miller Hill Dr,329900,2,2,1426,5532,Forest Park Elementary School,West Sylvan Middle School,Lincoln High School,1995
+679,6111 SW Lesser Way,499999,4,3,2780,7803,Markham Elementary School,Jackson Middle School,Wilson High School,2002
+680,7118 SE 156th Ave,479000,4,3,2426,7119,Pleasant Valley Elementary School,Centennial Middle School,Centennial High School,1998
+681,4504 NE 95th Ave,425800,2,1,1650,2467,Prescott Elementary School,Parkrose Middle School,Parkrose High School,1926
+682,4812 NE Mallory Ave,1999990,3,3,3486,2320,King Elementary School,Harriet Tubman Middle School,Jefferson or Grant High Schools,1910
+683,195 N Lotus Beach Dr,785000,3,3,2846,11395,Faubion Elementary School,Faubion Elementary School,Jefferson or Roosevelt High Schools,1982
+684,6208 NE Killingsworth St,699000,6,2,2650,10094,Scott Elementary School,Roseway Heights School,Madison High School,1934
+685,154 N Hayden Bay Dr,339777,2,1,952,4146,Faubion Elementary School,Faubion Elementary School,Jefferson or Roosevelt High Schools,1983
+686,7244 SE Taylor St,825000,4,3,2627,6102,Bridger Elementary School,Bridger Elementary School,Franklin High School,1925
+687,1883 SW Vista Ave,1925000,8,4,7870,33986,Ainsworth Elementary School,West Sylvan Middle School,Lincoln High School,1908
+688,8427 SE Alder St,279999,2,1,1100,3876,Harrison Park School,Harrison Park School,Madison High School,1925
+689,3737 NE 135th Ave,475000,5,3,3262,7746,Shaver Elementary School,Parkrose Middle School,Parkrose High School,1964
+690,2506 SE Grant St,915000,3,1,3284,7554,Abernethy Elementary School,Hosford Middle School,Cleveland High School,1911
+691,1683 SE Linn St,299900,2,1,948,3917,Duniway Elementary School,Sellwood Middle School,Cleveland High School,1997
+692,1504 NE 57th Ave,450000,4,2,2667,5822,Rose City Park,Roseway Heights School,Madison High School,1940
+693,8520 SW 20th Ave,599000,7,3,2772,7637,Capitol Hill Elementary School,Jackson Middle School,Wilson High School,1989
+694,2397 SW Montgomery Dr,899000,5,3,4603,14664,Ainsworth Elementary School,West Sylvan Middle School,Lincoln High School,1914
+695,15324 NW Red Cedar Ct,1115000,6,5,6100,18360,Skyline Elementary School,Skyline Elementary School,Lincoln High School,2006
+696,10440 N Oswego Ave,429900,4,1,1261,3795,Sitton Elementary School,George Middle School,Roosevelt High School,1959
+697,4241 SW 41st Ave,579950,3,3,2644,11043,Bridlemile Elementary School,Gray Middle School,Wilson High School,1977
+698,2448 SW Commonwealth Ave,2250000,5,3,5884,24893,Ainsworth Elementary School,West Sylvan Middle School,Lincoln High School,1989
+699,3027 NW Montara Loop,575000,3,3,2968,9243,Forest Park Elementary School,West Sylvan Middle School,Lincoln High School,2000
+700,3401 SE Brooklyn St,639000,3,2,2684,6220,Grout Elementary School,Hosford Middle School,Cleveland High School,1909
+701,703 NE 79th Ave,427000,8,3,3040,6201,Vestal Elementary School,Roseway Heights School,Madison High School,1910
+702,2037 SE 90th Pl,389000,4,2,1706,3934,Harrison Park School,Harrison Park School,Madison High School,1972
+703,1826 NE Clackamas St,889000,4,2,3076,8048,Buckman Elementary School,Hosford Middle School,Cleveland High School,1917
+704,14439 SE Crystal St,599900,5,4,4280,8341,Pleasant Valley Elementary School,Centennial Middle School,Centennial High School,2007
+705,12804 E Burnside St,339999,3,1,1325,3570,Menlo Park Elementary School,Floyd Light Middle School,David Douglas High School,1953
+706,4031 NE 78th Ave,429900,2,1,2058,4865,Scott Elementary School,Roseway Heights School,Madison High School,1950
+707,2217 N Terry St,439900,4,2,2228,3191,Peninsula Elementary School,Ockley Green School,Jefferson or Roosevelt High Schools,1911
+708,6145 E Burnside St,474000,3,2,2706,4052,Glencoe Elementary School,Mt Tabor Middle School,Franklin High School,1900
+709,1722 SW Vista Ave,1450000,4,3,3972,18764,Ainsworth Elementary School,West Sylvan Middle School,Lincoln High School,1910
+710,3808 SW Mount Adams Dr,1400000,5,3,5049,7512,Ainsworth Elementary School,West Sylvan Middle School,Lincoln High School,1908
+711,2043 NE Tillamook St,1650000,5,4,6767,18200,Irvington Elementary School,Harriet Tubman Middle School,Jefferson High School / Grant High School,1911
+712,6049 NE Flanders St,725000,5,4,2387,9053,Glencoe Elementary School,Mt Tabor Middle School,Franklin High School,1915
+713,501 NE Bridgeton Rd ,324900,3,2,1485,5312,Faubion Elementary School,Faubion Elementary School,Jefferson or Roosevelt High Schools,1956
+714,1416 NW 24th Ave,1295000,5,4,2949,17180,Chapman Elementary School,West Sylvan Middle School,Lincoln High School,1896
+715,3546 SW Hillside Dr,475000,2,2,1269,5733,Bridlemile Elementary School,Gray Middle School,Wilson High School,1921
+716,40 SE 133rd Ave ,349000,3,2,1688,3626,Russell Elementary,Parkrose Middle School,Parkrose High School,1943
+717,6703 N Salem Ave,309000,2,1,1059,3955,James John Elementary School,George Middle School,Roosevelt High School,2008
+718,7246 SE 141st Ave,549000,4,3,3570,7976,Gilbert Park Elementary School,Alice Ott Middle School,David Douglas High School,1994
+719,8209 SE Pineridge Ct,689888,5,5,3290,3241,Gilbert Park Elementary School,Alice Ott Middle School,David Douglas High School,2019
+720,3240 SW Sherwood Pl,650000,4,3,3425,12116,Ainsworth Elementary School,West Sylvan Middle School,Lincoln High School,1964
+721,9323 SW 52nd Ave,355000,2,1,704,3921,Markham Elementary School,Jackson Middle School,Wilson High School,1951
+722,2709 SW Patton Ct,650000,4,3,3071,13051,Ainsworth Elementary School,West Sylvan Middle School,Lincoln High School,1963
+723,2021 SE Larch Ave,639900,3,2,3163,6499,Abernethy Elementary School,Hosford Middle School,Cleveland High School,1938
+724,707 NE Church St,415000,3,1,1566,3104,King Elementary School,Harriet Tubman Middle School,Jefferson or Grant High Schools,1999
+725,2624 NE Clackamas St,679900,3,3,2818,6839,Irvington Elementary School,Harriet Tubman Middle School,Jefferson High School / Grant High School,1928
+726,8327 SE Clatsop St,469000,2,1,1636,3608,Kelly Elementary School,Lane Middle School,Franklin High School,1910
+727,5115 SE Henderson St,195000,1,1,494,1691,Lewis Elementary School,Sellwood Middle School,Cleveland High School,1924
+728,8702 SW 41st Ave,439900,4,2,2293,5326,Maplewood Elementary School,Jackson Middle School,Wilson High School,1924
+729,3510 SW Sherwood Pl,1498000,4,3,4383,26192,Ainsworth Elementary School,West Sylvan Middle School,Lincoln High School,1962
+730,4405 SW Selling Ct,975000,4,3,4161,18909,Bridlemile Elementary School,Gray Middle School,Wilson High School,1990
+731,7523 SE 120th Pl,524500,4,3,2996,9552,Gilbert Park Elementary School,Alice Ott Middle School,David Douglas High School,2005
+732,12336 SE Stephens St,355900,3,1,1526,3129,Mill Park Elementary School,Ron Russell Middle School,David Douglas High School,1946
+733,11652 SW 31st Ct,849900,6,2,4447,15862,Stephenson Elementary School,Jackson Middle School,Wilson High School,1996
+734,429 NW Skyline Blvd,2450000,5,3,5394,17660,Forest Park Elementary School,West Sylvan Middle School,Lincoln High School,1928
+735,314 N Hayden Bay Dr,449000,2,3,1927,7057,Faubion Elementary School,Faubion Elementary School,Jefferson or Roosevelt High Schools,1973
+736,14125 NW Germantown Rd,4000000,5,5,13000,47750,Skyline Elementary School,Skyline Elementary School,Lincoln High School,1967
+737,2417 NE Dekum St,339000,3,1,880,3177,Faubion Elementary School,Faubion Elementary School,Jefferson or Madison High Schools,1981
+738,17448 SE Marie St,285000,2,1,1428,2248,Meadows Elementary School,Centennial Middle School,Centennial High School,1925
+739,2324 NW Pinnacle Dr,1498000,4,3,5606,20561,Forest Park Elementary School,West Sylvan Middle School,Lincoln High School,2001
+740,3735 SE Martins St,1200000,9,7,6345,17015,Duniway Elementary School,Sellwood Middle School,Cleveland High School,1991
+741,3336 NE Cadet Ave,649000,3,3,4346,9665,Lee Elementary School,Roseway Heights School,Madison High School,1969
+742,3506 NE 145th Ave,654000,4,3,3376,7138,Margaret Scott Elementary School,Hauton B Lee Middle School,Reynolds High School,1969
+743,6330 SW Sweetbriar Ct,1998000,6,5,6238,23618,Bridlemile Elementary School,West Sylvan Middle School,Lincoln High School,2005
+744,5135 NW Saint Helens Rd,777000,3,1,2784,4519,Skyline Elementary School,Skyline Elementary School,Lincoln High School,1937
+745,3129 NE Rocky Butte Rd,870000,3,3,3431,11206,Lee Elementary School,Roseway Heights School,Madison High School,1979
+746,531 N Bridgeton Rd ,317000,1,1,831,0,Faubion Elementary School,Faubion Elementary School,Jefferson or Roosevelt High Schools,2000
+747,4425 SW 47th Dr,1035000,6,3,4044,16554,Bridlemile Elementary School,Gray Middle School,Wilson High School,2016
+748,9328 SW 30th Ave,639000,6,4,4308,10381,Capitol Hill Elementary School,Jackson Middle School,Wilson High School,2010
+749,4470 SE 12th Ave,475000,2,1,1356,2583,Grout Elementary School,Hosford Middle School,Cleveland High School,1956
+750,3369 NE 162nd Ave,149990,2,1,892,1385,Margaret Scott Elementary School,Hauton B Lee Middle School,Reynolds High School,1979
+751,9129 NE Webster St,269000,3,1,2043,2793,Shaver Elementary School,Parkrose Middle School,Parkrose High School,1911
+752,2630 N Hayden Island Dr ,329000,2,2,1350,41782,Faubion Elementary School,Faubion Elementary School,Jefferson or Roosevelt High Schools,1997
+753,3438 SE Tolman St,659000,4,2,3035,8914,Duniway Elementary School,Sellwood Middle School,Cleveland High School,1937
+754,10320 NE 6th Dr,310000,2,1,2388,4699,Faubion Elementary School,Faubion Elementary School,Jefferson or Roosevelt High Schools,1943
+755,8426 SE Lambert St,349950,3,1,1863,3694,Kelly Elementary School,Lane Middle School,Franklin High School,1930
+756,365 N Lotus Beach Dr,750000,2,2,3288,12032,Faubion Elementary School,Faubion Elementary School,Jefferson or Roosevelt High Schools,1982
+757,9912 NW Wind Ridge Dr,8650000,4,4,11807,87591,Forest Park Elementary School,West Sylvan Middle School,Lincoln High School,2001
+758,5820 N Maryland Ave,429900,2,1,783,2508,Beach Elementary School,Ockley Green School,Jefferson or Roosevelt High Schools,1955
+759,10238 NW Langworthy Ter,1349000,4,4,4601,17324,Forest Park Elementary School,West Sylvan Middle School,Lincoln High School,2014
+760,2454 SW Arden Rd,669000,3,2,2840,9435,Ainsworth Elementary School,West Sylvan Middle School,Lincoln High School,1910
+761,1625 NW Johnson St,879900,3,4,2996,8943,Chapman Elementary School,West Sylvan Middle School,Lincoln High School,1906
+762,2807 SW Plum Ct,549900,5,3,2680,7662,Stephenson Elementary School,Jackson Middle School,Wilson High School,1969
+763,11020 NW Laidlaw Rd,1350000,6,5,5613,15673,Bonny Slope Elementary School,Cedar Park Middle School,Sunset High School,2005
+764,4450 W Burnside Rd,1500000,5,3,3858,15991,Ainsworth Elementary School,West Sylvan Middle School,Lincoln High School,2011
+765,10640 NE Beech St,740000,5,2,2540,5569,Prescott Elementary School,Parkrose Middle School,Parkrose High School,1914
+766,3939 N Marine Dr ,429900,2,2,1576,11075,Faubion Elementary School,Faubion Elementary School,Jefferson or Roosevelt High Schools,1981
+767,5335 SW Patton Rd,6975000,4,5,8162,38872,Bridlemile Elementary School,Gray Middle School,Wilson High School,1971
+768,18655 NW Sauvie Island Rd,899000,3,3,2888,7280,Sauvie Island Academy,Sauvie Island Academy,Scappoose High School,1992
+769,9334 N Tyler Ave,172900,2,1,879,1550,James John Elementary School,George Middle School,Roosevelt High School,1905
+770,408 NE 76th Ave,559950,4,2,2242,6188,Vestal Elementary School,Roseway Heights School,Madison High School,1906
+771,3368 SW Fairmount Blvd,645000,3,2,2626,9541,Rieke Elementary School,Gray Middle School,Wilson High School,1923
+772,310 NW Maywood Dr,995000,4,3,3348,18108,Chapman Elementary School,West Sylvan Middle School,Lincoln High School,1929
+773,14804 NW Red Cedar Ct,1125000,4,4,4645,17315,Skyline Elementary School,Skyline Elementary School,Lincoln High School,2017
+774,11728 SW Summerville Ave,1980000,6,6,7667,37408,Riverdale Grade School,Riverdale Grade School,Riverdale High School,1979
+775,7623 SE 110th Ave,490000,6,2,3225,6727,Gilbert Park Elementary School,Alice Ott Middle School,David Douglas High School,1990
+776,7504 SE 28th Ave,639000,4,2,2469,9681,Duniway Elementary School,Sellwood Middle School,Cleveland High School,1928
+777,800 NW Powhatan Ter,1499900,4,4,5425,22292,Chapman Elementary School,West Sylvan Middle School,Lincoln High School,1956
+778,5109 SE 46th Ave,624900,8,4,5021,8414,Woodstock Elementary School,Hosford Middle School,Cleveland High School,1952
+779,1380 SW Carson St,824900,5,2,2668,3941,Capitol Hill Elementary School,Jackson Middle School,Wilson High School,1944
+780,1368 SW Carson St,874900,5,3,2950,3941,Capitol Hill Elementary School,Jackson Middle School,Wilson High School,1944
+781,2393 SW Park Pl ,499000,2,2,1092,8214,Ainsworth Elementary School,West Sylvan Middle School,Lincoln High School,1964
+782,2646 NW Cornell Rd,1475000,4,4,5331,22479,Chapman Elementary School,West Sylvan Middle School,Lincoln High School,1909
+783,4318 SW Fairview Circus,2200000,4,3,4817,41459,Ainsworth Elementary School,West Sylvan Middle School,Lincoln High School,1965
+784,2972 SW Champlain Dr,677000,3,2,2140,10731,Ainsworth Elementary School,West Sylvan Middle School,Lincoln High School,1924
+785,1111 SE 144th Ave,329900,4,2,1796,3602,Parklane Elementary School,Centennial Middle School,Centennial High School,1950
+786,1011 NW Glisan St ,1450000,2,2,2474,7008,Chapman Elementary School,West Sylvan Middle School,Lincoln High School,1905
+787,22505 NW Gillihan Rd,899000,5,3,3855,9426,Sauvie Island Academy,Sauvie Island Academy,Scappoose High School,1975
+788,6440 SW Parkhill Way,849900,3,2,3215,13153,Rieke Elementary School,Gray Middle School,Wilson High School,1937
+789,10615 SW 42nd Ave,775000,3,2,3660,11213,Markham Elementary School,Jackson Middle School,Wilson High School,1963
+790,4077 SW Kanan Dr,799000,5,4,3035,10293,Hayhurst Elementary School,Gray Middle School,Wilson High School,1995
+791,23586 NW Saint Helens Rd ,315000,2,2,1100,4356,Grant Watts Elementary School,Scappoose Middle School,Scappoose High School,1997
+792,6248 N Concord Ave,799000,6,4,2966,10839,Chief Joseph/Ockley Green School,Ockley Green School,Jefferson or Roosevelt High Schools,2017
+793,1816 NE Saratoga St,599900,6,2,3592,5509,Faubion Elementary School,Faubion Elementary School,Jefferson or Madison High Schools,1949
+794,1525 NE Marine Dr,2998000,5,5,6310,36571,Faubion Elementary School,Faubion Elementary School,Jefferson or Roosevelt High Schools,2005
+795,2405 SE 156th Ave,469900,4,2,1936,4874,Parklane Elementary School,Centennial Middle School,Centennial High School,1961
+796,1436 SE 148th Ave,255000,3,1,976,2222,Parklane Elementary School,Centennial Middle School,Centennial High School,1938
+797,785 NE Jessup St,739000,4,3,2667,7562,King Elementary School,Harriet Tubman Middle School,Jefferson or Grant High Schools,1890
+798,2424 SW Montgomery Dr,4985000,7,5,14335,83454,Ainsworth Elementary School,West Sylvan Middle School,Lincoln High School,1918
+799,13616 NW Glendoveer Dr,1899000,4,4,7038,29831,Skyline Elementary School,Skyline Elementary School,Lincoln High School,1999
+800,1903 SE 29th Ave,1175000,4,3,2740,11233,Abernethy Elementary School,Hosford Middle School,Cleveland High School,1915
+801,23586 NW St. Helens Rd,359000,2,2,1300,4356,Grant Watts Elementary School,Scappoose Middle School,Scappoose High School,1997
+802,11355 SW Northgate Ct,1775000,5,5,6772,30145,Riverdale Grade School,Riverdale Grade School,Riverdale High School,1991
+803,2323 SW Park Pl ,230000,2,2,1210,298407,Ainsworth Elementary School,West Sylvan Middle School,Lincoln High School,1960
+804,3932 SE 16th Ave,338500,3,2,1230,5366,Grout Elementary School,Hosford Middle School,Cleveland High School,1995
+805,3932 SE Gladstone St,449900,2,1,1782,4288,Grout Elementary School,Hosford Middle School,Cleveland High School,1909
+806,12113 SE Foster Rd,825000,5,2,4848,0,Earl Boyles Elementary,Ron Russell Middle School,David Douglas High School,1930
+807,11010 SW Tryon Ave,1599000,4,4,4644,15674,Riverdale Grade School,Riverdale Grade School,Riverdale High School,1994
+808,905 N Harbour Dr ,499000,4,4,2664,8026,Faubion Elementary School,Faubion Elementary School,Jefferson or Roosevelt High Schools,2000
+809,4341 NE 92nd Ave,360000,3,2,1919,4280,Russell Elementary,Parkrose Middle School,Parkrose High School,1925
+810,7704 NW Skyline Blvd,399000,2,1,936,4738,Skyline Elementary School,Skyline Elementary School,Lincoln High School,1941
+811,1610 NW Mayfield Rd,650000,3,2,2306,9789,Forest Park Elementary School,West Sylvan Middle School,Lincoln High School,1993
+812,807 N Alberta St,599999,4,2,2730,5320,Beach Elementary School,Ockley Green School,Jefferson or Roosevelt High Schools,1910
+813,8308 SE Hawthorne Blvd,289900,2,1,878,2604,Harrison Park School,Harrison Park School,Madison High School,1912
+814,1503 NE Schuyler St,1750000,8,9,9212,24078,Irvington Elementary School,Harriet Tubman Middle School,Jefferson High School / Grant High School,1906
+815,4932 SW Slavin Rd,419900,3,2,2252,7051,Capitol Hill Elementary School,Jackson Middle School,Wilson High School,2005
+816,2243 NE 11th Ave,1052000,6,3,4091,9434,Irvington Elementary School,Harriet Tubman Middle School,Jefferson High School / Grant High School,1906
+817,620 N Hayden Bay Dr,439900,3,1,1816,6765,Faubion Elementary School,Faubion Elementary School,Jefferson or Roosevelt High Schools,1971
+818,5045 SE Ramona St,774900,4,3,2533,6370,Woodstock Elementary School,Hosford Middle School,Cleveland High School,1915
+819,4642 NE Sumner St,474000,1,1,1532,3930,Vernon Elementary School,Vernon Elementary School,Jefferson or Madison High Schools,1926
+820,3146 SW Fairmount Blvd,1425000,5,4,5188,22484,Rieke Elementary School,Gray Middle School,Wilson High School,2006
+821,5015 SW Dosch Rd,850000,6,3,3802,9244,Bridlemile Elementary School,Gray Middle School,Wilson High School,1907
+822,8270 SW 8th Ave,789900,4,3,2621,3809,Capitol Hill Elementary School,Jackson Middle School,Wilson High School,1949
+823,5114 NE 109th Ave,235000,2,1,727,1310,Shaver Elementary School,Parkrose Middle School,Parkrose High School,1947
+824,2744 SW Sherwood Dr,1300000,4,3,5882,19417,Ainsworth Elementary School,West Sylvan Middle School,Lincoln High School,1948
+825,921 SW Davenport St,1449000,4,3,3950,25734,Ainsworth Elementary School,West Sylvan Middle School,Lincoln High School,1964
+826,11325 NW Laidlaw Rd,649000,3,1,2575,6264,Bonny Slope Elementary School,Cedar Park Middle School,Sunset High School,1932
+827,7240 NW Summitview Dr,1125000,6,4,5536,13046,Forest Park Elementary School,West Sylvan Middle School,Lincoln High School,1997
+828,2351 SE 156th Ave,315000,2,1,1436,4549,Parklane Elementary School,Centennial Middle School,Centennial High School,1900
+829,534 NE 67th Ave,474950,5,2,2123,3449,Vestal Elementary School,Roseway Heights School,Madison High School,1908
+830,1815 SW Montgomery Dr,2095000,4,3,6174,34829,Ainsworth Elementary School,West Sylvan Middle School,Lincoln High School,1914
+831,720 NW Warrenton Ter,1495000,4,3,5248,23675,Chapman Elementary School,West Sylvan Middle School,Lincoln High School,1930
+832,6822 N Interstate Ave,324900,2,1,750,2400,Chief Joseph/Ockley Green School,Ockley Green School,Jefferson or Roosevelt High Schools,1926
+833,14616 NW Rock Creek Rd,690000,4,3,2329,5567,Skyline Elementary School,Skyline Elementary School,Lincoln High School,1993
+834,2524 NW Skyline Blvd,1599000,3,4,4625,23710,Forest Park Elementary School,West Sylvan Middle School,Lincoln High School,1995
+835,16501 SE Powell Blvd,349000,3,1,960,3136,Powell Butte Elementary School,Centennial Middle School,Centennial High School,1925
+836,14025 NW Charlton Rd,1295000,6,4,4673,7336,Sauvie Island Academy,Sauvie Island Academy,Scappoose High School,1975
+837,1822 NE 47th Ave,623900,4,3,3144,5719,Rose City Park,Roseway Heights School,Madison High School,1919
+838,7701 SE 162nd Ave,799900,3,3,3468,15080,Pleasant Valley Elementary School,Centennial Middle School,Centennial High School,1935
+839,9025 NE Sandy Blvd,998999,2,1,834,1952,Russell Elementary,Parkrose Middle School,Parkrose High School,1925
+840,3638 NE 158th Ave,249900,3,2,1286,3438,Margaret Scott Elementary School,Hauton B Lee Middle School,Reynolds High School,2003

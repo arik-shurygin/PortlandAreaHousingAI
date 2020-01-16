@@ -1,0 +1,842 @@
+Street,Price,Beds,Baths,Square Footage,Total Taxes,Elementary School,Middle School,High School,Year built
+1930 SW River Dr ,$700000,2,2,1500,"$24,386",Ainsworth Elementary School,West Sylvan Middle School,Lincoln High School,2006
+16613 SE Lillian Way,$405000,3,2F11/2,2102,"$5,789",Butler Creek Elementary School,Centennial Middle School,Centennial High School,1987
+6615 SE 21st Ave,$465000,2,1,1573,"$4,822",Llewellyn Elementary School,Sellwood Middle School,Cleveland High School,1924
+12424 SE Bybee Blvd,$375000,3,2,2481,"$5,193",Gilbert Park Elementary School,Alice Ott Middle School,David Douglas High School,1954
+336 NE Morgan St,$300000,3,2F11/2,1225,"$4,916",Woodlawn Elementary School,Ockley Green School,Jefferson or Roosevelt High Schools,2008
+3291 NE Irving St,$699900,4,3,3357,"$9,306",Laurelhurst Elementary School,Laurelhurst Elementary School,Grant High School,1922
+5105 SW Evelyn St,$389000,3,2,1470,"$6,166",Markham Elementary School,Jackson Middle School,Wilson High School,1975
+3571 NE Killingsworth St,$399900,2,1,1199,"$2,207",Rigler Elementary School,Beaumont Middle School,Madison High School,1924
+7338 N Fowler Ave,$575000,3,2,3125,"$7,487",Peninsula Elementary School,Ockley Green School,Jefferson or Roosevelt High Schools,1942
+11615 SE Lexington St,$435000,5,3,2554,"$5,112",Gilbert Park Elementary School,Alice Ott Middle School,David Douglas High School,1964
+3432 NE 131st Ave,$389900,4,2F11/2,1913,"$4,970",Shaver Elementary School,Parkrose Middle School,Parkrose High School,1962
+3639 SE Yamhill St,$849900,4,3,5193,"$7,933",Sunnyside Environmental School,Sunnyside Environmental School,Franklin High School,1910
+9712 N Ivanhoe St,$549900,3,2F11/2,2192,"$6,935",Sitton Elementary School,George Middle School,Roosevelt High School,2011
+7301 SW Corbett Ave,$523000,3,2F11/2,2100,"$9,921",Rieke Elementary School,Gray Middle School,Wilson High School,1989
+5916 SW Knightsbridge Dr,$615000,3,2F11/2,3024,"$10,530",Markham Elementary School,Jackson Middle School,Wilson High School,1989
+2105 SE 89th Ave,$399900,2,1,1632,"$3,204",Harrison Park School,Harrison Park School,Madison High School,1929
+7308 SE Woodward St,$469950,3,2,2298,"$4,950",Bridger Elementary School,Bridger Elementary School,Franklin High School,1956
+4521 SW Fairview Blvd,$749900,4,3,3114,"$10,819",Ainsworth Elementary School,West Sylvan Middle School,Lincoln High School,1992
+1500 SW 5th Ave ,$1450000,3,2,2436,"$8,218",Chapman Elementary School,West Sylvan Middle School,Lincoln High School,1973
+1906 NE Junior St,$420000,4,1F11/2,1520,"$4,060",Faubion Elementary School,Faubion Elementary School,Jefferson or Madison High Schools,1973
+6431 SE Morrison St,$599000,3,2,2478,"$5,315",Glencoe Elementary School,Mt Tabor Middle School,Franklin High School,1927
+5607 SE Lambert St,$349950,2,1,978,"$3,288",Lewis Elementary School,Sellwood Middle School,Cleveland High School,1928
+6925 NE Siskiyou St,$349900,3,1,1878,"$3,750",Rose City Park,Roseway Heights School,Madison High School,1912
+322 NE 76th Ave,$450000,4,2,2144,"$3,820",Vestal Elementary School,Roseway Heights School,Madison High School,1909
+7419 N Washburne Ave,$635000,3,2F11/2,3064,"$5,582",Peninsula Elementary School,Ockley Green School,Jefferson or Roosevelt High Schools,1941
+10230 NW Gloaming Ln,$831300,4,3,3110,"$18,088",Forest Park Elementary School,West Sylvan Middle School,Lincoln High School,2005
+12280 SE Main St,$199900,2,1,962,"$1,968",Menlo Park Elementary School,Floyd Light Middle School,David Douglas High School,1966
+5875 NE Failing St,$549900,3,3F11/2,2200,"$5,138",Scott Elementary School,Roseway Heights School,Madison High School,1925
+7230 N Monteith Ave,$369900,3,1,1016,"$3,533",Astor Elementary School,Astor Elementary School,Roosevelt High School,1948
+5230 SW Burton Dr,$1390000,5,3F11/2,3394,"$17,207",Bridlemile Elementary School,West Sylvan Middle School,Lincoln High School,1941
+1220 NE 17th Ave ,$258000,2,1,962,"$2,920",Buckman Elementary School,Hosford Middle School,Cleveland High School,1963
+5522 SE Ramona St,$599900,4,2,2812,"$5,172",Woodstock Elementary School,Hosford Middle School,Cleveland High School,1912
+6143 SW 45th Ave,$425000,3,1,1330,"$5,030",Hayhurst Elementary School,Gray Middle School,Wilson High School,1951
+230 N Lotus Isle Dr,$785000,5,4,3530,"$12,576",Faubion Elementary School,Faubion Elementary School,Jefferson or Roosevelt High Schools,1989
+1255 NW 9th Ave ,$450000,1,1,943,"$4,873",Chapman Elementary School,West Sylvan Middle School,Lincoln High School,2004
+9938 N Jersey St,$225000,3,1,936,"$2,648",Sitton Elementary School,George Middle School,Roosevelt High School,1955
+9946 N Jersey St,$225000,3,1,936,"$2,626",Sitton Elementary School,George Middle School,Roosevelt High School,1955
+1931 SE 58th Ave,$414900,2,1,2300,"$6,706",Atkinson Elementary School,Mt Tabor Middle School,Franklin High School,1926
+4048 SE Salmon St,$665000,3,2,2460,"$3,774",Sunnyside Environmental School,Sunnyside Environmental School,Franklin High School,1900
+2705 N Hunt St,$419999,3,2,1602,"$2,309",Peninsula Elementary School,Ockley Green School,Jefferson or Roosevelt High Schools,1923
+3103 SW Nottingham Dr,$685000,3,2,2106,"$12,056",Ainsworth Elementary School,West Sylvan Middle School,Lincoln High School,1979
+9428 N Haven Ave,$389900,3,2F11/2,1818,"$5,727",Rosa Parks Elementary School,George Middle School,Roosevelt High School,2006
+7125 N Albina Ave,$349000,2,1F11/2,1596,"$3,072",Woodlawn Elementary School,Ockley Green School,Jefferson or Roosevelt High Schools,1956
+5525 NW Skyline Blvd,$1100000,4,3,4562,"$13,067",Skyline Elementary School,Skyline Elementary School,Lincoln High School,1995
+2719 N Farragut St,$469500,4,2,2593,"$3,785",Peninsula Elementary School,Ockley Green School,Jefferson or Roosevelt High Schools,1913
+1715 SE 36th Ave,$589000,4,2,2423,"$4,486",Abernethy Elementary School,Hosford Middle School,Cleveland High School,1911
+11203 SW 27th Ave,$556900,4,2F11/2,2152,"$8,215",Stephenson Elementary School,Jackson Middle School,Wilson High School,1996
+5924 SE Cesar E Chavez Blvd,$649000,4,2,2498,"$5,955",Woodstock Elementary School,Hosford Middle School,Cleveland High School,1946
+3205 NE 75th Ave,$594900,5,2,2194,"$5,460",Lee Elementary School,Roseway Heights School,Madison High School,1929
+416 NW 13th Ave ,$450000,1,1,1089,"$6,433",Chapman Elementary School,West Sylvan Middle School,Lincoln High School,1910
+6625 SE Duke St,$339900,3,2,2053,"$4,017",Woodstock Elementary School,Hosford Middle School,Cleveland High School,1948
+12631 SE Stephens St,$258000,2,1,888,"$2,767",Mill Park Elementary School,Ron Russell Middle School,David Douglas High School,1948
+2915 N Hunt St,$419000,4,1F11/2,1296,"$3,047",Peninsula Elementary School,Ockley Green School,Jefferson or Roosevelt High Schools,1951
+11937 SE Schiller St,$350000,3,2F11/2,2604,"$4,166",West Powellhurst Elementary School,Ron Russell Middle School,David Douglas High School,2000
+7904 SW Capitol Hill,$475000,3,2F11/2,2053,"$5,416",Rieke Elementary School,Gray Middle School,Wilson High School,1953
+122 NW Pittock Ave,$735000,3,3F11/2,3426,"$9,919",Chapman Elementary School,West Sylvan Middle School,Lincoln High School,1947
+14545 NE Brazee Ct,$349999,4,2,1898,"$3,650",Margaret Scott Elementary School,Hauton B Lee Middle School,Reynolds High School,1961
+6236 NE Willow St,$415000,3,2,1072,"$3,340",Glencoe Elementary School,Mt Tabor Middle School,Franklin High School,1979
+8037 SW Devon Ln,$539500,3,2F11/2,1890,"$7,117",Maplewood Elementary School,Jackson Middle School,Wilson High School,1996
+6225 SE 13th Ave,$569900,3,2,2072,"$6,426",Llewellyn Elementary School,Sellwood Middle School,Cleveland High School,1961
+6035 SE Knight St,$360000,3,1F11/2,1476,"$3,619",Woodstock Elementary School,Hosford Middle School,Cleveland High School,1928
+8317 SE Clay St,$389900,3,2F11/2,1850,"$6,077",Harrison Park School,Harrison Park School,Madison High School,2000
+14952 SE Caruthers Ct ,$140000,2,1,956,"$2,484",Parklane Elementary School,Centennial Middle School,Centennial High School,1970
+311 NW 12th Ave ,$1299000,2,2F11/2,2117,"$19,004",Chapman Elementary School,West Sylvan Middle School,Lincoln High School,2007
+8618 N Edison St ,$359900,2,2F11/2,968,"$1,330",James John Elementary School,George Middle School,Roosevelt High School,1905
+8622 N Edison St ,$374900,2,2F11/2,915,"$1,330",James John Elementary School,George Middle School,Roosevelt High School,1905
+3269 NE Dekum St,$429999,3,2,1976,"$3,274",Faubion Elementary School,Faubion Elementary School,Jefferson or Madison High Schools,1952
+3231 SE Schiller St,$595000,3,2,2644,"$7,585",Grout Elementary School,Hosford Middle School,Cleveland High School,1967
+2222 SE 135th Ave,$349000,3,1,1184,"$3,767",Lincoln Park Elementary School,Ron Russell Middle School,David Douglas High School,1968
+2033 NE 95th Pl,$459000,3,1F11/2,1944,"$5,263",Lee Elementary School,Roseway Heights School,Madison High School,1959
+4516 NE 86th Ave,$332500,2,1,800,"$2,279",Russell Elementary,Parkrose Middle School,Parkrose High School,1926
+4016 SW Patton Rd,$611900,3,2F11/2,2515,"$9,117",Bridlemile Elementary School,Gray Middle School,Wilson High School,1976
+7522 SE Rural St,$389900,4,2,1883,"$3,172",Woodmere Elementary School,Lane Middle School,Franklin High School,1911
+3671 SE Knapp St,$814900,4,2F11/2,2686,"$8,900",Duniway Elementary School,Sellwood Middle School,Cleveland High School,2017
+5312 NE 12th Ave,$540000,4,2,2054,"$1,907",Vernon Elementary School,Vernon Elementary School,Jefferson or Madison High Schools,1911
+3606 SE Johnson Creek Blvd,$484860,3,2,2042,"$4,158",Duniway Elementary School,Sellwood Middle School,Cleveland High School,1954
+5120 N Albina Ave,$199000,2,1,2561,"$2,911",Boise-Eliot Elementary School,Harriet Tubman Middle School,Jefferson or Grant High Schools,1905
+3211 SE 22nd Ave,$549000,3,2,1774,"$4,638",Abernethy Elementary School,Hosford Middle School,Cleveland High School,1923
+324 NE Morgan St ,$310000,3,2F11/2,1371,"$4,999",Woodlawn Elementary School,Ockley Green School,Jefferson or Roosevelt High Schools,2008
+9805 N Clarendon Ave,$300000,3,1,1326,"$3,201",Cesar Chavez K-8 School,Cesar Chavez K-8 School,Roosevelt High School,1962
+9216 SE Market St,$425000,3,2,1740,"$4,843",Harrison Park School,Harrison Park School,Madison High School,1970
+4855 SE 65th Ave,$565000,4,2,2298,"$5,472",Arleta Elementary School,Arleta Elementary School,Franklin High School,1905
+2547 NW Upshur St,$999000,2,3F11/2,4172,"$17,969",Chapman Elementary School,West Sylvan Middle School,Lincoln High School,1999
+12504 SE Stark St ,$170000,2,2,980,"$1,948",Menlo Park Elementary School,Floyd Light Middle School,David Douglas High School,1984
+1146 NE 69th Ave,$407000,3,2,1246,"$3,874",Vestal Elementary School,Roseway Heights School,Madison High School,1954
+17163 SE Alder St,$339999,4,2F11/2,1535,"$3,102",Alder Elementary School,Hauton B Lee Middle School,Reynolds High School,2012
+3134 SE 134th Ave,$430000,5,2F11/2,3218,"$4,545",Lincoln Park Elementary School,Ron Russell Middle School,David Douglas High School,1955
+2162 SE 139th Ave,$315000,3,1,1384,"$3,606",Lincoln Park Elementary School,Ron Russell Middle School,David Douglas High School,1926
+2242 NE 158th Ave,$350000,2,2,1344,"$5,152",Margaret Scott Elementary School,Hauton B Lee Middle School,Reynolds High School,1990
+8431 NW Adams St,$657100,3,2F11/2,3831,"$13,445",Forest Park Elementary School,West Sylvan Middle School,Lincoln High School,1997
+8225 SE Morrison St,$379900,4,2,1003,"$2,635",Harrison Park School,Harrison Park School,Madison High School,1963
+6410 SW Seymour St,$625000,6,2F11/2,3831,"$8,916",Bridlemile Elementary School,Gray Middle School,Wilson High School,1962
+1723 SE Harney St,$734950,5,3F11/2,2765,"$4,336",Duniway Elementary School,Sellwood Middle School,Cleveland High School,1910
+3803 SE 28th Ave,$380000,2,1,1904,"$3,109",Grout Elementary School,Hosford Middle School,Cleveland High School,1923
+12231 NE Russell St,$339900,3,1,1389,"$3,285",Russell Elementary,Parkrose Middle School,Parkrose High School,1956
+13109 SE Cora St,$269000,4,3,2706,"$4,384",Gilbert Heights Elementary School,Alice Ott Middle School,David Douglas High School,1949
+9636 N Woolsey Ave,$367000,4,2,1606,"$3,515",Rosa Parks Elementary School,George Middle School,Roosevelt High School,2008
+13220 SE Harold St,$499900,4,2,2028,"$5,692",Gilbert Park Elementary School,Alice Ott Middle School,David Douglas High School,1969
+3030 SW Ridge Dr,$599900,4,2F11/2,3052,"$7,673",Stephenson Elementary School,Jackson Middle School,Wilson High School,1968
+7114 SE Mitchell St,$379900,3,1,1763,"$3,497",Arleta Elementary School,Arleta Elementary School,Franklin High School,1908
+13639 NE Marine Dr,$699900,3,2,2312,"$6,652",Shaver Elementary School,Parkrose Middle School,Parkrose High School,1968
+3172 NE 102nd Ave,$299000,2,2,1708,"$2,562",Sacramento Elementary School,Parkrose Middle School,Parkrose High School,1924
+10717 NW Skyline Blvd,$1600000,4,5F11/2,5873,"$26,928",Skyline Elementary School,Skyline Elementary School,Lincoln High School,2007
+7720 SW Macadam Ave ,$645000,1,1,748,"$22,496",Capitol Hill Elementary School,Jackson Middle School,Wilson High School,1986
+6065 SW Taylor St,$625000,4,3,2236,"$9,909",Bridlemile Elementary School,West Sylvan Middle School,Lincoln High School,1993
+7604 SW 35th Ave,$795000,2,1,1680,"$4,807",Maplewood Elementary School,Jackson Middle School,Wilson High School,1922
+5904 NE Sandy Blvd,$655000,2,1,2264,"$5,257",Rose City Park,Roseway Heights School,Madison High School,1919
+4900 SW Boundary St,$399000,3,1,1396,"$5,258",Hayhurst Elementary School,Gray Middle School,Wilson High School,1952
+839 SW Broadway Dr ,$275000,2,1,875,"$4,597",Ainsworth Elementary School,West Sylvan Middle School,Lincoln High School,1968
+12829 SE Madison St,$457000,4,2,2224,"$4,677",Menlo Park Elementary School,Floyd Light Middle School,David Douglas High School,1960
+43 SE 89th Ave,$289000,2,1,1196,"$2,937",Vestal Elementary School,Roseway Heights School,Madison High School,1931
+6045 NE Flanders St,$725000,2,4,2387,"$9,053",Glencoe Elementary School,Mt Tabor Middle School,Franklin High School,1915
+414 N Bridgeton Rd,$449000,2,2F11/2,2344,"$7,643",Faubion Elementary School,Faubion Elementary School,Jefferson or Roosevelt High Schools,1997
+1826 NE Highland St,$899000,4,2F11/2,2846,"$3,283",Vernon Elementary School,Vernon Elementary School,Jefferson or Madison High Schools,1951
+8441 SW 10th Ave,$419900,2,1F11/2,1250,"$4,973",Capitol Hill Elementary School,Jackson Middle School,Wilson High School,1971
+8122 SE 74th Ave,$290000,5,1F11/2,1613,"$3,197",Whitman Elementary School,Lane Middle School,Cleveland High School,1950
+12253 SE Long St,$254950,2,2F11/2,1860,"$3,179",Gilbert Heights Elementary School,Alice Ott Middle School,David Douglas High School,2001
+2340 N Winchell St,$434900,3,1F11/2,1028,"$3,601",Peninsula Elementary School,Ockley Green School,Jefferson or Roosevelt High Schools,1910
+110 SE 73rd Ave,$282000,2,1,762,"$3,264",Vestal Elementary School,Roseway Heights School,Madison High School,1963
+875 N Watts St,$399900,2,1F11/2,976,"$3,003",Woodlawn Elementary School,Ockley Green School,Jefferson or Roosevelt High Schools,1952
+4923 SW Lowell St,$689000,3,3,2366,"$9,682",Bridlemile Elementary School,Gray Middle School,Wilson High School,1949
+9719 NW Silver Ridge Loop,$381900,2,2,1419,"$6,634",Forest Park Elementary School,West Sylvan Middle School,Lincoln High School,1994
+3440 NE 63rd Ave,$589950,4,2F11/2,3058,"$7,563",Scott Elementary School,Roseway Heights School,Madison High School,1915
+15424 SE Tibbetts St,$399000,2,2,1128,"$3,548",Powell Butte Elementary School,Centennial Middle School,Centennial High School,1966
+12620 NE Morris St,$385000,3,1F11/2,1638,"$4,467",Russell Elementary,Parkrose Middle School,Parkrose High School,1962
+5254 SE 74th Ave,$275000,1,1,588,"$2,404",Marysville Elementary School,Marysville Elementary School,Franklin High School,1923
+608 NE 118th Ave,$565000,10,4F41/2,3400,"$8,301",Ventura Park Elementary School,Floyd Light Middle School,David Douglas High School,1993
+12227 SW Lesser Rd,$410000,3,2,2348,"$5,693",Markham Elementary School,Jackson Middle School,Wilson High School,1952
+1841 SE 130th Ave,$369900,3,2F11/2,1337,"$4,270",Mill Park Elementary School,Ron Russell Middle School,David Douglas High School,1994
+7739 SW 10th Ave,$599000,3,2F11/2,2182,"$7,809",Capitol Hill Elementary School,Jackson Middle School,Wilson High School,1982
+8009 SE 144th Dr,$824999,6,4F11/2,5470,"$11,506",Pleasant Valley Elementary School,Centennial Middle School,Centennial High School,2005
+2109 SE 118th Ave,$315000,3,1,1533,"$2,637",Mill Park Elementary School,Floyd Light Middle School,David Douglas High School,1952
+2116 NW 16th Ave,$788900,2,2F11/2,2074,"$14,171",Chapman Elementary School,West Sylvan Middle School,Lincoln High School,2006
+110 NE 157th Ave,$498000,4,2,2124,"$3,294",Glenfair Elementary School,Hauton B Lee Middle School,Reynolds High School,1965
+7820 N Olympia St,$399000,3,3,1772,"$4,718",Sitton Elementary School,George Middle School,Roosevelt High School,1999
+3624 NE Cleveland Ave,$499000,4,2,2776,"$3,157",Boise-Eliot Elementary School,Harriet Tubman Middle School,Jefferson or Grant High Schools,1894
+10215 SW 31st Ave,$579900,3,3,2393,"$10,557",Stephenson Elementary School,Jackson Middle School,Wilson High School,1993
+16317 SE Market St,$293900,3,1,1180,"$3,245",Patrick Lynch Elementary School,Centennial Middle School,Centennial High School,1955
+3319 SE 50th Ave,$460000,2,1,1522,"$3,816",Creston Elementary School,Creston Elementary School,Franklin High School,1926
+6410 NE 41st Ave,$450000,3,2,2747,"$6,495",Rigler Elementary School,Beaumont Middle School,Madison High School,1955
+4514 E Burnside St,$610000,6,2,3911,"$7,356",Glencoe Elementary School,Mt Tabor Middle School,Franklin High School,1932
+7229 N Hurst Ave,$549950,4,2,2892,"$6,133",Astor Elementary School,Astor Elementary School,Roosevelt High School,1942
+1209 SW 6th Ave ,$499000,2,1,1140,"$58,733",Chapman Elementary School,West Sylvan Middle School,Lincoln High School,1913
+2083 NW Johnson St ,$435000,2,1,1114,"$3,882",Chapman Elementary School,West Sylvan Middle School,Lincoln High School,1911
+8809 SE Reedway St,$324900,3,1F11/2,1060,"$3,576",Lent Elementary School,Lent Elementary School,Franklin High School,1978
+2354 NW Roosevelt St,$495000,2,2,2111,"$3,838",Chapman Elementary School,West Sylvan Middle School,Lincoln High School,1904
+6417 SE 139th Ave,$331900,3,2,1216,"$3,911",Gilbert Park Elementary School,Alice Ott Middle School,David Douglas High School,1997
+1526 NE 150th Ave,$376500,2,2,1427,"$5,163",Margaret Scott Elementary School,Hauton B Lee Middle School,Reynolds High School,1993
+2114 SE Ladd Ave,$949900,6,2,4188,"$7,497",Abernethy Elementary School,Hosford Middle School,Cleveland High School,1913
+7023 SE Knight St,$329000,2,1,820,"$3,161",Arleta Elementary School,Arleta Elementary School,Franklin High School,1904
+5703 SE Lambert St,$159900,2,1,864,"$1,643",Whitman Elementary School,Lane Middle School,Cleveland High School,1923
+6428 SE 139th Ave,$314900,2,2,1066,"$3,745",Gilbert Park Elementary School,Alice Ott Middle School,David Douglas High School,1997
+8031 SE 9th Ave,$719900,4,2F11/2,2083,"$1,273",Llewellyn Elementary School,Sellwood Middle School,Cleveland High School,1884
+7935 SE Bybee Blvd,$339900,2,1,1298,"$2,868",Woodmere Elementary School,Lane Middle School,Franklin High School,1944
+6007 SE Steele St,$625000,4,3F11/2,2550,"$7,270",Arleta Elementary School,Arleta Elementary School,Franklin High School,2012
+9635 SE Glenwood St,$375000,3,2,1950,"$4,202",Kelly Elementary School,Lane Middle School,Franklin High School,1954
+8329 SW 24th Ave,$398000,3,3F11/2,1724,"$7,343",Maplewood Elementary School,Jackson Middle School,Wilson High School,2005
+8821 NE Wasco St,$325000,3,2F11/2,2029,"$4,285",Lee Elementary School,Roseway Heights School,Madison High School,2008
+330 SE 50th Ave,$348000,2,1F11/2,1274,"$3,541",Glencoe Elementary School,Mt Tabor Middle School,Franklin High School,1973
+1621 NE 157th Ave,$389900,4,2,1612,"$3,684",Margaret Scott Elementary School,Hauton B Lee Middle School,Reynolds High School,1965
+4145 SW Washouga Ave,$649900,4,3,3130,"$7,790",Rieke Elementary School,Gray Middle School,Wilson High School,1971
+6126 SE Malden St,$299999,3,3,1506,"$3,855",Whitman Elementary School,Lane Middle School,Cleveland High School,2006
+2344 SE 112th Ave,$299900,3,2F11/2,1430,"$3,804",Mill Park Elementary School,Floyd Light Middle School,David Douglas High School,2007
+10161 N Ziegler Ave,$329900,2,1F11/2,1208,"$3,351",Sitton Elementary School,George Middle School,Roosevelt High School,2005
+25 NE 47th Ave,$650000,4,1F11/2,3452,"$7,880",Laurelhurst Elementary School,Laurelhurst Elementary School,Grant High School,1912
+318 SE Spokane St,$929000,2,2F11/2,2612,"$14,106",Duniway Elementary School,Sellwood Middle School,Cleveland High School,1980
+6617 SE 65th Ave,$315000,2,1,884,"$3,059",Woodmere Elementary School,Lane Middle School,Franklin High School,1961
+528 NE 92nd Ave,$419000,3,2,1533,"$3,879",Cherry Park Elementary School,Floyd Light Middle School,David Douglas High School,2004
+10110 SE Clatsop St,$619000,5,2F11/2,3453,"$10,445",Kelly Elementary School,Lane Middle School,Franklin High School,1994
+4816 SW Fairview Blvd,$725000,3,2F11/2,2473,"$12,488",Ainsworth Elementary School,West Sylvan Middle School,Lincoln High School,2002
+1310 NE 148th Ave,$699900,10,4F31/2,5120,"$9,831",Glenfair Elementary School,Hauton B Lee Middle School,Reynolds High School,1956
+2029 SE 143rd Ave,$335000,4,2,1222,"$3,357",Parklane Elementary School,Centennial Middle School,Centennial High School,1953
+3405 NE 162nd Ave,$230000,3,2,1430,"$2,524",Margaret Scott Elementary School,Hauton B Lee Middle School,Reynolds High School,1979
+15735 SE Clinton St,$294990,3,1,950,"$3,302",Powell Butte Elementary School,Centennial Middle School,Centennial High School,1972
+8037 NW Prominence Ct,$1250000,3,4,3195,"$11,506",Forest Park Elementary School,West Sylvan Middle School,Lincoln High School,2011
+712 SE 42nd Ave,$464712,2,1,889,"$3,618",Glencoe Elementary School,Mt Tabor Middle School,Franklin High School,1917
+650 NW Macleay Blvd,$1350000,4,3F11/2,2863,"$11,243",Chapman Elementary School,West Sylvan Middle School,Lincoln High School,1952
+10035 N Syracuse St,$479950,4,2F11/2,2456,"$5,199",Sitton Elementary School,George Middle School,Roosevelt High School,1922
+306 SW Palatine Hill Rd,$475000,2,1,2184,"$4,356",Capitol Hill Elementary School,Jackson Middle School,Wilson High School,1957
+1148 SE 84th Ave,$299900,2,1F11/2,840,"$2,903",Harrison Park School,Harrison Park School,Madison High School,1960
+6915 SE 156th Ave,$500000,4,2F11/2,2475,"$6,132",Pleasant Valley Elementary School,Centennial Middle School,Centennial High School,2002
+5180 N Amherst St,$879900,4,3F11/2,3059,"$2,697",Astor Elementary School,Astor Elementary School,Roosevelt High School,1911
+239 SE 53rd Ave,$570000,4,2,3427,"$6,185",Glencoe Elementary School,Mt Tabor Middle School,Franklin High School,1930
+9735 N Edison St,$412500,3,1,887,"$2,596",Sitton Elementary School,George Middle School,Roosevelt High School,1960
+9323 SW 51st Ave,$375000,3,1F11/2,1090,"$5,297",Markham Elementary School,Jackson Middle School,Wilson High School,1977
+2010 NE 121st Ave,$399900,3,2,1872,"$4,165",Sacramento Elementary School,Parkrose Middle School,Parkrose High School,1954
+7501 SE 152nd Ave,$750000,4,2F11/2,3619,"$8,290",Gilbert Park Elementary School,Alice Ott Middle School,David Douglas High School,1989
+13231 SE Buford Ct,$526900,4,2F11/2,2766,"$6,104",Gilbert Park Elementary School,Alice Ott Middle School,David Douglas High School,2007
+3603 NE Grand Ave,$599000,4,2,2282,"$2,532",Sabin Elementary School,Harriet Tubman Middle School,Grant High School,1900
+6220 SW Sheridan St,$985000,5,3F11/2,4559,"$15,356",Bridlemile Elementary School,West Sylvan Middle School,Lincoln High School,1997
+8102 SW 61st Ave,$899980,5,4F11/2,4007,"$12,915",Maplewood Elementary School,Jackson Middle School,Wilson High School,2005
+5262 SW Westwood,$1895000,5,4F11/2,5246,"$22,631",Rieke Elementary School,Gray Middle School,Wilson High School,2016
+2110 SE 158th Ave,$347000,3,1F11/2,1272,"$3,542",Parklane Elementary School,Centennial Middle School,Centennial High School,1957
+9919 NW Hoge Ave,$457500,4,1,1820,"$4,625",Skyline Elementary School,Skyline Elementary School,Lincoln High School,1926
+4334 NE Laurelhurst Pl,$765000,3,3,2590,"$9,762",Laurelhurst Elementary School,Laurelhurst Elementary School,Grant High School,1922
+2521 SW Hoffman Ave,$825000,3,4,3034,"$14,511",Ainsworth Elementary School,West Sylvan Middle School,Lincoln High School,1891
+5824 SW Corbett Ave,$625000,3,2F11/2,2860,"$7,110",Capitol Hill Elementary School,Jackson Middle School,Wilson High School,1916
+4615 NE 98th Ave,$374900,3,2,1374,"$2,136",Prescott Elementary School,Parkrose Middle School,Parkrose High School,1942
+4244 SE Anderegg Loop,$429000,3,2,1834,"$4,892",Butler Creek Elementary School,Centennial Middle School,Centennial High School,1997
+1724 SW Troy St,$539000,5,2,2252,"$4,903",Rieke Elementary School,Gray Middle School,Wilson High School,1959
+4150 SE Milwaukie Ave,$359000,2,1,1160,"$2,334",Grout Elementary School,Hosford Middle School,Cleveland High School,1926
+6424 SW Alfred St,$525000,4,2F11/2,2298,"$6,593",Markham Elementary School,Jackson Middle School,Wilson High School,1958
+3131 NE 57th Ave,$445000,4,2,2088,"$4,674",Alameda Elementary School,Beaumont Middle School,Grant High School,1918
+5305 SE 34th Ave,$649950,6,2F11/2,3425,"$6,578",Grout Elementary School,Hosford Middle School,Cleveland High School,1948
+4221 NE 132nd Ave,$399000,3,2,1440,"$4,262",Shaver Elementary School,Parkrose Middle School,Parkrose High School,1967
+2333 SE 98th Ave,$375000,3,2F11/2,1804,"$4,841",Cherry Park Elementary School,Floyd Light Middle School,David Douglas High School,2002
+6103 NW Cornell Rd,$1499000,4,3F11/2,5236,"$10,408",Chapman Elementary School,West Sylvan Middle School,Lincoln High School,1992
+9620 NW Germantown Rd,$650000,4,3F11/2,2838,"$10,932",Skyline Elementary School,Skyline Elementary School,Lincoln High School,1985
+3017 SE Claybourne St,$1295000,4,2F11/2,4474,"$20,097",Duniway Elementary School,Sellwood Middle School,Cleveland High School,1925
+1870 SW Hawthorne Ter,$1075000,5,3,3556,"$18,234",Ainsworth Elementary School,West Sylvan Middle School,Lincoln High School,1929
+8243 SE Pineridge Ct,$769995,5,3F11/2,4789,"$8,607",Gilbert Park Elementary School,Alice Ott Middle School,David Douglas High School,2007
+2405 NE Saratoga St,$330000,3,2,1073,"$4,039",Faubion Elementary School,Faubion Elementary School,Jefferson or Madison High Schools,1981
+4522 SW Council Crest Dr,$1125000,5,3F11/2,4645,"$16,102",Ainsworth Elementary School,West Sylvan Middle School,Lincoln High School,2012
+5525 SW Coronado St,$562000,4,2F11/2,2445,"$9,723",Markham Elementary School,Jackson Middle School,Wilson High School,1989
+14841 NE Graham St,$267000,3,2,1471,"$4,109",Margaret Scott Elementary School,Hauton B Lee Middle School,Reynolds High School,1985
+664 NW Greenleaf Rd,$929900,3,3,3339,"$10,586",Forest Park Elementary School,West Sylvan Middle School,Lincoln High School,1950
+3546 NE 152nd Ave,$630000,3,2F11/2,2168,"$6,319",Margaret Scott Elementary School,Hauton B Lee Middle School,Reynolds High School,1977
+11512 SW Streamside Ct,$664900,5,2F11/2,2985,"$10,014",Stephenson Elementary School,Jackson Middle School,Wilson High School,1992
+10610 SW Inverness Ct,$719990,3,3F11/2,3833,"$12,182",Stephenson Elementary School,Jackson Middle School,Wilson High School,1993
+7007 SE 78th Ave,$375000,3,2F11/2,1352,"$4,068",Woodmere Elementary School,Lane Middle School,Franklin High School,1995
+2204 NE 50th Ave,$785000,4,2F11/2,3344,"$7,507",Rose City Park,Roseway Heights School,Madison High School,1926
+44 NE Lombard St,$386900,3,2,1219,"$2,387",Woodlawn Elementary School,Ockley Green School,Jefferson or Roosevelt High Schools,1951
+4625 SW Flower Pl,$490000,3,2F11/2,1908,"$6,326",Hayhurst Elementary School,Gray Middle School,Wilson High School,1983
+610 NE Cesar E Chavez Blvd,$799000,5,3F11/2,4682,"$12,527",Laurelhurst Elementary School,Laurelhurst Elementary School,Grant High School,1913
+3102 SE 171st Dr,$335000,3,1F11/2,1324,"$3,176",Powell Butte Elementary School,Centennial Middle School,Centennial High School,1960
+8917 N Dwight Ave,$284000,3,2F11/2,1460,"$3,993",Rosa Parks Elementary School,George Middle School,Roosevelt High School,2007
+3961 N Vancouver Ave,$599900,3,1F11/2,1590,"$2,709",Boise-Eliot Elementary School,Harriet Tubman Middle School,Jefferson or Grant High Schools,1900
+1519 SW Dolph St,$740000,4,3,3862,"$9,596",Capitol Hill Elementary School,Jackson Middle School,Wilson High School,2017
+2814 SE Market St,$499000,3,2,1544,"$6,521",Abernethy Elementary School,Hosford Middle School,Cleveland High School,1926
+7915 SW 19th Ave,$899900,3,3F11/2,2813,"$4,289",Rieke Elementary School,Gray Middle School,Wilson High School,1920
+1744 NE Clackamas St,$874900,6,6,3780,"$10,290",Buckman Elementary School,Hosford Middle School,Cleveland High School,1908
+2283 NW Pettygrove St,$929000,3,3F11/2,2098,"$15,646",Chapman Elementary School,West Sylvan Middle School,Lincoln High School,2002
+1954 NW Overton St ,$890000,3,3F11/2,2020,"$12,946",Chapman Elementary School,West Sylvan Middle School,Lincoln High School,2003
+9233 SE Harney Ct,$449950,3,2,2915,"$6,094",Kelly Elementary School,Lane Middle School,Franklin High School,1953
+6825 SE 47th Ave,$250000,3,2,1200,"$3,027",Lewis Elementary School,Sellwood Middle School,Cleveland High School,1995
+7214 SE 32nd Ave,$744000,3,2,2760,"$8,480",Duniway Elementary School,Sellwood Middle School,Cleveland High School,1938
+5654 N Omaha Ave,$400000,3,1,1142,"$2,487",Beach Elementary School,Ockley Green School,Jefferson or Roosevelt High Schools,1950
+3137 SE Yamhill St,$775000,4,3F11/2,3442,"$9,725",Sunnyside Environmental School,Sunnyside Environmental School,Franklin High School,1909
+7041 NE 22nd Ave,$595000,3,3,3514,"$7,400",Woodlawn Elementary School,Ockley Green School,Jefferson or Roosevelt High Schools,1953
+3346 SW Multnomah Blvd,$389450,3,2F11/2,1594,"$6,843",Maplewood Elementary School,Jackson Middle School,Wilson High School,2014
+12717 SE Gladstone St,$293500,3,1F11/2,936,"$2,921",Gilbert Heights Elementary School,Alice Ott Middle School,David Douglas High School,1960
+5408 NE Ainsworth St,$525000,4,3,2256,"$6,057",Rigler Elementary School,Beaumont Middle School,Madison High School,2005
+9020 SE Duke St,$319900,2,1,720,"$2,828",Kelly Elementary School,Lane Middle School,Franklin High School,1950
+2798 SW Talbot Rd,$1100000,4,3F11/2,4378,"$16,681",Ainsworth Elementary School,West Sylvan Middle School,Lincoln High School,1928
+3335 NE 68th Ave,$530000,4,3,2427,"$5,434",Scott Elementary School,Roseway Heights School,Madison High School,1925
+2426 NE 136th Ave,$349999,3,1F11/2,1859,"$3,990",Russell Elementary,Parkrose Middle School,Parkrose High School,1956
+2021 SW Main St ,$335000,2,2,983,"$5,446",Chapman Elementary School,West Sylvan Middle School,Lincoln High School,1972
+9131 SE Stephens St,$399000,4,1,2233,"$4,375",Harrison Park School,Harrison Park School,Madison High School,1953
+2810 NE 35th Ave,$649900,4,2,2018,"$6,575",Beverly Cleary School,Beverly Cleary School,Grant High School,1926
+3036 SE Cesar E Chavez Blvd,$414900,3,1,1633,"$2,390",Creston Elementary School,Creston Elementary School,Franklin High School,1910
+3908 NE 8th Ave,$774000,4,4,2833,"$10,301",Sabin Elementary School,Harriet Tubman Middle School,Grant High School,2016
+6815 N Portsmouth Ave,$629900,4,2F11/2,2210,"$4,017",Astor Elementary School,Astor Elementary School,Roosevelt High School,1998
+3352 SW Spring Garden St,$800000,3,1,1334,"$7,712",Maplewood Elementary School,Jackson Middle School,Wilson High School,1921
+4336 SW Pendleton St,$839000,4,2F11/2,3465,"$10,435",Hayhurst Elementary School,Gray Middle School,Wilson High School,2008
+2114 N Farragut St,$374900,2,1F11/2,798,"$3,775",Peninsula Elementary School,Ockley Green School,Jefferson or Roosevelt High Schools,1942
+6970 SE 35th Ave,$1099900,4,3F11/2,3159,"$10,741",Duniway Elementary School,Sellwood Middle School,Cleveland High School,1924
+6980 SE 35th Ave,$1099900,4,3F11/2,3200,"$10,741",Duniway Elementary School,Sellwood Middle School,Cleveland High School,1924
+8815 NE Wasco St,$340000,3,2F11/2,1768,"$4,016",Lee Elementary School,Roseway Heights School,Madison High School,2008
+8947 N Curtis Ave,$395000,3,1,976,"$2,937",Peninsula Elementary School,Ockley Green School,Jefferson or Roosevelt High Schools,1955
+968 N Kilpatrick St,$393900,3,2F11/2,1621,"$5,345",Woodlawn Elementary School,Ockley Green School,Jefferson or Roosevelt High Schools,2011
+3244 NE Us Grant Pl,$850000,3,2,2924,"$11,229",Beverly Cleary School,Beverly Cleary School,Grant High School,1932
+3134 NE 76th Ave,$269000,1,1,600,"$2,203",Lee Elementary School,Roseway Heights School,Madison High School,1914
+300 NW 8th Ave ,$349900,1,1,725,"$5,333",Chapman Elementary School,West Sylvan Middle School,Lincoln High School,1909
+1908 NE Siskiyou St,$935000,5,2F11/2,4011,"$9,647",Irvington Elementary School,Harriet Tubman Middle School,Jefferson High School / Grant High School,1925
+2732 SE 120th Ave,$354900,3,2,2102,"$3,241",Mill Park Elementary School,Ron Russell Middle School,David Douglas High School,1960
+2835 NE 67th Ave,$425000,3,1,2190,"$4,543",Rose City Park,Roseway Heights School,Madison High School,1922
+16950 SE Salmon St,$279900,4,1,1296,"$3,249",Alder Elementary School,Hauton B Lee Middle School,Reynolds High School,1961
+4576 SW Comus Pl ,$199999,2,2,1058,"$3,226",Markham Elementary School,Jackson Middle School,Wilson High School,1979
+1030 SE 60th Ave,$749899,5,3F11/2,2335,"$5,451",Glencoe Elementary School,Mt Tabor Middle School,Franklin High School,1926
+13115 SE Foster Rd ,$66000,3,2,1080,"$34,111",Gilbert Park Elementary School,Alice Ott Middle School,David Douglas High School,1988
+5627 SW Coronado St,$601900,4,2F11/2,2610,"$8,808",Markham Elementary School,Jackson Middle School,Wilson High School,1989
+4056 SE Mall St,$479900,3,2F11/2,1620,"$6,177",Grout Elementary School,Hosford Middle School,Cleveland High School,1995
+4116 N Borthwick Ave,$495000,2,1,1336,"$1,499",Boise-Eliot Elementary School,Harriet Tubman Middle School,Jefferson or Grant High Schools,1933
+11316 NE Fargo St,$315000,3,2,1848,"$3,458",Sacramento Elementary School,Parkrose Middle School,Parkrose High School,1993
+10204 NW Alder Grove Ln,$277900,2,2,1280,"$6,178",Forest Park Elementary School,West Sylvan Middle School,Lincoln High School,1998
+2224 SE 145th Ave,$330000,3,1F11/2,1200,"$3,210",Parklane Elementary School,Centennial Middle School,Centennial High School,1956
+3935 SW Corbett Ave,$1000000,7,7,4811,"$9,970",Capitol Hill Elementary School,Jackson Middle School,Wilson High School,1893
+4005 N Willamette Blvd,$670000,4,2,3226,"$9,507",Astor Elementary School,Astor Elementary School,Roosevelt High School,1943
+9742 NW Skyline Heights Dr,$1115000,4,3F11/2,5057,"$18,770",Forest Park Elementary School,West Sylvan Middle School,Lincoln High School,2003
+4430 N Michigan Ave,$819900,4,3F11/2,2771,"$10,061",Boise-Eliot Elementary School,Harriet Tubman Middle School,Jefferson or Grant High Schools,2016
+3275 NE Bryce St,$1375000,5,3F11/2,3848,"$4,195",Alameda Elementary School,Beaumont Middle School,Grant High School,1910
+12403 SW 55th Pl,$855000,4,2F11/2,3409,"$12,556",Markham Elementary School,Jackson Middle School,Wilson High School,1995
+5400 NE 30th Ave ,$254900,1,1,594,"$5,018",Vernon Elementary School,Vernon Elementary School,Jefferson or Madison High Schools,1946
+10218 N Barr Ave,$607500,4,3,2669,"$4,971",Sitton Elementary School,George Middle School,Roosevelt High School,1927
+9028 N Chautauqua Pl,$315000,3,1,858,"$2,648",Rosa Parks Elementary School,George Middle School,Roosevelt High School,1970
+5308 SW Pomona St,$349999,3,2,1626,"$3,908",Markham Elementary School,Jackson Middle School,Wilson High School,1942
+1806 SW Taylors Ferry Rd,$699800,5,3,2516,"$7,208",Capitol Hill Elementary School,Jackson Middle School,Wilson High School,1945
+4821 SW Seymour Ct,$475000,3,2,1289,"$6,535",Bridlemile Elementary School,Gray Middle School,Wilson High School,1986
+3011 SE 92nd Ave,$339900,3,2F11/2,1510,"$4,304",Harrison Park School,Harrison Park School,Madison High School,2004
+1506 SW Broadway Dr,$459000,3,2F11/2,1775,"$7,349",Ainsworth Elementary School,West Sylvan Middle School,Lincoln High School,1964
+6310 SE Windsor Ct,$699999,4,2F11/2,2243,"$3,133",Atkinson Elementary School,Mt Tabor Middle School,Franklin High School,1947
+6613 SE 83rd Ave,$339900,3,2,1040,"$3,714",Woodmere Elementary School,Lane Middle School,Franklin High School,1977
+2710 SE 138th Ave ,$139900,2,1,848,"$1,807",Lincoln Park Elementary School,Ron Russell Middle School,David Douglas High School,1974
+11827 NE San Rafael St,$269900,2,1,960,"$2,676",Sacramento Elementary School,Parkrose Middle School,Parkrose High School,1955
+3039 NE 122nd Ave,$347900,3,1F11/2,1272,"$3,447",Sacramento Elementary School,Parkrose Middle School,Parkrose High School,1958
+1214 SE 58th Ave,$1950000,6,4F21/2,6850,"$24,598",Glencoe Elementary School,Mt Tabor Middle School,Franklin High School,1913
+5950 SE Tibbetts St,$499000,2,1,1388,"$3,667",Atkinson Elementary School,Mt Tabor Middle School,Franklin High School,1953
+1730 SW Harbor Way ,$297000,1,1,684,"$5,105",Ainsworth Elementary School,West Sylvan Middle School,Lincoln High School,1986
+6247 SE Ogden St,$269900,3,2,1284,"$2,823",Woodmere Elementary School,Lane Middle School,Franklin High School,1945
+3457 NE Davis St,$1080000,3,4,3005,"$11,058",Laurelhurst Elementary School,Laurelhurst Elementary School,Grant High School,1931
+9425 SW 51st Ave,$389000,3,2,1530,"$5,093",Markham Elementary School,Jackson Middle School,Wilson High School,1978
+5403 N Harvard St,$675000,5,3,3792,"$6,809",Astor Elementary School,Astor Elementary School,Roosevelt High School,1953
+2341 SE 170th Ave,$325000,3,2,1112,"$3,884",Patrick Lynch Elementary School,Centennial Middle School,Centennial High School,1982
+10117 NW Wilark Ave,$399900,2,2,1446,"$3,541",Skyline Elementary School,Skyline Elementary School,Lincoln High School,1921
+5740 NW Skyline Blvd,$825000,3,3,3035,"$11,312",Skyline Elementary School,Skyline Elementary School,Lincoln High School,1981
+621 NW Skyline Blvd,$899950,3,3,3473,"$10,698",Forest Park Elementary School,West Sylvan Middle School,Lincoln High School,1989
+35 NE 55th Ave,$649900,4,3F11/2,2756,"$9,752",Glencoe Elementary School,Mt Tabor Middle School,Franklin High School,1908
+26 SE 69th Ave,$699900,3,2F11/2,2370,"$2,303",Vestal Elementary School,Roseway Heights School,Madison High School,1928
+3939 N Marine Dr,$389000,2,2,1510,"$11,075",Faubion Elementary School,Faubion Elementary School,Jefferson or Roosevelt High Schools,1981
+908 NW 25th Ave,$1249900,4,3F11/2,5861,"$14,187",Chapman Elementary School,West Sylvan Middle School,Lincoln High School,1908
+1929 SW Carter Ln,$799000,2,2F11/2,2433,"$17,439",Ainsworth Elementary School,West Sylvan Middle School,Lincoln High School,1951
+2796 SW Montgomery Dr,$1225000,5,5,3802,"$10,413",Ainsworth Elementary School,West Sylvan Middle School,Lincoln High School,1910
+6444 NE Going St,$430000,3,2,1518,"$4,887",Scott Elementary School,Roseway Heights School,Madison High School,1942
+418 N Bridgeton Rd,$459950,2,2F11/2,2304,"$7,494",Faubion Elementary School,Faubion Elementary School,Jefferson or Roosevelt High Schools,1997
+133 SE 55th Ave,$1300000,4,5F11/2,3734,"$4,607",Glencoe Elementary School,Mt Tabor Middle School,Franklin High School,1926
+3409 NE Simpson St,$489000,3,2,1804,"$3,632",Faubion Elementary School,Faubion Elementary School,Jefferson or Madison High Schools,1940
+3641 SE Crystal Springs Blvd,$674900,4,3F11/2,2451,"$5,529",Duniway Elementary School,Sellwood Middle School,Cleveland High School,2007
+14421 NW Springville Rd,$1490000,4,3F11/2,4797,"$9,489",Skyline Elementary School,Skyline Elementary School,Lincoln High School,2002
+1503 N Hayden Island Dr,$155950,2,2,1440,$0,Faubion Elementary School,Faubion Elementary School,Jefferson or Roosevelt High Schools,1972
+5316 SE 18th Ave,$399000,3,1,840,"$3,173",Llewellyn Elementary School,Sellwood Middle School,Cleveland High School,1954
+4715 SE 94th Ave,$420000,7,3,2912,"$4,476",Lent Elementary School,Lent Elementary School,Franklin High School,1959
+7325 SE Milwaukie Ave,$650000,2,2F11/2,2336,"$8,245",Llewellyn Elementary School,Sellwood Middle School,Cleveland High School,2003
+2936 SE 18th Ave,$599900,3,3,2620,"$6,760",Abernethy Elementary School,Hosford Middle School,Cleveland High School,1912
+3515 SW Shattuck Rd,$939000,4,3,3534,"$12,549",Bridlemile Elementary School,Gray Middle School,Wilson High School,1958
+12308 SE Long St,$249900,2,1F11/2,1324,"$2,077",Gilbert Heights Elementary School,Alice Ott Middle School,David Douglas High School,2004
+10435 SE Oak St,$310000,3,2,1591,"$3,494",Cherry Park Elementary School,Floyd Light Middle School,David Douglas High School,2004
+9608 N Oregonian Ave,$299900,3,1F21/2,1164,"$3,011",James John Elementary School,George Middle School,Roosevelt High School,2004
+12029 SW Lesser Rd,$549900,4,2,2423,"$5,258",Markham Elementary School,Jackson Middle School,Wilson High School,1942
+2702 SE 138th Ave ,$145900,1,1,720,"$1,564",Lincoln Park Elementary School,Ron Russell Middle School,David Douglas High School,1974
+4043 NE 80th Ave,$389900,3,1,1868,"$4,344",Scott Elementary School,Roseway Heights School,Madison High School,1928
+3025 SE Cesar E Chavez Blvd,$365000,3,1,2132,"$3,483",Abernethy Elementary School,Hosford Middle School,Cleveland High School,1926
+8524 SW 10th Ave,$417900,3,2,1290,"$6,426",Capitol Hill Elementary School,Jackson Middle School,Wilson High School,1991
+3969 N Overlook Ter,$1199000,3,3,3372,"$7,863",Beach Elementary School,Ockley Green School,Jefferson or Roosevelt High Schools,1947
+3224 SE 153rd Ave,$225000,2,2,1506,"$3,526",Powell Butte Elementary School,Centennial Middle School,Centennial High School,1980
+2732 SE 138th Ave ,$153900,2,1,844,"$1,866",Lincoln Park Elementary School,Ron Russell Middle School,David Douglas High School,1977
+1804 SW Miles St,$400000,3,1,960,"$4,218",Rieke Elementary School,Gray Middle School,Wilson High School,1970
+5011 SW Orchid St,$445000,3,2,1680,"$6,091",Markham Elementary School,Jackson Middle School,Wilson High School,1973
+4505 NE 25th Ave,$849999,5,3,2751,"$7,244",Vernon Elementary School,Vernon Elementary School,Jefferson or Madison High Schools,2017
+2565 NE 33rd Ave,$599999,3,2,2732,"$6,360",Beverly Cleary School,Beverly Cleary School,Grant High School,1939
+411 NE 43rd Ave,$1050000,4,3F11/2,3188,"$7,583",Laurelhurst Elementary School,Laurelhurst Elementary School,Grant High School,1914
+3827 SW Dolph Ct,$575000,4,3,2610,"$6,204",Maplewood Elementary School,Jackson Middle School,Wilson High School,1919
+8130 SE 75th Pl,$325000,3,1,946,"$3,423",Whitman Elementary School,Lane Middle School,Cleveland High School,1966
+3012 SE 138th Ave,$339000,2,2,1732,"$3,230",Lincoln Park Elementary School,Ron Russell Middle School,David Douglas High School,1927
+11737 SE Salmon St,$199900,2,1,672,"$2,484",Ventura Park Elementary School,Floyd Light Middle School,David Douglas High School,1949
+9312 NW Murdock St,$930000,5,3F11/2,4374,"$15,801",Forest Park Elementary School,West Sylvan Middle School,Lincoln High School,2003
+2737 SE 87th Ave,$295000,3,2,1134,"$4,280",Harrison Park School,Harrison Park School,Madison High School,1994
+7018 N Hodge Ave,$649900,4,2F11/2,2287,"$1,663",Astor Elementary School,Astor Elementary School,Roosevelt High School,1928
+4075 SE Woodward St,$874950,4,3F11/2,2950,"$1,349",Creston Elementary School,Creston Elementary School,Franklin High School,1924
+4104 SE Ash St,$750000,5,2,4040,"$8,772",Laurelhurst Elementary School,Laurelhurst Elementary School,Grant High School,1916
+4438 SW Hamilton Ter,$1095000,4,2F11/2,3791,"$16,352",Ainsworth Elementary School,West Sylvan Middle School,Lincoln High School,2002
+11606 NE Sandy Blvd,$849900,6,2F21/2,2964,"$3,146",Prescott Elementary School,Parkrose Middle School,Parkrose High School,1934
+7022 SE 84th Ave,$450000,3,2,1930,"$4,143",Kelly Elementary School,Lane Middle School,Franklin High School,1913
+14715 SE Market Ct,$329169,2,1,1716,"$3,980",Parklane Elementary School,Centennial Middle School,Centennial High School,1949
+14312 NE Knott St,$379900,3,2,2602,"$4,412",Margaret Scott Elementary School,Hauton B Lee Middle School,Reynolds High School,1964
+4532 SE 28th Ave,$435000,3,2F11/2,1336,"$5,026",Grout Elementary School,Hosford Middle School,Cleveland High School,1996
+13508 NW Springville Rd,$849900,3,2,4397,"$9,754",Skyline Elementary School,Skyline Elementary School,Lincoln High School,1957
+7655 NE Alameda St,$699000,2,2,3520,"$8,173",Lee Elementary School,Roseway Heights School,Madison High School,1953
+3327 SW Water Ave,$395000,2,1,2115,"$4,185",Capitol Hill Elementary School,Jackson Middle School,Wilson High School,1894
+3618 NE 154th Ave,$240000,3,2F11/2,1512,"$3,247",Margaret Scott Elementary School,Hauton B Lee Middle School,Reynolds High School,2003
+925 NE 74th Ave,$469900,4,2,2578,"$5,311",Vestal Elementary School,Roseway Heights School,Madison High School,1890
+15330 SE Yamhill St,$317000,3,1F11/2,1244,"$3,582",Parklane Elementary School,Centennial Middle School,Centennial High School,1966
+10527 SE Raymond St,$297500,3,1F11/2,1580,"$3,211",Earl Boyles Elementary,Ron Russell Middle School,David Douglas High School,1954
+1514 NE Highland St,$450000,4,1F11/2,1881,"$2,472",Woodlawn Elementary School,Ockley Green School,Jefferson or Roosevelt High Schools,1910
+4900 NE 18th Ave,$849900,4,2,4800,"$2,211",Vernon Elementary School,Vernon Elementary School,Jefferson or Madison High Schools,1909
+3617 SW Vesta St,$349000,3,2F11/2,1702,"$7,033",Markham Elementary School,Jackson Middle School,Wilson High School,1999
+7503 N Kerby Ave,$399000,4,3,2704,"$4,830",Woodlawn Elementary School,Ockley Green School,Jefferson or Roosevelt High Schools,1928
+814 SE Sherrett St,$449900,3,1,1794,"$3,920",Duniway Elementary School,Sellwood Middle School,Cleveland High School,1912
+4708 NE 60th Ave,$399000,3,2F11/2,1456,"$5,531",Scott Elementary School,Roseway Heights School,Madison High School,1997
+3316 SE 23rd Ave,$950000,7,2,4094,"$5,838",Abernethy Elementary School,Hosford Middle School,Cleveland High School,1923
+8704 SE 9th Ave,$435000,3,2F11/2,1273,"$4,751",Duniway Elementary School,Sellwood Middle School,Cleveland High School,1993
+2470 NW Thurman St,$995000,2,2F11/2,1983,"$13,542",Chapman Elementary School,West Sylvan Middle School,Lincoln High School,2005
+3724 SE 148th Ave,$369900,4,2F11/2,1411,"$4,326",Pleasant Valley Elementary School,Centennial Middle School,Centennial High School,1968
+1568 NE 74th Ave,$499000,3,2F11/2,1837,"$4,355",Vestal Elementary School,Roseway Heights School,Madison High School,2017
+2419 NW Birkendene St,$769000,4,2F11/2,3557,"$12,889",Forest Park Elementary School,West Sylvan Middle School,Lincoln High School,1994
+10428 NE Pacific St,$349950,3,1,1314,"$3,992",Ventura Park Elementary School,Floyd Light Middle School,David Douglas High School,1939
+10450 SW 53rd Ave,$739000,5,3,3959,"$8,312",Markham Elementary School,Jackson Middle School,Wilson High School,1951
+7625 N Van Houten Ave,$399500,3,1,1646,"$4,530",Astor Elementary School,Astor Elementary School,Roosevelt High School,1924
+3312 SE 165th Pl,$309900,3,2,1080,"$3,162",Powell Butte Elementary School,Centennial Middle School,Centennial High School,1958
+220 N Hayden Bay Dr,$444000,2,2F11/2,2091,"$7,205",Faubion Elementary School,Faubion Elementary School,Jefferson or Roosevelt High Schools,1973
+2131 NE Saratoga St,$475000,3,2,1704,"$4,894",Woodlawn Elementary School,Ockley Green School,Jefferson or Roosevelt High Schools,1946
+5825 SW 59th Ct,$499000,3,2F11/2,1881,"$7,760",Hayhurst Elementary School,Gray Middle School,Wilson High School,1987
+636 NW Albemarle Ter,$1900000,4,2F11/2,4801,"$24,384",Chapman Elementary School,West Sylvan Middle School,Lincoln High School,1921
+7621 SE Crystal Springs Blvd,$356900,3,2F11/2,1416,"$3,407",Whitman Elementary School,Lane Middle School,Cleveland High School,2003
+414 N Rosa Parks Way,$399900,2,1,1392,"$2,675",Chief Joseph/Ockley Green School,Ockley Green School,Jefferson or Roosevelt High Schools,1927
+12415 NE Brazee St,$375000,3,3,2365,"$4,328",Russell Elementary,Parkrose Middle School,Parkrose High School,1944
+4023 SE 65th Ave,$375000,3,1,1741,"$3,759",Arleta Elementary School,Arleta Elementary School,Franklin High School,1906
+7325 SE 22nd Ave,$575000,3,2,2213,"$4,930",Llewellyn Elementary School,Sellwood Middle School,Cleveland High School,1926
+8243 NE Wygant St,$344900,3,1,1064,"$2,694",Russell Elementary,Parkrose Middle School,Parkrose High School,1949
+4406 NE 13th Ave,$699000,4,2,2520,"$1,512",Sabin Elementary School,Harriet Tubman Middle School,Grant High School,1908
+9001 N Trumbull Ave,$548000,2,1,1719,"$3,130",Sitton Elementary School,George Middle School,Roosevelt High School,1943
+4344 SW Hillside Dr,$890000,4,3F11/2,3910,"$14,707",Ainsworth Elementary School,West Sylvan Middle School,Lincoln High School,2000
+2328 SE 139th Ave,$399900,4,2F11/2,2036,"$4,282",Lincoln Park Elementary School,Ron Russell Middle School,David Douglas High School,2008
+2818 NE 15th Ave,$824000,5,2F11/2,3980,"$6,819",Irvington Elementary School,Harriet Tubman Middle School,Jefferson High School / Grant High School,1917
+222 N Hayden Bay Dr,$389900,3,2,2015,"$5,674",Faubion Elementary School,Faubion Elementary School,Jefferson or Roosevelt High Schools,1973
+2775 NW Upshur St ,$468000,3,2,1342,"$7,464",Chapman Elementary School,West Sylvan Middle School,Lincoln High School,1984
+5515 SW 63rd Ave,$1150000,4,3F11/2,3707,"$15,054",Hayhurst Elementary School,Gray Middle School,Wilson High School,1999
+3611 SW Condor Ave,$525000,3,1F21/2,2286,"$8,697",Ainsworth Elementary School,West Sylvan Middle School,Lincoln High School,1898
+7424 SE Ogden St,$370000,3,1F11/2,1254,"$3,739",Whitman Elementary School,Lane Middle School,Cleveland High School,1947
+3829 SE 149th Ave,$347000,3,1,1508,"$2,488",Pleasant Valley Elementary School,Centennial Middle School,Centennial High School,1964
+6241 SE 142nd Ave,$225000,3,2,1269,"$3,228",Gilbert Park Elementary School,Alice Ott Middle School,David Douglas High School,1999
+1609 SE Umatilla St,$749000,4,3,2398,"$4,118",Duniway Elementary School,Sellwood Middle School,Cleveland High School,1890
+5950 SW Riveridge Ln,$464000,2,2F11/2,1286,"$5,920",Capitol Hill Elementary School,Jackson Middle School,Wilson High School,1980
+4804 NE 106th Ave,$410000,3,2F11/2,2791,"$3,816",Prescott Elementary School,Parkrose Middle School,Parkrose High School,1912
+3744 SE Steele St,$429900,3,2,1132,"$4,699",Grout Elementary School,Hosford Middle School,Cleveland High School,1972
+1224 NE 81st Ave,$549900,3,2,1569,"$2,369",Vestal Elementary School,Roseway Heights School,Madison High School,1920
+4205 SE 80th Ave,$379900,3,2F11/2,1714,"$6,064",Marysville Elementary School,Marysville Elementary School,Franklin High School,1929
+4209 SE 80th Ave,$379900,3,2F11/2,1714,"$6,064",Marysville Elementary School,Marysville Elementary School,Franklin High School,1929
+4215 SE 80th Ave,$379900,3,2F11/2,1714,"$6,064",Marysville Elementary School,Marysville Elementary School,Franklin High School,1929
+1319 NE 126th Ave,$329000,3,2,1983,"$3,778",Menlo Park Elementary School,Floyd Light Middle School,David Douglas High School,1956
+4219 SE 80th Ave,$379900,3,2F11/2,1714,"$6,064",Marysville Elementary School,Marysville Elementary School,Franklin High School,1929
+8320 SW 33rd Ave,$550000,3,3,2128,"$7,420",Maplewood Elementary School,Jackson Middle School,Wilson High School,1968
+7931 SW 40th Ave ,$220000,2,2,893,"$3,905",Maplewood Elementary School,Jackson Middle School,Wilson High School,1990
+456 NW Skyline Blvd,$974900,4,5,4248,"$11,716",Forest Park Elementary School,West Sylvan Middle School,Lincoln High School,1997
+9908 SE Mount Scott Blvd,$499000,4,1F11/2,3725,"$8,618",Kelly Elementary School,Lane Middle School,Franklin High School,1927
+1422 SE 51st Ave,$609900,4,3,2430,"$4,682",Glencoe Elementary School,Mt Tabor Middle School,Franklin High School,1911
+3410 SE 119th Ave,$320000,2,1,1288,"$2,666",Mill Park Elementary School,Ron Russell Middle School,David Douglas High School,1924
+1233 N Winchell St,$475000,3,2,1536,"$3,715",Peninsula Elementary School,Ockley Green School,Jefferson or Roosevelt High Schools,1977
+1710 SW Harbor Way ,$345000,1,1,819,"$4,747",Ainsworth Elementary School,West Sylvan Middle School,Lincoln High School,1986
+7010 SW Brier Pl,$550000,5,2,2866,"$9,388",Rieke Elementary School,Gray Middle School,Wilson High School,1890
+9240 N Mohawk Ave,$450000,4,2F11/2,1692,"$4,722",James John Elementary School,George Middle School,Roosevelt High School,2005
+345 N Lotus Beach Dr,$749900,2,2F11/2,3060,"$12,974",Faubion Elementary School,Faubion Elementary School,Jefferson or Roosevelt High Schools,1982
+9726 NW Sunrise Ln,$1599900,6,4F21/2,6451,"$26,068",Forest Park Elementary School,West Sylvan Middle School,Lincoln High School,2005
+3326 N Farragut St,$485000,3,3,2379,"$4,233",Peninsula Elementary School,Ockley Green School,Jefferson or Roosevelt High Schools,1929
+3825 SE Center St,$429900,3,1,1330,"$4,640",Grout Elementary School,Hosford Middle School,Cleveland High School,1982
+704 NE Killingsworth Ct,$310000,4,2,2048,"$1,398",King Elementary School,Harriet Tubman Middle School,Jefferson or Grant High Schools,1907
+2049 NW Overton St ,$379000,1,1,727,"$4,088",Chapman Elementary School,West Sylvan Middle School,Lincoln High School,1925
+15751 SE Powell Blvd,$339999,6,2,2622,"$3,136",Powell Butte Elementary School,Centennial Middle School,Centennial High School,1926
+10618 NW 4th Pl,$649900,4,3F11/2,4824,"$4,635",Skyline Elementary School,Skyline Elementary School,Lincoln High School,2009
+10001 SW Riverside Dr,$997500,5,2F11/2,4986,"$12,397",Riverdale Grade School,Riverdale Grade School,Riverdale High School,1908
+10601 NW 4th St,$369900,1,1,1308,"$3,170",Skyline Elementary School,Skyline Elementary School,Lincoln High School,1907
+2933 SE 136th Ave,$299000,3,2,1778,"$3,281",Lincoln Park Elementary School,Ron Russell Middle School,David Douglas High School,2000
+5944 SW View Point Ter,$439000,3,2,1056,"$5,901",Capitol Hill Elementary School,Jackson Middle School,Wilson High School,1973
+10832 NE Siskiyou St,$417000,4,3,2525,"$3,321",Sacramento Elementary School,Parkrose Middle School,Parkrose High School,1949
+700 SW 48th Dr,$1440000,3,3F11/2,3752,"$24,322",Ainsworth Elementary School,West Sylvan Middle School,Lincoln High School,1969
+6449 NE 33rd Ave,$449900,5,2,2518,"$4,375",Faubion Elementary School,Faubion Elementary School,Jefferson or Madison High Schools,1913
+3804 SE 27th Ave,$459900,3,1,1010,"$3,685",Grout Elementary School,Hosford Middle School,Cleveland High School,1951
+1828 SE Main St,$875000,5,4F11/2,3655,"$11,531",Buckman Elementary School,Hosford Middle School,Cleveland High School,2010
+6035 SE Tenino St,$275000,2,1,1188,"$4,143",Whitman Elementary School,Lane Middle School,Cleveland High School,1923
+2004 NW Norfolk Ct,$650000,4,2F11/2,3323,"$11,365",Forest Park Elementary School,West Sylvan Middle School,Lincoln High School,1999
+5615 NE 35th Ave,$639900,4,2F11/2,2978,"$4,478",Faubion Elementary School,Faubion Elementary School,Jefferson or Madison High Schools,1926
+5400 NE Rodney Ave,$974900,7,3F21/2,5147,"$9,214",King Elementary School,Harriet Tubman Middle School,Jefferson or Grant High Schools,1909
+2341 SE 154th Ave,$425000,3,2,1704,"$4,275",Parklane Elementary School,Centennial Middle School,Centennial High School,1975
+125 NE 80th Ave,$350000,2,1F11/2,1904,"$3,130",Vestal Elementary School,Roseway Heights School,Madison High School,1925
+10224 N Tioga Ave,$309900,3,1,1099,"$2,015",Sitton Elementary School,George Middle School,Roosevelt High School,1923
+1680 SW Montgomery Dr,$2799000,3,2F21/2,4664,"$39,043",Ainsworth Elementary School,West Sylvan Middle School,Lincoln High School,2002
+13705 NE Halsey St,$349800,2,1,1251,"$3,399",Russell Elementary,Parkrose Middle School,Parkrose High School,1954
+5252 NE 27th Ave,$460000,4,2,2520,"$2,531",Vernon Elementary School,Vernon Elementary School,Jefferson or Madison High Schools,1908
+1322 SE 114th Ave,$399950,3,2,1392,"$4,094",Mill Park Elementary School,Floyd Light Middle School,David Douglas High School,1965
+169 N Lotus Beach Dr,$614900,3,3,3075,"$12,133",Faubion Elementary School,Faubion Elementary School,Jefferson or Roosevelt High Schools,1980
+133 SE 55th Ave ,$874900,5,3,2942,"$4,607",Glencoe Elementary School,Mt Tabor Middle School,Franklin High School,1926
+5531 NE Cleveland Ave,$724000,4,2F11/2,3408,"$5,484",Beach Elementary School,Ockley Green School,Jefferson or Roosevelt High Schools,1907
+11721 SW Riverwood Rd,$1395000,4,3F11/2,2928,"$12,282",Riverdale Grade School,Riverdale Grade School,Riverdale High School,1911
+6517 NE Emerson St,$399900,3,2,1622,"$4,039",Scott Elementary School,Roseway Heights School,Madison High School,1988
+6821 N Montana Ave,$400000,2,1,972,"$2,487",Chief Joseph/Ockley Green School,Ockley Green School,Jefferson or Roosevelt High Schools,1925
+2802 NW Ariel Ter,$880000,3,3,2201,"$12,077",Chapman Elementary School,West Sylvan Middle School,Lincoln High School,1981
+6355 N Greeley Ave,$399900,4,2,1929,"$3,588",Chief Joseph/Ockley Green School,Ockley Green School,Jefferson or Roosevelt High Schools,1906
+2461 NE Sumner St,$699900,4,3F11/2,2642,"$11,505",Vernon Elementary School,Vernon Elementary School,Jefferson or Madison High Schools,1927
+5207 NE 25th Ave,$674900,4,3F11/2,2462,"$11,505",Vernon Elementary School,Vernon Elementary School,Jefferson or Madison High Schools,1927
+7049 SE 35th Ave,$725000,4,1F11/2,2660,"$10,486",Duniway Elementary School,Sellwood Middle School,Cleveland High School,1926
+4255 SE 117th Ave,$599000,6,3,2918,"$5,253",West Powellhurst Elementary School,Ron Russell Middle School,David Douglas High School,1966
+1026 NE 109th Ave,$359000,2,1,1172,"$3,932",Ventura Park Elementary School,Floyd Light Middle School,David Douglas High School,1951
+4165 SE 37th Ave,$425000,3,2F11/2,1582,"$5,042",Grout Elementary School,Hosford Middle School,Cleveland High School,2015
+2835 SE Carlton St,$1549950,5,4F11/2,5215,"$23,935",Duniway Elementary School,Sellwood Middle School,Cleveland High School,1924
+4915 N Interstate Ave,$499900,4,1F11/2,2690,"$3,962",Beach Elementary School,Ockley Green School,Jefferson or Roosevelt High Schools,1909
+615 NE 81st Ave,$359900,3,1,1718,"$4,224",Vestal Elementary School,Roseway Heights School,Madison High School,1951
+10605 SE Clinton St,$339900,3,2,1789,"$4,405",Harrison Park School,Harrison Park School,Madison High School,1983
+1821 NE 25th Ave,$419000,2,2,1015,"$6,141",Irvington Elementary School,Harriet Tubman Middle School,Jefferson High School / Grant High School,1972
+1702 SE 59th Ave,$699950,3,2,2642,"$5,759",Atkinson Elementary School,Mt Tabor Middle School,Franklin High School,1926
+6255 SW Tower Way,$749900,4,2F21/2,3562,"$11,574",Hayhurst Elementary School,Gray Middle School,Wilson High School,1957
+136 NE 117th Ave,$489000,4,2,2548,"$2,882",Ventura Park Elementary School,Floyd Light Middle School,David Douglas High School,1900
+5720 SE Jenne Rd,$389000,3,2,1496,"$3,300",Pleasant Valley Elementary School,Centennial Middle School,Centennial High School,1950
+46 NE 148th Ave,$395000,3,1,1094,"$3,194",Glenfair Elementary School,Hauton B Lee Middle School,Reynolds High School,1951
+1326 NE 155th Ave,$249900,2,1,768,"$2,594",Glenfair Elementary School,Hauton B Lee Middle School,Reynolds High School,1943
+11938 SW 60th Ave,$1099000,4,3F11/2,3393,"$4,274",Markham Elementary School,Jackson Middle School,Wilson High School,1932
+8023 SW Ruby Ter,$620000,3,2F11/2,3410,"$11,956",Capitol Hill Elementary School,Jackson Middle School,Wilson High School,1954
+651 SE 148th Ave ,$169000,3,1,1322,"$2,586",Parklane Elementary School,Centennial Middle School,Centennial High School,1939
+5225 NE Garfield Ave,$625000,5,2,3411,"$2,897",King Elementary School,Harriet Tubman Middle School,Jefferson or Grant High Schools,1908
+5212 NE 62nd Ave,$475000,4,2,1668,"$3,682",Scott Elementary School,Roseway Heights School,Madison High School,1942
+9845 NW Silver Ridge Loop,$387000,2,2F11/2,1523,"$7,324",Forest Park Elementary School,West Sylvan Middle School,Lincoln High School,1994
+2333 NE Multnomah St,$739900,3,2F11/2,2993,"$7,525",Irvington Elementary School,Harriet Tubman Middle School,Jefferson High School / Grant High School,1906
+9643 NW Silver Ridge Loop,$378000,3,2,1350,"$6,620",Forest Park Elementary School,West Sylvan Middle School,Lincoln High School,1994
+11421 SE Salmon St,$399900,5,1F11/2,2662,"$4,879",Ventura Park Elementary School,Floyd Light Middle School,David Douglas High School,1957
+2737 SW English Ct,$1250000,5,3F11/2,4191,"$18,739",Ainsworth Elementary School,West Sylvan Middle School,Lincoln High School,1941
+3814 SE Martins St,$1229000,5,1F11/2,4956,"$16,313",Duniway Elementary School,Sellwood Middle School,Cleveland High School,1892
+1911 SE 97th Ave,$375000,4,1F11/2,2368,"$4,043",Cherry Park Elementary School,Floyd Light Middle School,David Douglas High School,1956
+1135 SE 80th Ave,$950000,2,1,1263,"$4,584",Bridger Elementary School,Bridger Elementary School,Franklin High School,1921
+3062 NW Montara Loop,$599000,2,2,1563,"$9,116",Forest Park Elementary School,West Sylvan Middle School,Lincoln High School,2014
+2322 SW Sheffield Ave,$1200000,3,3F11/2,3316,"$15,722",Ainsworth Elementary School,West Sylvan Middle School,Lincoln High School,1993
+7731 SE Tolman St,$399900,3,1,1664,"$3,410",Woodmere Elementary School,Lane Middle School,Franklin High School,1912
+9421 E Burnside St,$524800,2,1,1443,"$3,101",Cherry Park Elementary School,Floyd Light Middle School,David Douglas High School,1898
+10549 NW Skyline Blvd,$449500,3,3,1312,"$5,993",Skyline Elementary School,Skyline Elementary School,Lincoln High School,1937
+10632 SE Cora St,$279900,3,1,960,"$2,567",Earl Boyles Elementary,Ron Russell Middle School,David Douglas High School,1955
+3707 SW Baird St,$649950,4,3,2970,"$4,733",Capitol Hill Elementary School,Jackson Middle School,Wilson High School,1947
+7221 N Catlin Ave,$358000,2,1,1658,"$3,873",Sitton Elementary School,George Middle School,Roosevelt High School,1910
+9715 NW Newton Rd,$950000,5,4,4110,"$16,006",Skyline Elementary School,Skyline Elementary School,Lincoln High School,1958
+395 NW Brynwood Ln,$3250000,4,3,3850,"$21,440",Forest Park Elementary School,West Sylvan Middle School,Lincoln High School,1963
+220 SE 132nd Ave,$349900,3,2,1554,"$4,140",Russell Elementary,Parkrose Middle School,Parkrose High School,1977
+1415 NE 21st Ave ,$279900,2,1,964,"$3,556",Buckman Elementary School,Hosford Middle School,Cleveland High School,1949
+3125 NE Cesar E Chavez Blvd,$799900,2,2F11/2,1770,"$6,898",Alameda Elementary School,Beaumont Middle School,Grant High School,1925
+6224 SE Harney St,$449900,5,4,2115,"$5,641",Whitman Elementary School,Lane Middle School,Cleveland High School,1997
+4630 SW Water Ave,$565000,3,2,2522,"$6,796",Capitol Hill Elementary School,Jackson Middle School,Wilson High School,1909
+5862 SW Ralston Dr,$750000,4,2F11/2,2859,"$9,681",Rieke Elementary School,Gray Middle School,Wilson High School,2015
+3718 SW Hillside Dr,$1334999,4,3F11/2,4448,"$7,348",Bridlemile Elementary School,Gray Middle School,Wilson High School,1912
+2726 SW 28th Dr,$699900,4,3F11/2,4713,"$14,630",Stephenson Elementary School,Jackson Middle School,Wilson High School,1989
+14302 SE Main St,$345000,4,1,1460,"$3,899",Parklane Elementary School,Centennial Middle School,Centennial High School,1939
+8034 SE 42nd Ave,$479900,4,2,1536,"$4,288",Lewis Elementary School,Sellwood Middle School,Cleveland High School,1940
+11520 SE Harold St,$279900,2,1,720,"$1,880",Earl Boyles Elementary,Ron Russell Middle School,David Douglas High School,1929
+3553 SE Long St,$754900,4,3F11/2,2860,"$7,968",Grout Elementary School,Hosford Middle School,Cleveland High School,1945
+7936 SE 64th Ave,$374999,4,2,1264,"$2,942",Whitman Elementary School,Lane Middle School,Cleveland High School,1960
+2002 SW Dolph Ct,$599000,3,2F11/2,3395,"$5,550",Capitol Hill Elementary School,Jackson Middle School,Wilson High School,1917
+3636 NE 149th Ave,$375000,4,2F11/2,2221,"$5,682",Margaret Scott Elementary School,Hauton B Lee Middle School,Reynolds High School,1995
+1030 NW 12th Ave ,$449000,1,1,712,$0,Chapman Elementary School,West Sylvan Middle School,Lincoln High School,2013
+3165 NE Multnomah St,$599900,3,2F11/2,1998,"$4,043",Beverly Cleary School,Beverly Cleary School,Grant High School,1924
+2649 NW Kennedy Ct,$393000,3,3,1675,"$5,978",Forest Park Elementary School,West Sylvan Middle School,Lincoln High School,2003
+1616 SW Harbor Way ,$390500,2,2,1038,"$7,695",Ainsworth Elementary School,West Sylvan Middle School,Lincoln High School,1986
+14918 SE Main St,$290000,3,2,1180,"$4,353",Parklane Elementary School,Centennial Middle School,Centennial High School,2004
+6807 SE Morrison St,$899900,5,3,3600,"$7,636",Glencoe Elementary School,Mt Tabor Middle School,Franklin High School,1912
+2343 NE 11th Ave,$629000,3,2,2812,"$8,427",Irvington Elementary School,Harriet Tubman Middle School,Jefferson High School / Grant High School,1926
+7456 N Stockton,$549900,3,2F11/2,1693,$362,Astor Elementary School,Astor Elementary School,Roosevelt High School,1943
+7460 N Stockton Ave,$564900,3,2F11/2,1802,$891,Astor Elementary School,Astor Elementary School,Roosevelt High School,1894
+280 NE 60th Ave ,$236900,1,1,634,"$2,777",Glencoe Elementary School,Mt Tabor Middle School,Franklin High School,1945
+227 SW Florida St,$955000,4,3F11/2,4297,"$14,246",Rieke Elementary School,Gray Middle School,Wilson High School,2003
+1025 SW Bertha Blvd ,$200000,2,1,1001,"$3,407",Rieke Elementary School,Gray Middle School,Wilson High School,1961
+1616 NW Northrup St,$999999,6,4,2884,"$11,259",Chapman Elementary School,West Sylvan Middle School,Lincoln High School,1900
+10627 NE Fargo St,$329999,4,3,2520,"$6,519",Sacramento Elementary School,Parkrose Middle School,Parkrose High School,1962
+2524 NE 63rd Ave,$750000,5,2F11/2,2291,"$5,992",Rose City Park,Roseway Heights School,Madison High School,1923
+8110 SW 6th Ave,$870000,4,4,4520,"$14,192",Capitol Hill Elementary School,Jackson Middle School,Wilson High School,1963
+2896 SW Patton Rd,$3850000,5,5F11/2,8155,"$62,492",Ainsworth Elementary School,West Sylvan Middle School,Lincoln High School,1928
+9149 NW Mckenna Dr,$875000,5,4F11/2,4698,"$17,444",Forest Park Elementary School,West Sylvan Middle School,Lincoln High School,1999
+12336 NE Brazee St,$364900,4,1F11/2,2618,"$3,663",Russell Elementary,Parkrose Middle School,Parkrose High School,1943
+309 N Bridgeton Rd ,$254000,2,1,720,"$2,014",Faubion Elementary School,Faubion Elementary School,Jefferson or Roosevelt High Schools,1985
+13610 SE Steele St,$252500,2,2F11/2,2324,"$3,356",Gilbert Heights Elementary School,Alice Ott Middle School,David Douglas High School,2000
+9327 SE Alder St,$339000,2,1,786,"$3,016",Harrison Park School,Harrison Park School,Madison High School,1949
+6855 NE Morris St,$570000,4,3,3232,"$6,664",Rose City Park,Roseway Heights School,Madison High School,1916
+10707 SW Riverside Dr,$1599500,4,4F11/2,4000,"$29,042",Riverdale Grade School,Riverdale Grade School,Riverdale High School,1928
+3629 SE Crystal Springs Blvd,$674900,4,2,3086,"$8,054",Duniway Elementary School,Sellwood Middle School,Cleveland High School,1942
+11301 SW Military Rd,$1350000,5,2F11/2,3709,"$11,632",Riverdale Grade School,Riverdale Grade School,Riverdale High School,1962
+9438 N Gilbert Ave,$375000,3,1F11/2,1256,"$3,010",James John Elementary School,George Middle School,Roosevelt High School,1957
+4933 N Haight Ave,$350000,4,1,2292,"$1,618",Boise-Eliot Elementary School,Harriet Tubman Middle School,Jefferson or Grant High Schools,1910
+3631 N Vancouver Ave,$410000,3,2,1195,"$3,254",Boise-Eliot Elementary School,Harriet Tubman Middle School,Jefferson or Grant High Schools,1995
+9180 N Polk Ave,$448900,4,2F11/2,1822,"$2,847",James John Elementary School,George Middle School,Roosevelt High School,1944
+1234 SW 57th Ave,$1290000,5,4,3700,"$10,546",Bridlemile Elementary School,West Sylvan Middle School,Lincoln High School,1968
+4518 N Fessenden St,$450000,3,2F11/2,2214,"$5,731",Rosa Parks Elementary School,George Middle School,Roosevelt High School,2007
+5925 N Delaware Ave,$549000,5,3,2762,"$5,530",Beach Elementary School,Ockley Green School,Jefferson or Roosevelt High Schools,1913
+10334 NW Engleman St,$900000,6,3F11/2,4481,"$13,530",Forest Park Elementary School,West Sylvan Middle School,Lincoln High School,1995
+5241 SW Humphrey Blvd,$595000,5,3,3930,"$12,396",Bridlemile Elementary School,West Sylvan Middle School,Lincoln High School,1956
+315 SW Troy St,$529000,4,3,2888,"$10,042",Capitol Hill Elementary School,Jackson Middle School,Wilson High School,1954
+10436 SE Reedway St,$300000,3,1,2040,"$3,754",Lent Elementary School,Lent Elementary School,Franklin High School,1944
+3315 N Russet St,$350000,5,4,2224,"$3,724",Peninsula Elementary School,Ockley Green School,Jefferson or Roosevelt High Schools,1924
+2909 SW Upper Dr,$499000,3,2,2175,"$7,921",Ainsworth Elementary School,West Sylvan Middle School,Lincoln High School,1912
+3056 SW Fairmount Blvd,$725000,3,3,2918,"$14,938",Ainsworth Elementary School,West Sylvan Middle School,Lincoln High School,1959
+1716 NW Riverscape St,$987000,2,2F11/2,2151,"$13,372",Chapman Elementary School,West Sylvan Middle School,Lincoln High School,2011
+13245 NE Sacramento Dr,$480000,4,2,2388,"$5,627",Russell Elementary,Parkrose Middle School,Parkrose High School,1958
+6330 SE Dunbar Dr,$555000,3,3F11/2,3923,"$8,615",Pleasant Valley Elementary School,Centennial Middle School,Centennial High School,2004
+411 NW Flanders St ,$259900,1,1,723,"$5,882",Chapman Elementary School,West Sylvan Middle School,Lincoln High School,2001
+5535 SW Hewett Blvd,$1935000,5,4,5278,"$11,391",Bridlemile Elementary School,West Sylvan Middle School,Lincoln High School,1940
+6255 SW Sheridan St,$1325000,4,2F11/2,4268,"$18,048",Bridlemile Elementary School,West Sylvan Middle School,Lincoln High School,1995
+6342 SE 86th Ave,$369000,4,2F11/2,1631,"$4,644",Kelly Elementary School,Lane Middle School,Franklin High School,2007
+11834 SE Ash St,$258000,2,1,900,"$2,029",Ventura Park Elementary School,Floyd Light Middle School,David Douglas High School,1954
+6746 SE 75th Ave,$315000,3,2,1186,"$4,099",Woodmere Elementary School,Lane Middle School,Franklin High School,2000
+4576 NE 47th Ave,$425000,2,1F11/2,1040,"$13,899",Rigler Elementary School,Beaumont Middle School,Madison High School,1947
+4794 NE Going St,$420000,2,1F11/2,1012,"$13,899",Rigler Elementary School,Beaumont Middle School,Madison High School,1947
+4754 NE Going St,$420000,2,1F11/2,1012,"$13,899",Rigler Elementary School,Beaumont Middle School,Madison High School,1947
+4798 NE Going St,$530000,4,2F11/2,1574,"$13,899",Rigler Elementary School,Beaumont Middle School,Madison High School,1947
+4548 NE 47th Ave,$495000,3,2,1393,"$13,899",Rigler Elementary School,Beaumont Middle School,Madison High School,1947
+10936 NE Wygant St,$299900,4,2,2775,"$2,856",Prescott Elementary School,Parkrose Middle School,Parkrose High School,1914
+4556 NE 47th Ave,$530000,4,2F11/2,1574,"$13,899",Rigler Elementary School,Beaumont Middle School,Madison High School,1947
+4746 NE Going St,$425000,2,1F11/2,992,"$13,899",Rigler Elementary School,Beaumont Middle School,Madison High School,1947
+4588 NE 47th Ave,$425000,2,1F11/2,992,"$13,899",Rigler Elementary School,Beaumont Middle School,Madison High School,1947
+5547 SE 119th Ave,$365000,4,1F11/2,1472,"$2,829",Earl Boyles Elementary,Ron Russell Middle School,David Douglas High School,1966
+3907 N Albina Ave,$750000,3,2,1932,"$2,417",Boise-Eliot Elementary School,Harriet Tubman Middle School,Jefferson or Grant High Schools,1890
+3565 NE Lombard Ct,$379000,3,2,1968,"$4,007",Faubion Elementary School,Faubion Elementary School,Jefferson or Madison High Schools,1948
+4384 SE Nehalem St,$689900,3,2F11/2,2603,"$1,404",Lewis Elementary School,Sellwood Middle School,Cleveland High School,1952
+10521 SW 11th Dr,$758900,2,2,2427,"$10,391",Stephenson Elementary School,Jackson Middle School,Wilson High School,1986
+3413 SE Division St,$849000,3,2F11/2,2213,"$4,161",Abernethy Elementary School,Hosford Middle School,Cleveland High School,1916
+6609 NE Rodney Ave,$799000,3,2F11/2,2914,"$6,553",Chief Joseph/Ockley Green School,Ockley Green School,Jefferson or Roosevelt High Schools,1908
+4744 NE Going St,$530000,4,2F11/2,1574,"$13,899",Rigler Elementary School,Beaumont Middle School,Madison High School,1947
+2914 NE 50th Ave,$975900,5,3F11/2,3254,"$13,014",Alameda Elementary School,Beaumont Middle School,Grant High School,1925
+4572 NE 47th Ave,$425000,2,1F11/2,1040,"$13,899",Rigler Elementary School,Beaumont Middle School,Madison High School,1947
+1620 NW Riverscape St,$599999,2,2F11/2,1489,"$9,190",Chapman Elementary School,West Sylvan Middle School,Lincoln High School,2006
+7536 N Chatham Ave,$739900,6,4F11/2,3165,"$5,687",Peninsula Elementary School,Ockley Green School,Jefferson or Roosevelt High Schools,1999
+3921 NW Devoto Ln,$1390000,5,3F11/2,5340,"$17,837",Forest Park Elementary School,West Sylvan Middle School,Lincoln High School,2002
+7027 SE Rhone St,$429700,5,2,2192,"$4,448",Arleta Elementary School,Arleta Elementary School,Franklin High School,1910
+1132 SW 19th Ave ,$329900,1,1,662,"$8,828",Chapman Elementary School,West Sylvan Middle School,Lincoln High School,1997
+5815 SE Flavel St,$335000,3,2,1134,"$4,201",Woodmere Elementary School,Lane Middle School,Franklin High School,1996
+317 NE 56th Ave,$440000,2,2F11/2,1329,"$5,101",Laurelhurst Elementary School,Laurelhurst Elementary School,Grant High School,1997
+15348 SE Henderson Way,$485500,4,2F21/2,3080,"$6,019",Pleasant Valley Elementary School,Centennial Middle School,Centennial High School,2002
+2107 NE 14th Ave,$1049000,5,2F11/2,3850,"$8,249",Irvington Elementary School,Harriet Tubman Middle School,Jefferson High School / Grant High School,1900
+1616 SW Montgomery St,$695000,2,2F11/2,1937,"$9,026",Ainsworth Elementary School,West Sylvan Middle School,Lincoln High School,2004
+6035 SE Reed College Pl,$1620000,5,4F11/2,5710,"$23,973",Duniway Elementary School,Sellwood Middle School,Cleveland High School,1939
+9780 SW 54th Ave,$699000,5,3,2595,"$3,999",Markham Elementary School,Jackson Middle School,Wilson High School,1940
+14 SW Whitaker St,$525000,3,1F11/2,2055,"$5,010",Capitol Hill Elementary School,Jackson Middle School,Wilson High School,1892
+627 NE Randall Ave,$599900,2,2F11/2,1487,"$1,778",Buckman Elementary School,Hosford Middle School,Cleveland High School,1925
+623 NE Randall Ave,$599900,2,2F11/2,1487,"$1,778",Buckman Elementary School,Hosford Middle School,Cleveland High School,1925
+621 NE Randall Ave,$599900,2,2F11/2,1461,"$1,778",Buckman Elementary School,Hosford Middle School,Cleveland High School,1925
+2636 SW Hume Ct,$334900,2,2,1251,"$5,567",Maplewood Elementary School,Jackson Middle School,Wilson High School,2005
+3523 SE Alder St,$799900,5,3F11/2,2645,"$5,079",Sunnyside Environmental School,Sunnyside Environmental School,Franklin High School,1889
+8428 SE 146th Pl,$510000,4,3F11/2,3318,"$7,311",Pleasant Valley Elementary School,Centennial Middle School,Centennial High School,2007
+1542 SW Joshua St,$719000,4,3,2760,"$11,375",Stephenson Elementary School,Jackson Middle School,Wilson High School,2007
+7735 SE 66th Pl,$369000,3,2,1544,"$3,960",Whitman Elementary School,Lane Middle School,Cleveland High School,1947
+12621 SE Boise St,$259900,3,2F11/2,1420,"$3,697",Gilbert Heights Elementary School,Alice Ott Middle School,David Douglas High School,2006
+302 NE Morgan St,$287500,3,2F11/2,1131,"$4,921",Woodlawn Elementary School,Ockley Green School,Jefferson or Roosevelt High Schools,2008
+4650 SW Ormandy Way,$650000,4,2F11/2,2080,"$11,651",Ainsworth Elementary School,West Sylvan Middle School,Lincoln High School,1980
+15715 NE Beech St ,$123900,2,2,978,"$2,023",Margaret Scott Elementary School,Hauton B Lee Middle School,Reynolds High School,2001
+3526 NE Fremont St,$1200000,4,2,4756,"$9,052",Alameda Elementary School,Beaumont Middle School,Grant High School,1919
+1210 SE 135th Ave,$349000,3,1,2100,"$4,234",Menlo Park Elementary School,Floyd Light Middle School,David Douglas High School,1951
+2834 NE Alameda St,$1299900,6,4F11/2,5837,"$24,726",Alameda Elementary School,Beaumont Middle School,Grant High School,1917
+2122 SW 18th Ave,$899000,3,3F11/2,2877,"$14,098",Ainsworth Elementary School,West Sylvan Middle School,Lincoln High School,1886
+4019 N Overlook Ter,$995000,3,2F11/2,2756,"$12,856",Beach Elementary School,Ockley Green School,Jefferson or Roosevelt High Schools,1998
+528 SE 128th Ave,$329000,3,1,1170,"$3,398",Menlo Park Elementary School,Floyd Light Middle School,David Douglas High School,1954
+2929 SE 17th Ave,$458500,2,1,1764,"$3,322",Abernethy Elementary School,Hosford Middle School,Cleveland High School,1905
+629 NE Randall Ave,$599900,2,2F11/2,1554,"$1,778",Buckman Elementary School,Hosford Middle School,Cleveland High School,1925
+7621 SE Barbara Welch Rd,$800000,4,4,4081,"$8,491",Pleasant Valley Elementary School,Centennial Middle School,Centennial High School,1943
+6886 NE 13th Ave,$499900,3,2F11/2,1712,"$3,104",Woodlawn Elementary School,Ockley Green School,Jefferson or Roosevelt High Schools,1914
+1944 NW Cedar Ridge Dr,$999000,4,3F11/2,4540,"$16,318",Forest Park Elementary School,West Sylvan Middle School,Lincoln High School,1999
+3441 SE 111th Ave ,$47900,2,1,672,"$13,455",West Powellhurst Elementary School,Ron Russell Middle School,David Douglas High School,1964
+4005 SE Sherman St,$574989,4,2F11/2,1874,"$3,177",Glencoe Elementary School,Mt Tabor Middle School,Franklin High School,1911
+6434 SE 138th Pl,$319990,3,2F11/2,1297,"$3,844",Gilbert Park Elementary School,Alice Ott Middle School,David Douglas High School,2003
+7033 SE 29th Ave,$724900,4,2F11/2,2634,"$8,026",Duniway Elementary School,Sellwood Middle School,Cleveland High School,1930
+1524 NE 148th Pl,$370000,2,2,1713,"$5,569",Margaret Scott Elementary School,Hauton B Lee Middle School,Reynolds High School,1993
+8405 SE 23rd Ave,$267000,2,1F11/2,1030,"$4,030",Duniway Elementary School,Sellwood Middle School,Cleveland High School,1975
+7926 SE 6th Ave,$775000,3,2F11/2,1800,"$18,977",Llewellyn Elementary School,Sellwood Middle School,Cleveland High School,2017
+7932 SE 6th Ave,$775000,3,2F11/2,1800,"$18,977",Llewellyn Elementary School,Sellwood Middle School,Cleveland High School,2017
+9746 NW Sunrise Ln,$1850000,5,4F11/2,6395,"$30,087",Forest Park Elementary School,West Sylvan Middle School,Lincoln High School,2004
+5035 N Montana Ave,$375500,4,2,2541,"$3,750",Beach Elementary School,Ockley Green School,Jefferson or Roosevelt High Schools,1906
+2738 SW Robins Crest Dr,$1450000,5,3,5846,"$19,972",Ainsworth Elementary School,West Sylvan Middle School,Lincoln High School,1940
+5035 NE 24th Ave,$849900,5,3F11/2,2645,"$2,483",Vernon Elementary School,Vernon Elementary School,Jefferson or Madison High Schools,1910
+5615 SE 115th Ave,$368000,3,2,2132,"$3,821",Earl Boyles Elementary,Ron Russell Middle School,David Douglas High School,1962
+8940 NW Skyline Blvd,$594000,5,2,2688,"$8,978",Skyline Elementary School,Skyline Elementary School,Lincoln High School,1960
+917 SW Palatine St,$885000,4,3F11/2,3738,"$15,035",Stephenson Elementary School,Jackson Middle School,Wilson High School,1992
+7945 SE 104th Ave,$410000,3,2F11/2,1740,"$4,218",Gilbert Park Elementary School,Alice Ott Middle School,David Douglas High School,1976
+1405 SE 168th Pl,$319950,3,2,1282,"$2,819",Patrick Lynch Elementary School,Centennial Middle School,Centennial High School,1957
+12818 SE Mill St,$579900,5,3F11/2,3098,"$6,049",Mill Park Elementary School,Ron Russell Middle School,David Douglas High School,1949
+15519 SE Belmore Hts,$439900,4,3,2409,"$6,007",Pleasant Valley Elementary School,Centennial Middle School,Centennial High School,2003
+1719 NW Irving St,$875000,4,2F11/2,3144,"$13,844",Chapman Elementary School,West Sylvan Middle School,Lincoln High School,1893
+1111 NE 37th Ave,$1165000,3,3F11/2,3341,"$14,207",Laurelhurst Elementary School,Laurelhurst Elementary School,Grant High School,1932
+2179 NW Hoyt St,$720000,3,1,2119,"$5,825",Chapman Elementary School,West Sylvan Middle School,Lincoln High School,1902
+11108 SW 65th Ave,$385000,3,2,1273,"$5,672",Markham Elementary School,Jackson Middle School,Wilson High School,1990
+6623 N Astor St,$299000,2,1,768,"$2,295",James John Elementary School,George Middle School,Roosevelt High School,1949
+590 NW Alpine Ter,$850000,2,2F11/2,2147,"$11,958",Chapman Elementary School,West Sylvan Middle School,Lincoln High School,1966
+7444 SW Laview Dr,$450000,2,1,1114,"$7,760",Capitol Hill Elementary School,Jackson Middle School,Wilson High School,1963
+6906 SE Nehalem St,$275000,2,1,612,"$2,933",Whitman Elementary School,Lane Middle School,Cleveland High School,1940
+2650 SW Cross Ave,$1350000,3,2F11/2,3572,"$19,590",Ainsworth Elementary School,West Sylvan Middle School,Lincoln High School,1964
+9826 SE Caruthers St,$489000,5,2F11/2,2441,"$5,998",Cherry Park Elementary School,Floyd Light Middle School,David Douglas High School,2007
+3919 NE Tillamook St,$575000,2,2F11/2,1848,"$6,713",Beverly Cleary School,Beverly Cleary School,Grant High School,1998
+18700 NW Logie Trail Rd,$510000,3,1F11/2,2511,"$5,537",Skyline Elementary School,Skyline Elementary School,Lincoln High School,1943
+726 NW 11th Ave ,$464000,1,1,817,"$4,593",Chapman Elementary School,West Sylvan Middle School,Lincoln High School,2000
+7125 SW 3rd Ave,$699900,3,2,3548,"$5,978",Rieke Elementary School,Gray Middle School,Wilson High School,1888
+7301 SW 26th Ave,$499900,3,1,1597,"$4,567",Hayhurst Elementary School,Gray Middle School,Wilson High School,1943
+2706 SE 138th Ave ,$149900,2,1,796,"$1,805",Lincoln Park Elementary School,Ron Russell Middle School,David Douglas High School,1974
+2743 NW Thurman St ,$259000,1,1,651,"$3,332",Chapman Elementary School,West Sylvan Middle School,Lincoln High School,1933
+924 NE 72nd Ave,$399900,3,1F11/2,1210,"$3,864",Vestal Elementary School,Roseway Heights School,Madison High School,1971
+4926 SW Corbett Ave ,$329995,2,2,1126,"$5,042",Capitol Hill Elementary School,Jackson Middle School,Wilson High School,1979
+38 NE 148th Ave,$375000,3,2,1475,"$3,460",Glenfair Elementary School,Hauton B Lee Middle School,Reynolds High School,1952
+13611 NW Glendoveer Dr,$999000,4,3,3645,"$15,992",Skyline Elementary School,Skyline Elementary School,Lincoln High School,1998
+225 SW Carson St,$479900,4,1F11/2,2519,"$7,959",Capitol Hill Elementary School,Jackson Middle School,Wilson High School,1949
+2349 NW Pinnacle Dr,$1376000,5,4F11/2,6444,"$23,531",Forest Park Elementary School,West Sylvan Middle School,Lincoln High School,2005
+10921 SE Flavel St,$365000,3,2,1320,"$4,465",Gilbert Park Elementary School,Alice Ott Middle School,David Douglas High School,1987
+636 SE 156th Ave,$385000,3,1F11/2,1732,"$4,661",Parklane Elementary School,Centennial Middle School,Centennial High School,1968
+9525 SW 12th Dr,$595000,2,1F11/2,1910,"$6,775",Capitol Hill Elementary School,Jackson Middle School,Wilson High School,1949
+2799 SW Roswell Ave,$544900,2,2,1616,"$8,689",Ainsworth Elementary School,West Sylvan Middle School,Lincoln High School,1920
+3114 SW Wilbard St,$649950,4,3F11/2,3652,"$10,483",Stephenson Elementary School,Jackson Middle School,Wilson High School,1999
+3927 NW Devoto Ln,$835800,5,4F11/2,5858,"$23,072",Forest Park Elementary School,West Sylvan Middle School,Lincoln High School,2002
+10304 NE Tillamook St,$459900,6,2,2342,"$4,725",Sacramento Elementary School,Parkrose Middle School,Parkrose High School,1965
+66 NW Macleay Blvd,$673000,4,2F11/2,2757,"$11,238",Chapman Elementary School,West Sylvan Middle School,Lincoln High School,1923
+3507 NE Wasco St,$599950,4,2F11/2,3402,"$9,041",Laurelhurst Elementary School,Laurelhurst Elementary School,Grant High School,1924
+16430 NW Mcnamee Rd,$366000,3,2,1848,"$4,590",Skyline Elementary School,Skyline Elementary School,Lincoln High School,1999
+8055 SE Bybee Blvd,$599000,3,1,2316,"$3,414",Woodmere Elementary School,Lane Middle School,Franklin High School,1914
+8357 SW 24th Ave,$364900,2,2,1162,"$5,351",Maplewood Elementary School,Jackson Middle School,Wilson High School,2005
+6837 N Montana Ave,$590000,2,1,1461,"$3,144",Chief Joseph/Ockley Green School,Ockley Green School,Jefferson or Roosevelt High Schools,1926
+3312 NE 48th Ave,$799500,4,3,3477,"$7,518",Alameda Elementary School,Beaumont Middle School,Grant High School,1924
+2820 N Willamette Blvd,$560000,4,2,2579,"$5,671",Beach Elementary School,Ockley Green School,Jefferson or Roosevelt High Schools,1928
+5170 SW Landing Dr ,$399000,2,2,1009,"$6,575",Capitol Hill Elementary School,Jackson Middle School,Wilson High School,1988
+8822 N Swenson St,$480000,4,3,2032,"$5,906",Sitton Elementary School,George Middle School,Roosevelt High School,2008
+14261 NE Shaver St,$339985,3,2F11/2,1836,"$5,444",Margaret Scott Elementary School,Hauton B Lee Middle School,Reynolds High School,1978
+6603 N Amherst St,$685500,4,3F11/2,3187,"$6,939",Astor Elementary School,Astor Elementary School,Roosevelt High School,1925
+529 NW 21st Ave,$760000,5,3,2891,"$7,303",Chapman Elementary School,West Sylvan Middle School,Lincoln High School,1900
+10812 SE Powell Blvd,$259000,1,1,960,"$1,153",Earl Boyles Elementary,Ron Russell Middle School,David Douglas High School,1950
+9748 NW Miller Hill Dr,$329900,2,2,1426,"$5,532",Forest Park Elementary School,West Sylvan Middle School,Lincoln High School,1995
+6111 SW Lesser Way,$499999,4,3F11/2,2780,"$7,803",Markham Elementary School,Jackson Middle School,Wilson High School,2002
+7118 SE 156th Ave,$479000,4,3,2426,"$7,119",Pleasant Valley Elementary School,Centennial Middle School,Centennial High School,1998
+4504 NE 95th Ave,$425800,2,1,1650,"$2,467",Prescott Elementary School,Parkrose Middle School,Parkrose High School,1926
+4812 NE Mallory Ave,$1999990,3,3,3486,"$2,320",King Elementary School,Harriet Tubman Middle School,Jefferson or Grant High Schools,1910
+195 N Lotus Beach Dr,$785000,3,3,2846,"$11,395",Faubion Elementary School,Faubion Elementary School,Jefferson or Roosevelt High Schools,1982
+6208 NE Killingsworth St,$699000,6,2,2650,"$10,094",Scott Elementary School,Roseway Heights School,Madison High School,1934
+154 N Hayden Bay Dr,$339777,2,1,952,"$4,146",Faubion Elementary School,Faubion Elementary School,Jefferson or Roosevelt High Schools,1983
+7244 SE Taylor St,$825000,4,3,2627,"$6,102",Bridger Elementary School,Bridger Elementary School,Franklin High School,1925
+1883 SW Vista Ave,$1925000,8,4F21/2,7870,"$33,986",Ainsworth Elementary School,West Sylvan Middle School,Lincoln High School,1908
+8427 SE Alder St,$279999,2,1,1100,"$3,876",Harrison Park School,Harrison Park School,Madison High School,1925
+3737 NE 135th Ave,$475000,5,3,3262,"$7,746",Shaver Elementary School,Parkrose Middle School,Parkrose High School,1964
+2506 SE Grant St,$915000,3,1,3284,"$7,554",Abernethy Elementary School,Hosford Middle School,Cleveland High School,1911
+1683 SE Linn St,$299900,2,1F11/2,948,"$3,917",Duniway Elementary School,Sellwood Middle School,Cleveland High School,1997
+1504 NE 57th Ave,$450000,4,2,2667,"$5,822",Rose City Park,Roseway Heights School,Madison High School,1940
+8520 SW 20th Ave,$599000,7,3,2772,"$7,637",Capitol Hill Elementary School,Jackson Middle School,Wilson High School,1989
+2397 SW Montgomery Dr,$899000,5,3F21/2,4603,"$14,664",Ainsworth Elementary School,West Sylvan Middle School,Lincoln High School,1914
+15324 NW Red Cedar Ct,$1115000,6,5F11/2,6100,"$18,360",Skyline Elementary School,Skyline Elementary School,Lincoln High School,2006
+10440 N Oswego Ave,$429900,4,1F11/2,1261,"$3,795",Sitton Elementary School,George Middle School,Roosevelt High School,1959
+4241 SW 41st Ave,$579950,3,3,2644,"$11,043",Bridlemile Elementary School,Gray Middle School,Wilson High School,1977
+2448 SW Commonwealth Ave,$2250000,5,3F31/2,5884,"$24,893",Ainsworth Elementary School,West Sylvan Middle School,Lincoln High School,1989
+3027 NW Montara Loop,$575000,3,3F11/2,2968,"$9,243",Forest Park Elementary School,West Sylvan Middle School,Lincoln High School,2000
+3401 SE Brooklyn St,$639000,3,2F11/2,2684,"$6,220",Grout Elementary School,Hosford Middle School,Cleveland High School,1909
+703 NE 79th Ave,$427000,8,3F11/2,3040,"$6,201",Vestal Elementary School,Roseway Heights School,Madison High School,1910
+2037 SE 90th Pl,$389000,4,2,1706,"$3,934",Harrison Park School,Harrison Park School,Madison High School,1972
+1826 NE Clackamas St,$889000,4,2F11/2,3076,"$8,048",Buckman Elementary School,Hosford Middle School,Cleveland High School,1917
+14439 SE Crystal St,$599900,5,4,4280,"$8,341",Pleasant Valley Elementary School,Centennial Middle School,Centennial High School,2007
+12804 E Burnside St,$339999,3,1,1325,"$3,570",Menlo Park Elementary School,Floyd Light Middle School,David Douglas High School,1953
+4031 NE 78th Ave,$429900,2,1,2058,"$4,865",Scott Elementary School,Roseway Heights School,Madison High School,1950
+2217 N Terry St,$439900,4,2,2228,"$3,191",Peninsula Elementary School,Ockley Green School,Jefferson or Roosevelt High Schools,1911
+6145 E Burnside St,$474000,3,2,2706,"$4,052",Glencoe Elementary School,Mt Tabor Middle School,Franklin High School,1900
+1722 SW Vista Ave,$1450000,4,3F11/2,3972,"$18,764",Ainsworth Elementary School,West Sylvan Middle School,Lincoln High School,1910
+3808 SW Mount Adams Dr,$1400000,5,3F11/2,5049,"$7,512",Ainsworth Elementary School,West Sylvan Middle School,Lincoln High School,1908
+2043 NE Tillamook St,$1650000,5,4F11/2,6767,"$18,200",Irvington Elementary School,Harriet Tubman Middle School,Jefferson High School / Grant High School,1911
+6049 NE Flanders St,$725000,5,4,2387,"$9,053",Glencoe Elementary School,Mt Tabor Middle School,Franklin High School,1915
+501 NE Bridgeton Rd ,$324900,3,2,1485,"$5,312",Faubion Elementary School,Faubion Elementary School,Jefferson or Roosevelt High Schools,1956
+1416 NW 24th Ave,$1295000,5,4,2949,"$17,180",Chapman Elementary School,West Sylvan Middle School,Lincoln High School,1896
+3546 SW Hillside Dr,$475000,2,2,1269,"$5,733",Bridlemile Elementary School,Gray Middle School,Wilson High School,1921
+40 SE 133rd Ave ,$349000,3,2,1688,"$3,626",Russell Elementary,Parkrose Middle School,Parkrose High School,1943
+6703 N Salem Ave,$309000,2,1F11/2,1059,"$3,955",James John Elementary School,George Middle School,Roosevelt High School,2008
+7246 SE 141st Ave,$549000,4,3F11/2,3570,"$7,976",Gilbert Park Elementary School,Alice Ott Middle School,David Douglas High School,1994
+8209 SE Pineridge Ct,$689888,5,5,3290,"$3,241",Gilbert Park Elementary School,Alice Ott Middle School,David Douglas High School,2019
+3240 SW Sherwood Pl,$650000,4,3F11/2,3425,"$12,116",Ainsworth Elementary School,West Sylvan Middle School,Lincoln High School,1964
+9323 SW 52nd Ave,$355000,2,1,704,"$3,921",Markham Elementary School,Jackson Middle School,Wilson High School,1951
+2709 SW Patton Ct,$650000,4,3,3071,"$13,051",Ainsworth Elementary School,West Sylvan Middle School,Lincoln High School,1963
+2021 SE Larch Ave,$639900,3,2,3163,"$6,499",Abernethy Elementary School,Hosford Middle School,Cleveland High School,1938
+707 NE Church St,$415000,3,1F11/2,1566,"$3,104",King Elementary School,Harriet Tubman Middle School,Jefferson or Grant High Schools,1999
+2624 NE Clackamas St,$679900,3,3,2818,"$6,839",Irvington Elementary School,Harriet Tubman Middle School,Jefferson High School / Grant High School,1928
+8327 SE Clatsop St,$469000,2,1F11/2,1636,"$3,608",Kelly Elementary School,Lane Middle School,Franklin High School,1910
+5115 SE Henderson St,$195000,1,1,494,"$1,691",Lewis Elementary School,Sellwood Middle School,Cleveland High School,1924
+8702 SW 41st Ave,$439900,4,2,2293,"$5,326",Maplewood Elementary School,Jackson Middle School,Wilson High School,1924
+3510 SW Sherwood Pl,$1498000,4,3F11/2,4383,"$26,192",Ainsworth Elementary School,West Sylvan Middle School,Lincoln High School,1962
+4405 SW Selling Ct,$975000,4,3F11/2,4161,"$18,909",Bridlemile Elementary School,Gray Middle School,Wilson High School,1990
+7523 SE 120th Pl,$524500,4,3,2996,"$9,552",Gilbert Park Elementary School,Alice Ott Middle School,David Douglas High School,2005
+12336 SE Stephens St,$355900,3,1,1526,"$3,129",Mill Park Elementary School,Ron Russell Middle School,David Douglas High School,1946
+11652 SW 31st Ct,$849900,6,2F11/2,4447,"$15,862",Stephenson Elementary School,Jackson Middle School,Wilson High School,1996
+429 NW Skyline Blvd,$2450000,5,3,5394,"$17,660",Forest Park Elementary School,West Sylvan Middle School,Lincoln High School,1928
+314 N Hayden Bay Dr,$449000,2,3,1927,"$7,057",Faubion Elementary School,Faubion Elementary School,Jefferson or Roosevelt High Schools,1973
+14125 NW Germantown Rd,$4000000,5,5F11/2,13000,"$47,750",Skyline Elementary School,Skyline Elementary School,Lincoln High School,1967
+2417 NE Dekum St,$339000,3,1,880,"$3,177",Faubion Elementary School,Faubion Elementary School,Jefferson or Madison High Schools,1981
+17448 SE Marie St,$285000,2,1,1428,"$2,248",Meadows Elementary School,Centennial Middle School,Centennial High School,1925
+2324 NW Pinnacle Dr,$1498000,4,3F11/2,5606,"$20,561",Forest Park Elementary School,West Sylvan Middle School,Lincoln High School,2001
+3735 SE Martins St,$1200000,9,7F31/2,6345,"$17,015",Duniway Elementary School,Sellwood Middle School,Cleveland High School,1991
+3336 NE Cadet Ave,$649000,3,3,4346,"$9,665",Lee Elementary School,Roseway Heights School,Madison High School,1969
+3506 NE 145th Ave,$654000,4,3,3376,"$7,138",Margaret Scott Elementary School,Hauton B Lee Middle School,Reynolds High School,1969
+6330 SW Sweetbriar Ct,$1998000,6,5,6238,"$23,618",Bridlemile Elementary School,West Sylvan Middle School,Lincoln High School,2005
+5135 NW Saint Helens Rd,$777000,3,1,2784,"$4,519",Skyline Elementary School,Skyline Elementary School,Lincoln High School,1937
+3129 NE Rocky Butte Rd,$870000,3,3,3431,"$11,206",Lee Elementary School,Roseway Heights School,Madison High School,1979
+531 N Bridgeton Rd ,$317000,1,1,831,$0,Faubion Elementary School,Faubion Elementary School,Jefferson or Roosevelt High Schools,2000
+4425 SW 47th Dr,$1035000,6,3F11/2,4044,"$16,554",Bridlemile Elementary School,Gray Middle School,Wilson High School,2016
+9328 SW 30th Ave,$639000,6,4,4308,"$10,381",Capitol Hill Elementary School,Jackson Middle School,Wilson High School,2010
+4470 SE 12th Ave,$475000,2,1,1356,"$2,583",Grout Elementary School,Hosford Middle School,Cleveland High School,1956
+3369 NE 162nd Ave,$149990,2,1,892,"$1,385",Margaret Scott Elementary School,Hauton B Lee Middle School,Reynolds High School,1979
+9129 NE Webster St,$269000,3,1,2043,"$2,793",Shaver Elementary School,Parkrose Middle School,Parkrose High School,1911
+2630 N Hayden Island Dr ,$329000,2,2,1350,"$41,782",Faubion Elementary School,Faubion Elementary School,Jefferson or Roosevelt High Schools,1997
+3438 SE Tolman St,$659000,4,2,3035,"$8,914",Duniway Elementary School,Sellwood Middle School,Cleveland High School,1937
+10320 NE 6th Dr,$310000,2,1F11/2,2388,"$4,699",Faubion Elementary School,Faubion Elementary School,Jefferson or Roosevelt High Schools,1943
+8426 SE Lambert St,$349950,3,1F11/2,1863,"$3,694",Kelly Elementary School,Lane Middle School,Franklin High School,1930
+365 N Lotus Beach Dr,$750000,2,2F11/2,3288,"$12,032",Faubion Elementary School,Faubion Elementary School,Jefferson or Roosevelt High Schools,1982
+9912 NW Wind Ridge Dr,$8650000,4,4F41/2,11807,"$87,591",Forest Park Elementary School,West Sylvan Middle School,Lincoln High School,2001
+5820 N Maryland Ave,$429900,2,1,783,"$2,508",Beach Elementary School,Ockley Green School,Jefferson or Roosevelt High Schools,1955
+10238 NW Langworthy Ter,$1349000,4,4F21/2,4601,"$17,324",Forest Park Elementary School,West Sylvan Middle School,Lincoln High School,2014
+2454 SW Arden Rd,$669000,3,2,2840,"$9,435",Ainsworth Elementary School,West Sylvan Middle School,Lincoln High School,1910
+1625 NW Johnson St,$879900,3,4,2996,"$8,943",Chapman Elementary School,West Sylvan Middle School,Lincoln High School,1906
+2807 SW Plum Ct,$549900,5,3,2680,"$7,662",Stephenson Elementary School,Jackson Middle School,Wilson High School,1969
+11020 NW Laidlaw Rd,$1350000,6,5F11/2,5613,"$15,673",Bonny Slope Elementary School,Cedar Park Middle School,Sunset High School,2005
+4450 W Burnside Rd,$1500000,5,3F11/2,3858,"$15,991",Ainsworth Elementary School,West Sylvan Middle School,Lincoln High School,2011
+10640 NE Beech St,$740000,5,2,2540,"$5,569",Prescott Elementary School,Parkrose Middle School,Parkrose High School,1914
+3939 N Marine Dr ,$429900,2,2,1576,"$11,075",Faubion Elementary School,Faubion Elementary School,Jefferson or Roosevelt High Schools,1981
+5335 SW Patton Rd,$6975000,4,5F21/2,8162,"$38,872",Bridlemile Elementary School,Gray Middle School,Wilson High School,1971
+18655 NW Sauvie Island Rd,$899000,3,3,2888,"$7,280",Sauvie Island Academy,Sauvie Island Academy,Scappoose High School,1992
+9334 N Tyler Ave,$172900,2,1,879,"$1,550",James John Elementary School,George Middle School,Roosevelt High School,1905
+408 NE 76th Ave,$559950,4,2,2242,"$6,188",Vestal Elementary School,Roseway Heights School,Madison High School,1906
+3368 SW Fairmount Blvd,$645000,3,2F11/2,2626,"$9,541",Rieke Elementary School,Gray Middle School,Wilson High School,1923
+310 NW Maywood Dr,$995000,4,3F11/2,3348,"$18,108",Chapman Elementary School,West Sylvan Middle School,Lincoln High School,1929
+14804 NW Red Cedar Ct,$1125000,4,4F11/2,4645,"$17,315",Skyline Elementary School,Skyline Elementary School,Lincoln High School,2017
+11728 SW Summerville Ave,$1980000,6,6F21/2,7667,"$37,408",Riverdale Grade School,Riverdale Grade School,Riverdale High School,1979
+7623 SE 110th Ave,$490000,6,2F11/2,3225,"$6,727",Gilbert Park Elementary School,Alice Ott Middle School,David Douglas High School,1990
+7504 SE 28th Ave,$639000,4,2,2469,"$9,681",Duniway Elementary School,Sellwood Middle School,Cleveland High School,1928
+800 NW Powhatan Ter,$1499900,4,4F11/2,5425,"$22,292",Chapman Elementary School,West Sylvan Middle School,Lincoln High School,1956
+5109 SE 46th Ave,$624900,8,4,5021,"$8,414",Woodstock Elementary School,Hosford Middle School,Cleveland High School,1952
+1380 SW Carson St,$824900,5,2F11/2,2668,"$3,941",Capitol Hill Elementary School,Jackson Middle School,Wilson High School,1944
+1368 SW Carson St,$874900,5,3,2950,"$3,941",Capitol Hill Elementary School,Jackson Middle School,Wilson High School,1944
+2393 SW Park Pl ,$499000,2,2,1092,"$8,214",Ainsworth Elementary School,West Sylvan Middle School,Lincoln High School,1964
+2646 NW Cornell Rd,$1475000,4,4F21/2,5331,"$22,479",Chapman Elementary School,West Sylvan Middle School,Lincoln High School,1909
+4318 SW Fairview Circus,$2200000,4,3F21/2,4817,"$41,459",Ainsworth Elementary School,West Sylvan Middle School,Lincoln High School,1965
+2972 SW Champlain Dr,$677000,3,2,2140,"$10,731",Ainsworth Elementary School,West Sylvan Middle School,Lincoln High School,1924
+1111 SE 144th Ave,$329900,4,2,1796,"$3,602",Parklane Elementary School,Centennial Middle School,Centennial High School,1950
+1011 NW Glisan St ,$1450000,2,2,2474,"$7,008",Chapman Elementary School,West Sylvan Middle School,Lincoln High School,1905
+22505 NW Gillihan Rd,$899000,5,3,3855,"$9,426",Sauvie Island Academy,Sauvie Island Academy,Scappoose High School,1975
+6440 SW Parkhill Way,$849900,3,2F11/2,3215,"$13,153",Rieke Elementary School,Gray Middle School,Wilson High School,1937
+10615 SW 42nd Ave,$775000,3,2,3660,"$11,213",Markham Elementary School,Jackson Middle School,Wilson High School,1963
+4077 SW Kanan Dr,$799000,5,4,3035,"$10,293",Hayhurst Elementary School,Gray Middle School,Wilson High School,1995
+23586 NW Saint Helens Rd ,$315000,2,2,1100,"$4,356",Grant Watts Elementary School,Scappoose Middle School,Scappoose High School,1997
+6248 N Concord Ave,$799000,6,4F11/2,2966,"$10,839",Chief Joseph/Ockley Green School,Ockley Green School,Jefferson or Roosevelt High Schools,2017
+1816 NE Saratoga St,$599900,6,2F11/2,3592,"$5,509",Faubion Elementary School,Faubion Elementary School,Jefferson or Madison High Schools,1949
+1525 NE Marine Dr,$2998000,5,5F11/2,6310,"$36,571",Faubion Elementary School,Faubion Elementary School,Jefferson or Roosevelt High Schools,2005
+2405 SE 156th Ave,$469900,4,2F11/2,1936,"$4,874",Parklane Elementary School,Centennial Middle School,Centennial High School,1961
+1436 SE 148th Ave,$255000,3,1,976,"$2,222",Parklane Elementary School,Centennial Middle School,Centennial High School,1938
+785 NE Jessup St,$739000,4,3F11/2,2667,"$7,562",King Elementary School,Harriet Tubman Middle School,Jefferson or Grant High Schools,1890
+2424 SW Montgomery Dr,$4985000,7,5F31/2,14335,"$83,454",Ainsworth Elementary School,West Sylvan Middle School,Lincoln High School,1918
+13616 NW Glendoveer Dr,$1899000,4,4F31/2,7038,"$29,831",Skyline Elementary School,Skyline Elementary School,Lincoln High School,1999
+1903 SE 29th Ave,$1175000,4,3F11/2,2740,"$11,233",Abernethy Elementary School,Hosford Middle School,Cleveland High School,1915
+23586 NW St. Helens Rd,$359000,2,2,1300,"$4,356",Grant Watts Elementary School,Scappoose Middle School,Scappoose High School,1997
+11355 SW Northgate Ct,$1775000,5,5F11/2,6772,"$30,145",Riverdale Grade School,Riverdale Grade School,Riverdale High School,1991
+2323 SW Park Pl ,$230000,2,2,1210,"$298,407",Ainsworth Elementary School,West Sylvan Middle School,Lincoln High School,1960
+3932 SE 16th Ave,$338500,3,2,1230,"$5,366",Grout Elementary School,Hosford Middle School,Cleveland High School,1995
+3932 SE Gladstone St,$449900,2,1,1782,"$4,288",Grout Elementary School,Hosford Middle School,Cleveland High School,1909
+12113 SE Foster Rd,$825000,5,2,4848,$0,Earl Boyles Elementary,Ron Russell Middle School,David Douglas High School,1930
+11010 SW Tryon Ave,$1599000,4,4F11/2,4644,"$15,674",Riverdale Grade School,Riverdale Grade School,Riverdale High School,1994
+905 N Harbour Dr ,$499000,4,4,2664,"$8,026",Faubion Elementary School,Faubion Elementary School,Jefferson or Roosevelt High Schools,2000
+4341 NE 92nd Ave,$360000,3,2,1919,"$4,280",Russell Elementary,Parkrose Middle School,Parkrose High School,1925
+7704 NW Skyline Blvd,$399000,2,1,936,"$4,738",Skyline Elementary School,Skyline Elementary School,Lincoln High School,1941
+1610 NW Mayfield Rd,$650000,3,2F11/2,2306,"$9,789",Forest Park Elementary School,West Sylvan Middle School,Lincoln High School,1993
+807 N Alberta St,$599999,4,2F11/2,2730,"$5,320",Beach Elementary School,Ockley Green School,Jefferson or Roosevelt High Schools,1910
+8308 SE Hawthorne Blvd,$289900,2,1F11/2,878,"$2,604",Harrison Park School,Harrison Park School,Madison High School,1912
+1503 NE Schuyler St,$1750000,8,9F11/2,9212,"$24,078",Irvington Elementary School,Harriet Tubman Middle School,Jefferson High School / Grant High School,1906
+4932 SW Slavin Rd,$419900,3,2F11/2,2252,"$7,051",Capitol Hill Elementary School,Jackson Middle School,Wilson High School,2005
+2243 NE 11th Ave,$1052000,6,3F11/2,4091,"$9,434",Irvington Elementary School,Harriet Tubman Middle School,Jefferson High School / Grant High School,1906
+620 N Hayden Bay Dr,$439900,3,1F11/2,1816,"$6,765",Faubion Elementary School,Faubion Elementary School,Jefferson or Roosevelt High Schools,1971
+5045 SE Ramona St,$774900,4,3F11/2,2533,"$6,370",Woodstock Elementary School,Hosford Middle School,Cleveland High School,1915
+4642 NE Sumner St,$474000,1,1,1532,"$3,930",Vernon Elementary School,Vernon Elementary School,Jefferson or Madison High Schools,1926
+3146 SW Fairmount Blvd,$1425000,5,4F11/2,5188,"$22,484",Rieke Elementary School,Gray Middle School,Wilson High School,2006
+5015 SW Dosch Rd,$850000,6,3,3802,"$9,244",Bridlemile Elementary School,Gray Middle School,Wilson High School,1907
+8270 SW 8th Ave,$789900,4,3,2621,"$3,809",Capitol Hill Elementary School,Jackson Middle School,Wilson High School,1949
+5114 NE 109th Ave,$235000,2,1,727,"$1,310",Shaver Elementary School,Parkrose Middle School,Parkrose High School,1947
+2744 SW Sherwood Dr,$1300000,4,3,5882,"$19,417",Ainsworth Elementary School,West Sylvan Middle School,Lincoln High School,1948
+921 SW Davenport St,$1449000,4,3F11/2,3950,"$25,734",Ainsworth Elementary School,West Sylvan Middle School,Lincoln High School,1964
+11325 NW Laidlaw Rd,$649000,3,1,2575,"$6,264",Bonny Slope Elementary School,Cedar Park Middle School,Sunset High School,1932
+7240 NW Summitview Dr,$1125000,6,4F11/2,5536,"$13,046",Forest Park Elementary School,West Sylvan Middle School,Lincoln High School,1997
+2351 SE 156th Ave,$315000,2,1,1436,"$4,549",Parklane Elementary School,Centennial Middle School,Centennial High School,1900
+534 NE 67th Ave,$474950,5,2,2123,"$3,449",Vestal Elementary School,Roseway Heights School,Madison High School,1908
+1815 SW Montgomery Dr,$2095000,4,3F11/2,6174,"$34,829",Ainsworth Elementary School,West Sylvan Middle School,Lincoln High School,1914
+720 NW Warrenton Ter,$1495000,4,3F11/2,5248,"$23,675",Chapman Elementary School,West Sylvan Middle School,Lincoln High School,1930
+6822 N Interstate Ave,$324900,2,1,750,"$2,400",Chief Joseph/Ockley Green School,Ockley Green School,Jefferson or Roosevelt High Schools,1926
+14616 NW Rock Creek Rd,$690000,4,3,2329,"$5,567",Skyline Elementary School,Skyline Elementary School,Lincoln High School,1993
+2524 NW Skyline Blvd,$1599000,3,4,4625,"$23,710",Forest Park Elementary School,West Sylvan Middle School,Lincoln High School,1995
+16501 SE Powell Blvd,$349000,3,1,960,"$3,136",Powell Butte Elementary School,Centennial Middle School,Centennial High School,1925
+14025 NW Charlton Rd,$1295000,6,4,4673,"$7,336",Sauvie Island Academy,Sauvie Island Academy,Scappoose High School,1975
+1822 NE 47th Ave,$623900,4,3,3144,"$5,719",Rose City Park,Roseway Heights School,Madison High School,1919
+7701 SE 162nd Ave,$799900,3,3F11/2,3468,"$15,080",Pleasant Valley Elementary School,Centennial Middle School,Centennial High School,1935
+9025 NE Sandy Blvd,$998999,2,1,834,"$1,952",Russell Elementary,Parkrose Middle School,Parkrose High School,1925
+3638 NE 158th Ave,$249900,3,2F11/2,1286,"$3,438",Margaret Scott Elementary School,Hauton B Lee Middle School,Reynolds High School,2003
